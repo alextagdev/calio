@@ -94,7 +94,7 @@ export default function Navbar() {
         <div className="section-container flex items-center justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2.5 group flex-shrink-0 mr-8">
-            <span className="text-xl font-light tracking-[0.35em] text-[#f5f5f0]">CALIO</span>
+            <span className="text-2xl font-light tracking-[0.35em] text-[#f5f5f0]">CALIO</span>
             <span className="w-1.5 h-1.5 rounded-full bg-[#c8a96e] group-hover:scale-125 transition-transform duration-300" />
           </Link>
 
@@ -110,7 +110,7 @@ export default function Navbar() {
                 >
                   <Link
                     href={item.href ?? "#"}
-                    className="flex items-center gap-1 px-4 py-2 text-[11px] tracking-[0.16em] uppercase text-[#7a7a7a] hover:text-[#f5f5f0] transition-colors duration-250 whitespace-nowrap"
+                    className="flex items-center gap-1 px-4 py-2 text-[10px] tracking-[0.16em] uppercase text-[#6e7a82] hover:text-[#c4cdd4] transition-colors duration-250 whitespace-nowrap"
                   >
                     {item.label}
                     <ChevronDown
@@ -164,7 +164,7 @@ export default function Navbar() {
                 <Link
                   key={item.label}
                   href={item.href ?? "#"}
-                  className="px-4 py-2 text-[11px] tracking-[0.16em] uppercase text-[#7a7a7a] hover:text-[#f5f5f0] transition-colors duration-250 whitespace-nowrap"
+                  className="px-4 py-2 text-[10px] tracking-[0.16em] uppercase text-[#6e7a82] hover:text-[#c4cdd4] transition-colors duration-250 whitespace-nowrap"
                 >
                   {item.label}
                 </Link>
@@ -205,7 +205,7 @@ export default function Navbar() {
           >
             <div className="flex items-center justify-between px-6 py-5 border-b border-[#1a1a1a]">
               <Link href="/" className="flex items-center gap-2" onClick={() => setMenuOpen(false)}>
-                <span className="text-xl font-light tracking-[0.35em] text-[#f5f5f0]">CALIO</span>
+                <span className="text-2xl font-light tracking-[0.35em] text-[#f5f5f0]">CALIO</span>
                 <span className="w-1.5 h-1.5 rounded-full bg-[#c8a96e]" />
               </Link>
               <button onClick={() => setMenuOpen(false)} className="text-[#555] hover:text-[#f5f5f0] transition-colors">
