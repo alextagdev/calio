@@ -201,7 +201,7 @@ export default function Navbar() {
             animate={{ opacity: 1, x: 0 }}
             exit={{ opacity: 0, x: "100%" }}
             transition={{ duration: 0.4, ease: [0.25, 0.46, 0.45, 0.94] }}
-            className="fixed inset-0 z-40 bg-[#080808] overflow-y-auto"
+            className="fixed inset-0 z-[60] bg-[#080808] overflow-y-auto"
           >
             <div className="flex items-center justify-between px-6 py-5 border-b border-[#1a1a1a]">
               <Link href="/" className="flex items-center gap-2" onClick={() => setMenuOpen(false)}>
