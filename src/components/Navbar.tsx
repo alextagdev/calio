@@ -93,7 +93,7 @@ export default function Navbar() {
       >
         <div className="section-container flex items-center justify-between">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-2.5 group flex-shrink-0 mr-8">
+          <Link href="/" className="flex items-center gap-2.5 group flex-shrink-0 xl:mr-8">
             <span className="text-2xl font-light tracking-[0.35em] text-[#f5f5f0]">CALIO</span>
             <span className="w-1.5 h-1.5 rounded-full bg-[#c8a96e] group-hover:scale-125 transition-transform duration-300" />
           </Link>
@@ -184,7 +184,7 @@ export default function Navbar() {
 
           {/* Mobile hamburger */}
           <button
-            className="xl:hidden text-[#f5f5f0] p-1 ml-auto"
+            className="xl:hidden text-[#f5f5f0] p-2 ml-auto"
             onClick={() => setMenuOpen(!menuOpen)}
             aria-label="Meniu"
           >
