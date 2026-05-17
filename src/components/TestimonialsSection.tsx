@@ -10,7 +10,7 @@ const testimonials = [
     name: "Alexandru Ionescu",
     role: "Arhitect, Studio IO",
     text: "Calio este partenerul perfect pentru proiectele de înaltă exigență. Toleranțele sunt impecabile, comunicarea este excelentă și livrarea este mereu la termen. Am lucrat cu ei pe 12 proiecte și nu m-au dezamăgit niciodată.",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&q=80",
+    initials: "AI",
     project: "Vilă Snagov, 2024",
   },
   {
@@ -18,7 +18,7 @@ const testimonials = [
     name: "Mihaela Popescu",
     role: "Developer imobiliar",
     text: "Am ales Calio pentru 3 proiecte rezidențiale premium. Calitatea produselor este comparabilă cu furnizori vest-europeni, dar cu o flexibilitate mult mai mare în personalizare și cu timp de răspuns rapid.",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=120&q=80",
+    initials: "MP",
     project: "Complex rezidențial, 2023",
   },
   {
@@ -26,7 +26,7 @@ const testimonials = [
     name: "Radu Dumitrescu",
     role: "Constructor general",
     text: "Cel mai bun furnizor de tâmplărie cu care am lucrat în România. Documentația tehnică este completă, montajul este rapid și rezultatul final arată exact ca în randări.",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=120&q=80",
+    initials: "RD",
     project: "Sediu corporat, 2023",
   },
 ];
@@ -75,10 +75,9 @@ export default function TestimonialsSection() {
               </p>
 
               <div className="flex items-center justify-center gap-4">
-                <div
-                  className="w-14 h-14 rounded-full bg-cover bg-center border border-[#272727] flex-shrink-0"
-                  style={{ backgroundImage: `url(${t.image})` }}
-                />
+                <div className="w-14 h-14 rounded-full border border-[#c8a96e]/40 flex-shrink-0 flex items-center justify-center bg-[#1a1a1a]">
+                  <span className="text-sm font-light text-[#c8a96e] tracking-wider">{t.initials}</span>
+                </div>
                 <div className="text-left">
                   <p className="text-sm font-medium text-[#f0f0f0]">{t.name}</p>
                   <p className="text-xs text-[#555] mt-0.5">{t.role}</p>

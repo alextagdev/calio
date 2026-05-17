@@ -16,7 +16,7 @@ const systems = [
       { label: "Permeabilitate aer", value: "Clasa 4" },
       { label: "Etanșeitate apă", value: "Clasa 9A" },
     ],
-    image: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1200&q=85",
+    image: "/images/fatada-rezidentiala-balustrade-1.jpeg",
     color: "#c8a96e",
   },
   {
@@ -31,7 +31,7 @@ const systems = [
       { label: "Factor solar", value: "g = 0.26" },
       { label: "Transmisie lum.", value: "TL = 72%" },
     ],
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=85",
+    image: "/images/balustrada-sticla-balcon-1.jpeg",
     color: "#8fb8d4",
   },
   {
@@ -46,7 +46,7 @@ const systems = [
       { label: "Izolare fonică", value: "45 dB" },
       { label: "Certificare", value: "Passive House" },
     ],
-    image: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=1200&q=85",
+    image: "/images/balustrada-sticla-scari-interior-3.jpeg",
     color: "#7ab87a",
   },
 ];

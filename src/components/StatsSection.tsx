@@ -50,7 +50,7 @@ export default function StatsSection() {
       {/* Background image */}
       <div
         className="absolute inset-0 opacity-[0.06] bg-cover bg-center"
-        style={{ backgroundImage: `url("https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=30")` }}
+        style={{ backgroundImage: `url("/images/balustrada-sticla-scari-plutitoare-1.jpeg")` }}
       />
       <div className="absolute inset-0 bg-gradient-to-r from-[#0d0d0d] via-transparent to-[#0d0d0d]" />
 

@@ -11,7 +11,7 @@ const products = [
     name: "Ferestre Minimale",
     description:
       "Profiluri ultra-subțiri din aluminiu cu izolare termică superioară. Ramă de maximum 18mm pentru un aspect pur și luminos.",
-    image: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=900&q=85",
+    image: "/images/fatada-rezidentiala-balustrade-1.jpeg",
     features: ["Profil 18mm", "Tripan Low-E", "Uf = 0.8 W/m²K"],
     accent: "#c8a96e",
   },
@@ -21,7 +21,7 @@ const products = [
     name: "Uși Glisante Floor-to-Ceiling",
     description:
       "Sisteme glisante panoramice fără prag. Îmbinare perfectă între spațiile interioare și exterioare.",
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=900&q=85",
+    image: "/images/balustrada-sticla-balcon-1.jpeg",
     features: ["Fără prag", "Deschidere 6m+", "Sticlă securizată"],
     accent: "#8fb8d4",
   },
@@ -31,7 +31,7 @@ const products = [
     name: "Ferestre PVC Premium",
     description:
       "Sisteme PVC cu 7 camere pentru izolație termică și fonică maximă. Ideal pentru clădiri rezidențiale.",
-    image: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=900&q=85",
+    image: "/images/balustrada-sticla-scari-interior-3.jpeg",
     features: ["7 camere", "Uw = 0.7 W/m²K", "Fonoire 45dB"],
     accent: "#7ab87a",
   },
@@ -41,7 +41,7 @@ const products = [
     name: "Fațadă Cortină",
     description:
       "Sisteme de fațadă unitizată pentru clădiri comerciale și rezidențiale de înaltă clasă.",
-    image: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=900&q=85",
+    image: "/images/balustrada-sticla-scari-plutitoare-1.jpeg",
     features: ["Unitizată", "Structural glazing", "Certificare CE"],
     accent: "#c8a96e",
   },
@@ -51,7 +51,7 @@ const products = [
     name: "Balustrade din Sticlă",
     description:
       "Balustrade din sticlă laminată securizată pentru balcoane, scări interioare și terase.",
-    image: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=900&q=85",
+    image: "/images/balustrada-sticla-scari-exterioare-1.jpeg",
     features: ["VSG 8.8", "Fără montant", "Interior/Exterior"],
     accent: "#8fb8d4",
   },
@@ -61,7 +61,7 @@ const products = [
     name: "Uși Pivotante",
     description:
       "Uși de intrare cu sistem pivot pentru o intrare spectaculoasă. Dimensiuni până la 1.2m x 3m.",
-    image: "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=900&q=85",
+    image: "/images/fatada-rezidentiala-balustrade-2.jpeg",
     features: ["Pivot central", "până la 3m înălțime", "Control acces"],
     accent: "#7ab87a",
   },

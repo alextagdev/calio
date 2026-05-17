@@ -6,7 +6,7 @@ import { motion, AnimatePresence } from "framer-motion";
 const slides = [
   {
     id: 1,
-    image: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1920&q=85",
+    image: "/images/fatada-rezidentiala-balustrade-1.jpeg",
     title: "Ferestre din\nAluminiu",
     subtitle: "Precizie și eleganță pentru arhitectura modernă",
     tag: "Sisteme Aluminiu",
@@ -20,14 +20,14 @@ const slides = [
   },
   {
     id: 3,
-    image: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=1920&q=85",
+    image: "/images/balustrada-sticla-scari-interior-3.jpeg",
     title: "Sisteme PVC\nPremium",
     subtitle: "Izolare termică și fonică de excepție",
     tag: "Sisteme PVC",
   },
   {
     id: 4,
-    image: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1920&q=85",
+    image: "/images/balustrada-sticla-scari-exterioare-1.jpeg",
     title: "Fațade\nCortină",
     subtitle: "Soluții integrate pentru clădiri contemporane",
     tag: "Fațade",

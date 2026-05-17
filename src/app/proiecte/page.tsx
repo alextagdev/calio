@@ -10,7 +10,7 @@ export default function Page() {
       <PageHero
         title="Proiectele Noastre"
         subtitle="Lucrări realizate în toată România, pentru clienți exigenți"
-        image="https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=85"
+        image="/images/balustrada-sticla-scari-plutitoare-1.jpeg"
         breadcrumbs={[{ label: "Proiecte" }]}
       />
       <div className="[&_section]:!pt-12">

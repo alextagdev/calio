@@ -61,7 +61,7 @@ export default function ContactSection() {
             <div className="relative h-44 border border-[#1e1e1e] overflow-hidden">
               <div
                 className="absolute inset-0 bg-cover bg-center opacity-25"
-                style={{ backgroundImage: `url("https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=600&q=40")` }}
+                style={{ backgroundImage: `url("/images/balustrada-sticla-scari-interior-2.jpeg")` }}
               />
               <div className="absolute inset-0 bg-[#0d0d0d]/60" />
               <div className="absolute inset-0 flex items-center justify-center">

@@ -43,7 +43,7 @@ export const pages: Record<string, PageData> = {
     slug: "tamplarie-aluminiu/usi-ferestre",
     title: "Uși și Ferestre din Aluminiu",
     subtitle: "Design modern, performanță dovedită",
-    heroImage: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1920&q=85",
+    heroImage: "/images/fatada-rezidentiala-balustrade-1.jpeg",
     heroBadge: "Tâmplărie Aluminiu",
     intro: "Ușile și ferestrele batante din aluminiu sunt mult mai eficiente decât soluțiile clasice.",
     description:
@@ -67,10 +67,10 @@ export const pages: Record<string, PageData> = {
       { label: "Termen montaj", value: "30 zile" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=85", alt: "Ferestre aluminiu exterior" },
-      { src: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=85", alt: "Ferestre interior modern" },
-      { src: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=85", alt: "Detaliu profil aluminiu" },
-      { src: "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&q=85", alt: "Ansamblu ferestre vilă" },
+      { src: "/images/fatada-rezidentiala-balustrade-1.jpeg", alt: "Ferestre aluminiu exterior" },
+      { src: "/images/balustrada-sticla-scari-interior-3.jpeg", alt: "Ferestre interior modern" },
+      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Detaliu profil aluminiu" },
+      { src: "/images/fatada-rezidentiala-balustrade-2.jpeg", alt: "Ansamblu ferestre vilă" },
     ],
   },
 
@@ -78,7 +78,7 @@ export const pages: Record<string, PageData> = {
     slug: "tamplarie-aluminiu/usi-glisante",
     title: "Uși Glisante din Aluminiu",
     subtitle: "Deschidere totală, luminozitate maximă",
-    heroImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=85",
+    heroImage: "/images/balustrada-sticla-balcon-1.jpeg",
     heroBadge: "Tâmplărie Aluminiu",
     intro: "O soluție elegantă și inovatoare pentru utilizarea unui spațiu mai mare.",
     description:
@@ -102,10 +102,10 @@ export const pages: Record<string, PageData> = {
       { label: "Servicii", value: "Livrare + montaj" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=85", alt: "Uși glisante terasa" },
-      { src: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=85", alt: "Interior cu uși glisante" },
-      { src: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=85", alt: "Ușă glisantă panoramică" },
-      { src: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=85", alt: "Sistem glisant modern" },
+      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Uși glisante terasa" },
+      { src: "/images/fatada-rezidentiala-balustrade-1.jpeg", alt: "Interior cu uși glisante" },
+      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Ușă glisantă panoramică" },
+      { src: "/images/balustrada-sticla-scari-interior-3.jpeg", alt: "Sistem glisant modern" },
     ],
   },
 
@@ -113,7 +113,7 @@ export const pages: Record<string, PageData> = {
     slug: "tamplarie-aluminiu/usi-armonice",
     title: "Uși Armonice din Aluminiu",
     subtitle: "Flexibilitate maximă, soluție fără compromisuri",
-    heroImage: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=85",
+    heroImage: "/images/balustrada-sticla-scari-plutitoare-1.jpeg",
     heroBadge: "Tâmplărie Aluminiu",
     intro: "Ușile armonice din aluminiu elimină barierele dintre interior și exterior.",
     description:
@@ -137,10 +137,10 @@ export const pages: Record<string, PageData> = {
       { label: "Ghidaj", value: "Inferior / Superior" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=85", alt: "Uși armonice exterior" },
-      { src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=85", alt: "Sistem armonic deschis" },
-      { src: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=85", alt: "Interior cu armonic" },
-      { src: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=85", alt: "Detaliu armonic aluminiu" },
+      { src: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", alt: "Uși armonice exterior" },
+      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Sistem armonic deschis" },
+      { src: "/images/fatada-rezidentiala-balustrade-1.jpeg", alt: "Interior cu armonic" },
+      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Detaliu armonic aluminiu" },
     ],
   },
 
@@ -148,7 +148,7 @@ export const pages: Record<string, PageData> = {
     slug: "tamplarie-aluminiu/usi-intrare",
     title: "Uși de Intrare din Aluminiu",
     subtitle: "Prima impresie contează",
-    heroImage: "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=1920&q=85",
+    heroImage: "/images/fatada-rezidentiala-balustrade-2.jpeg",
     heroBadge: "Tâmplărie Aluminiu",
     intro: "Ușile de intrare din aluminiu combină securitatea maximă cu un design impresionant.",
     description:
@@ -172,10 +172,10 @@ export const pages: Record<string, PageData> = {
       { label: "Termen montaj", value: "30 zile" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&q=85", alt: "Ușă de intrare modernă" },
-      { src: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=85", alt: "Ușă pivot" },
-      { src: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=85", alt: "Detaliu mâner intrare" },
-      { src: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=85", alt: "Intrare representativă" },
+      { src: "/images/fatada-rezidentiala-balustrade-2.jpeg", alt: "Ușă de intrare modernă" },
+      { src: "/images/fatada-rezidentiala-balustrade-1.jpeg", alt: "Ușă pivot" },
+      { src: "/images/balustrada-sticla-scari-interior-3.jpeg", alt: "Detaliu mâner intrare" },
+      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Intrare representativă" },
     ],
   },
 
@@ -185,7 +185,7 @@ export const pages: Record<string, PageData> = {
     slug: "pereti-cortina",
     title: "Pereți Cortină",
     subtitle: "Fațade contemporane, posibilități nelimitate",
-    heroImage: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=85",
+    heroImage: "/images/balustrada-sticla-scari-plutitoare-1.jpeg",
     heroBadge: "Fațade",
     intro: "Pereții cortină sunt soluția ideală pentru a oferi unei clădiri un aspect unic și modern.",
     description:
@@ -209,10 +209,10 @@ export const pages: Record<string, PageData> = {
       { label: "Servicii", value: "Proiectare + montaj" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=85", alt: "Perete cortină clădire birouri" },
-      { src: "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&q=85", alt: "Fațadă cortină modernă" },
-      { src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=85", alt: "Detaliu structural glazing" },
-      { src: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=85", alt: "Perete cortină interior" },
+      { src: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", alt: "Perete cortină clădire birouri" },
+      { src: "/images/balustrada-sticla-scari-interior-1.jpeg", alt: "Fațadă cortină modernă" },
+      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Detaliu structural glazing" },
+      { src: "/images/fatada-rezidentiala-balustrade-1.jpeg", alt: "Perete cortină interior" },
     ],
   },
 
@@ -222,7 +222,7 @@ export const pages: Record<string, PageData> = {
     slug: "fatade-ventilate",
     title: "Fațade Ventilate",
     subtitle: "Protecție, estetică și eficiență energetică",
-    heroImage: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=85",
+    heroImage: "/images/balustrada-sticla-scari-plutitoare-1.jpeg",
     heroBadge: "Fațade",
     intro: "Sisteme de fațade ventilate testate și certificate pentru clădiri moderne.",
     description:
@@ -246,10 +246,10 @@ export const pages: Record<string, PageData> = {
       { label: "Termen montaj", value: "La comandă" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=85", alt: "Fațadă ventilată clădire" },
-      { src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=85", alt: "Panouri HPL instalate" },
-      { src: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=85", alt: "Detaliu fațadă Bond" },
-      { src: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=85", alt: "Fațadă fibrociment" },
+      { src: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", alt: "Fațadă ventilată clădire" },
+      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Panouri HPL instalate" },
+      { src: "/images/balustrada-sticla-scari-interior-3.jpeg", alt: "Detaliu fațadă Bond" },
+      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Fațadă fibrociment" },
     ],
   },
 
@@ -257,7 +257,7 @@ export const pages: Record<string, PageData> = {
     slug: "fatade-ventilate/bond",
     title: "Fațade Bond",
     subtitle: "Compozit aluminiu — eleganță și ușurință",
-    heroImage: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=85",
+    heroImage: "/images/balustrada-sticla-scari-plutitoare-1.jpeg",
     heroBadge: "Fațade Ventilate",
     intro: "Panourile Bond (Alucobond / Reynobond) sunt soluția ideală pentru fațade contemporane ușoare.",
     description:
@@ -281,10 +281,10 @@ export const pages: Record<string, PageData> = {
       { label: "Servicii", value: "Proiectare + montaj" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=85", alt: "Fațadă Bond" },
-      { src: "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&q=85", alt: "Panouri Bond instalate" },
-      { src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=85", alt: "Detaliu panou Bond" },
-      { src: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=85", alt: "Fațadă Bond finisaj metalic" },
+      { src: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", alt: "Fațadă Bond" },
+      { src: "/images/balustrada-sticla-scari-interior-1.jpeg", alt: "Panouri Bond instalate" },
+      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Detaliu panou Bond" },
+      { src: "/images/balustrada-sticla-scari-interior-3.jpeg", alt: "Fațadă Bond finisaj metalic" },
     ],
   },
 
@@ -292,7 +292,7 @@ export const pages: Record<string, PageData> = {
     slug: "fatade-ventilate/fibrociment",
     title: "Fațade Fibrociment",
     subtitle: "Textură naturală, durabilitate extremă",
-    heroImage: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=1920&q=85",
+    heroImage: "/images/balustrada-sticla-scari-interior-3.jpeg",
     heroBadge: "Fațade Ventilate",
     intro: "Fibrocimentul combină rezistența betonului cu versatilitatea estetică a materialelor naturale.",
     description:
@@ -316,10 +316,10 @@ export const pages: Record<string, PageData> = {
       { label: "Servicii", value: "Proiectare + montaj" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=85", alt: "Fațadă fibrociment" },
-      { src: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=85", alt: "Clădire cu fibrociment" },
-      { src: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=85", alt: "Detaliu panou fibrociment" },
-      { src: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=85", alt: "Finisaj lemn fibrociment" },
+      { src: "/images/balustrada-sticla-scari-interior-3.jpeg", alt: "Fațadă fibrociment" },
+      { src: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", alt: "Clădire cu fibrociment" },
+      { src: "/images/fatada-rezidentiala-balustrade-1.jpeg", alt: "Detaliu panou fibrociment" },
+      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Finisaj lemn fibrociment" },
     ],
   },
 
@@ -327,7 +327,7 @@ export const pages: Record<string, PageData> = {
     slug: "fatade-ventilate/hpl",
     title: "Fațade HPL",
     subtitle: "High Pressure Laminate — estetic și performant",
-    heroImage: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1920&q=85",
+    heroImage: "/images/balustrada-sticla-scari-exterioare-1.jpeg",
     heroBadge: "Fațade Ventilate",
     intro: "Panourile HPL sunt soluția de fațadă care combină estetica cu performanța superioară.",
     description:
@@ -351,10 +351,10 @@ export const pages: Record<string, PageData> = {
       { label: "Servicii", value: "Proiectare + montaj" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=85", alt: "Fațadă HPL" },
-      { src: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=85", alt: "Panouri HPL clădire" },
-      { src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=85", alt: "Detaliu HPL" },
-      { src: "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&q=85", alt: "HPL finisaj lemn" },
+      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Fațadă HPL" },
+      { src: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", alt: "Panouri HPL clădire" },
+      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Detaliu HPL" },
+      { src: "/images/fatada-rezidentiala-balustrade-2.jpeg", alt: "HPL finisaj lemn" },
     ],
   },
 
@@ -364,7 +364,7 @@ export const pages: Record<string, PageData> = {
     slug: "tamplarie-pvc/salamander",
     title: "Tâmplărie Salamander",
     subtitle: "Calitate germană pentru confortul tău",
-    heroImage: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=1920&q=85",
+    heroImage: "/images/balustrada-sticla-scari-interior-3.jpeg",
     heroBadge: "Tâmplărie PVC",
     intro: "Tâmplăria Salamander este soluția perfectă pentru cei care doresc personalizare și izolare de top.",
     description:
@@ -388,10 +388,10 @@ export const pages: Record<string, PageData> = {
       { label: "Termen montaj", value: "30 zile" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=85", alt: "Ferestre PVC Salamander" },
-      { src: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=85", alt: "Interior cu PVC Salamander" },
-      { src: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=85", alt: "Detaliu profil PVC" },
-      { src: "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&q=85", alt: "Vilă cu tâmplărie Salamander" },
+      { src: "/images/balustrada-sticla-scari-interior-3.jpeg", alt: "Ferestre PVC Salamander" },
+      { src: "/images/fatada-rezidentiala-balustrade-1.jpeg", alt: "Interior cu PVC Salamander" },
+      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Detaliu profil PVC" },
+      { src: "/images/fatada-rezidentiala-balustrade-2.jpeg", alt: "Vilă cu tâmplărie Salamander" },
     ],
   },
 
@@ -399,7 +399,7 @@ export const pages: Record<string, PageData> = {
     slug: "tamplarie-pvc/rulouri-exterioare",
     title: "Rulouri Exterioare",
     subtitle: "Protecție solară, termică și de securitate",
-    heroImage: "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=1920&q=85",
+    heroImage: "/images/fatada-rezidentiala-balustrade-2.jpeg",
     heroBadge: "Tâmplărie PVC",
     intro: "Rulourile exterioare oferă un nivel superior de control termic și protecție pentru locuința ta.",
     description:
@@ -423,10 +423,10 @@ export const pages: Record<string, PageData> = {
       { label: "Termen montaj", value: "14–21 zile" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&q=85", alt: "Rulouri exterioare vilă" },
-      { src: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=85", alt: "Detaliu rulou exterior" },
-      { src: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=85", alt: "Rulouri pe bloc" },
-      { src: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=85", alt: "Interior cu rulouri" },
+      { src: "/images/fatada-rezidentiala-balustrade-2.jpeg", alt: "Rulouri exterioare vilă" },
+      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Detaliu rulou exterior" },
+      { src: "/images/balustrada-sticla-scari-interior-3.jpeg", alt: "Rulouri pe bloc" },
+      { src: "/images/fatada-rezidentiala-balustrade-1.jpeg", alt: "Interior cu rulouri" },
     ],
   },
 
@@ -434,7 +434,7 @@ export const pages: Record<string, PageData> = {
     slug: "tamplarie-pvc/plase-insecte",
     title: "Plase Insecte",
     subtitle: "Aer curat, fără insecte",
-    heroImage: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1920&q=85",
+    heroImage: "/images/balustrada-sticla-scari-exterioare-1.jpeg",
     heroBadge: "Tâmplărie PVC",
     intro: "Plasele de insecte sunt soluția discretă și eficientă pentru un interior fără dăunători.",
     description:
@@ -458,10 +458,10 @@ export const pages: Record<string, PageData> = {
       { label: "Termen livrare", value: "7–14 zile" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=85", alt: "Plasă insecte fereastră" },
-      { src: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=85", alt: "Plasă rulou" },
-      { src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=85", alt: "Plasă plisé" },
-      { src: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=85", alt: "Plasă ușă" },
+      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Plasă insecte fereastră" },
+      { src: "/images/fatada-rezidentiala-balustrade-1.jpeg", alt: "Plasă rulou" },
+      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Plasă plisé" },
+      { src: "/images/balustrada-sticla-scari-interior-3.jpeg", alt: "Plasă ușă" },
     ],
   },
 
@@ -471,7 +471,7 @@ export const pages: Record<string, PageData> = {
     slug: "sticla-securizata/balcoane-terase",
     title: "Balcoane și Terase",
     subtitle: "Libertate vizuală, confort maxim",
-    heroImage: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1920&q=85",
+    heroImage: "/images/balustrada-sticla-scari-exterioare-1.jpeg",
     heroBadge: "Sticlă Securizată",
     intro: "Sisteme unice de balcoane din sticlă securizată și laminată, fără profile verticale.",
     description:
@@ -495,10 +495,10 @@ export const pages: Record<string, PageData> = {
       { label: "Termen montaj", value: "30 zile" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=85", alt: "Balcon cu sticlă" },
-      { src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=85", alt: "Terasă închisă sticlă" },
-      { src: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=85", alt: "Detaliu sistem Valedo" },
-      { src: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=85", alt: "Balcon modern" },
+      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Balcon cu sticlă" },
+      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Terasă închisă sticlă" },
+      { src: "/images/fatada-rezidentiala-balustrade-1.jpeg", alt: "Detaliu sistem Valedo" },
+      { src: "/images/balustrada-sticla-scari-interior-3.jpeg", alt: "Balcon modern" },
     ],
   },
 
@@ -506,7 +506,7 @@ export const pages: Record<string, PageData> = {
     slug: "sticla-securizata/usi-batante",
     title: "Uși Batante din Sticlă",
     subtitle: "Design minimalist, impact maxim",
-    heroImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=85",
+    heroImage: "/images/balustrada-sticla-balcon-1.jpeg",
     heroBadge: "Sticlă Securizată",
     intro: "Ușile batante din sticlă securizată aduc eleganță și luminozitate în orice spațiu.",
     description:
@@ -530,10 +530,10 @@ export const pages: Record<string, PageData> = {
       { label: "Termen montaj", value: "21–30 zile" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=85", alt: "Ușă batantă sticlă" },
-      { src: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=85", alt: "Interior ușă sticlă" },
-      { src: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=85", alt: "Feronerie inox" },
-      { src: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=85", alt: "Ușă frameless" },
+      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Ușă batantă sticlă" },
+      { src: "/images/fatada-rezidentiala-balustrade-1.jpeg", alt: "Interior ușă sticlă" },
+      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Feronerie inox" },
+      { src: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", alt: "Ușă frameless" },
     ],
   },
 
@@ -541,7 +541,7 @@ export const pages: Record<string, PageData> = {
     slug: "sticla-securizata/usi-glisante",
     title: "Uși Glisante din Sticlă",
     subtitle: "Spațiu eliberat, sticlă la vedere",
-    heroImage: "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=1920&q=85",
+    heroImage: "/images/fatada-rezidentiala-balustrade-2.jpeg",
     heroBadge: "Sticlă Securizată",
     intro: "Ușile glisante din sticlă sunt soluția ideală pentru separatoare elegante și eficiente.",
     description:
@@ -565,10 +565,10 @@ export const pages: Record<string, PageData> = {
       { label: "Termen montaj", value: "14–21 zile" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&q=85", alt: "Ușă glisantă sticlă" },
-      { src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=85", alt: "Sistem glisant interior" },
-      { src: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=85", alt: "Separator birou sticlă" },
-      { src: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=85", alt: "Detaliu șină" },
+      { src: "/images/fatada-rezidentiala-balustrade-2.jpeg", alt: "Ușă glisantă sticlă" },
+      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Sistem glisant interior" },
+      { src: "/images/fatada-rezidentiala-balustrade-1.jpeg", alt: "Separator birou sticlă" },
+      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Detaliu șină" },
     ],
   },
 
@@ -576,7 +576,7 @@ export const pages: Record<string, PageData> = {
     slug: "sticla-securizata/compartimentari-birouri",
     title: "Compartimentări Birouri",
     subtitle: "Spații de lucru moderne și luminoase",
-    heroImage: "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=1920&q=85",
+    heroImage: "/images/balustrada-sticla-scari-interior-1.jpeg",
     heroBadge: "Sticlă Securizată",
     intro: "Compartimentările din sticlă transformă birourile deschise în spații funcționale și elegante.",
     description:
@@ -600,10 +600,10 @@ export const pages: Record<string, PageData> = {
       { label: "Termen montaj", value: "21–45 zile" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&q=85", alt: "Compartimentare birou" },
-      { src: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=85", alt: "Sală ședințe sticlă" },
-      { src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=85", alt: "Perete sticlă birou" },
-      { src: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=85", alt: "Open-space compartimentat" },
+      { src: "/images/balustrada-sticla-scari-interior-1.jpeg", alt: "Compartimentare birou" },
+      { src: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", alt: "Sală ședințe sticlă" },
+      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Perete sticlă birou" },
+      { src: "/images/fatada-rezidentiala-balustrade-1.jpeg", alt: "Open-space compartimentat" },
     ],
   },
 
@@ -611,7 +611,7 @@ export const pages: Record<string, PageData> = {
     slug: "sticla-securizata/copertine-sticla",
     title: "Copertine din Sticlă",
     subtitle: "Protecție elegantă la intrări și terase",
-    heroImage: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=85",
+    heroImage: "/images/balustrada-sticla-scari-plutitoare-1.jpeg",
     heroBadge: "Sticlă Securizată",
     intro: "Copertinele din sticlă securizată protejează intrările și terasele cu eleganță maximă.",
     description:
@@ -635,10 +635,10 @@ export const pages: Record<string, PageData> = {
       { label: "Termen montaj", value: "21–30 zile" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=85", alt: "Copertină sticlă intrare" },
-      { src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=85", alt: "Copertină cu cabluri" },
-      { src: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=85", alt: "Copertină terasa" },
-      { src: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=85", alt: "Detaliu prindere copertină" },
+      { src: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", alt: "Copertină sticlă intrare" },
+      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Copertină cu cabluri" },
+      { src: "/images/fatada-rezidentiala-balustrade-1.jpeg", alt: "Copertină terasa" },
+      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Detaliu prindere copertină" },
     ],
   },
 
@@ -646,7 +646,7 @@ export const pages: Record<string, PageData> = {
     slug: "sticla-securizata/fatade-magazin",
     title: "Fațade Magazin",
     subtitle: "Vitrină comercială de impact",
-    heroImage: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=85",
+    heroImage: "/images/balustrada-sticla-scari-plutitoare-1.jpeg",
     heroBadge: "Sticlă Securizată",
     intro: "Fațadele de magazin din sticlă maximizează vizibilitatea produselor și atractivitatea spațiului.",
     description:
@@ -670,10 +670,10 @@ export const pages: Record<string, PageData> = {
       { label: "Servicii", value: "Proiectare + montaj" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=85", alt: "Fațadă magazin sticlă" },
-      { src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=85", alt: "Vitrină comercială" },
-      { src: "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&q=85", alt: "Showroom cu sticlă" },
-      { src: "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&q=85", alt: "Intrare magazin" },
+      { src: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", alt: "Fațadă magazin sticlă" },
+      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Vitrină comercială" },
+      { src: "/images/balustrada-sticla-scari-interior-1.jpeg", alt: "Showroom cu sticlă" },
+      { src: "/images/fatada-rezidentiala-balustrade-2.jpeg", alt: "Intrare magazin" },
     ],
   },
 
@@ -722,7 +722,7 @@ export const pages: Record<string, PageData> = {
     slug: "pergole/bioclimatice",
     title: "Pergole Bioclimatice",
     subtitle: "Confort în aer liber, în orice anotimp",
-    heroImage: "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=1920&q=85",
+    heroImage: "/images/fatada-rezidentiala-balustrade-2.jpeg",
     heroBadge: "Pergole & Terase",
     intro: "Pergolele bioclimatice combină tehnologiile moderne cu un design distins.",
     description:
@@ -746,10 +746,10 @@ export const pages: Record<string, PageData> = {
       { label: "Termen montaj", value: "60 zile" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&q=85", alt: "Pergolă bioclimatică" },
-      { src: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=85", alt: "Terasa cu pergolă" },
-      { src: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=85", alt: "Lamele rotative" },
-      { src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=85", alt: "Pergolă cu iluminat" },
+      { src: "/images/fatada-rezidentiala-balustrade-2.jpeg", alt: "Pergolă bioclimatică" },
+      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Terasa cu pergolă" },
+      { src: "/images/balustrada-sticla-scari-interior-3.jpeg", alt: "Lamele rotative" },
+      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Pergolă cu iluminat" },
     ],
   },
 
@@ -757,7 +757,7 @@ export const pages: Record<string, PageData> = {
     slug: "pergole/retractabile",
     title: "Pergole Retractabile",
     subtitle: "Flexibilitate totală pentru terase",
-    heroImage: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=1920&q=85",
+    heroImage: "/images/balustrada-sticla-scari-interior-3.jpeg",
     heroBadge: "Pergole & Terase",
     intro: "Pergolele retractabile oferă protecție solară când ai nevoie și cer deschis când vrei.",
     description:
@@ -781,10 +781,10 @@ export const pages: Record<string, PageData> = {
       { label: "Termen montaj", value: "30–45 zile" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=85", alt: "Pergolă retractabilă" },
-      { src: "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&q=85", alt: "Terasa cu pergolă retractabilă" },
-      { src: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=85", alt: "Detaliu mecanism" },
-      { src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=85", alt: "Pergolă deschisă" },
+      { src: "/images/balustrada-sticla-scari-interior-3.jpeg", alt: "Pergolă retractabilă" },
+      { src: "/images/fatada-rezidentiala-balustrade-2.jpeg", alt: "Terasa cu pergolă retractabilă" },
+      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Detaliu mecanism" },
+      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Pergolă deschisă" },
     ],
   },
 };
@@ -796,15 +796,15 @@ export const categories: Record<string, CategoryData> = {
     slug: "tamplarie-aluminiu",
     title: "Tâmplărie din Aluminiu",
     subtitle: "Precizie și eleganță la orice scară",
-    heroImage: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1920&q=85",
+    heroImage: "/images/fatada-rezidentiala-balustrade-1.jpeg",
     intro: "Profile europene de top, sisteme personalizate pentru orice proiect",
     description:
       "Gamele noastre de tâmplărie din aluminiu folosesc profile Reynaers și Alumil, recunoscute ca referințe în industria europeană. De la ferestre minimaliste la sisteme glisante panoramice și uși de intrare impresionante, soluțiile noastre din aluminiu se adaptează oricărui stil arhitectural.",
     products: [
-      { title: "Uși și Ferestre", href: "/tamplarie-aluminiu/usi-ferestre", image: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=80", short: "Profile Reynaers / Alumil, tripan 52mm, garanție 5 ani", tags: ["Batant", "Oscilant", "Tripan"] },
-      { title: "Uși Glisante", href: "/tamplarie-aluminiu/usi-glisante", image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80", short: "Lift-slide până la 12m, protecție solară integrată", tags: ["Lift-Slide", "Panoramic", "Fără prag"] },
-      { title: "Uși Armonice", href: "/tamplarie-aluminiu/usi-armonice", image: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=80", short: "Pliant-armonic, deschidere completă, interior/exterior", tags: ["Armonic", "Commercial", "Rezidential"] },
-      { title: "Uși de Intrare", href: "/tamplarie-aluminiu/usi-intrare", image: "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&q=80", short: "Pivot, batant, control acces, securitate RC3", tags: ["Pivot", "RC3", "Control acces"] },
+      { title: "Uși și Ferestre", href: "/tamplarie-aluminiu/usi-ferestre", image: "/images/fatada-rezidentiala-balustrade-1.jpeg", short: "Profile Reynaers / Alumil, tripan 52mm, garanție 5 ani", tags: ["Batant", "Oscilant", "Tripan"] },
+      { title: "Uși Glisante", href: "/tamplarie-aluminiu/usi-glisante", image: "/images/balustrada-sticla-balcon-1.jpeg", short: "Lift-slide până la 12m, protecție solară integrată", tags: ["Lift-Slide", "Panoramic", "Fără prag"] },
+      { title: "Uși Armonice", href: "/tamplarie-aluminiu/usi-armonice", image: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", short: "Pliant-armonic, deschidere completă, interior/exterior", tags: ["Armonic", "Commercial", "Rezidential"] },
+      { title: "Uși de Intrare", href: "/tamplarie-aluminiu/usi-intrare", image: "/images/fatada-rezidentiala-balustrade-2.jpeg", short: "Pivot, batant, control acces, securitate RC3", tags: ["Pivot", "RC3", "Control acces"] },
     ],
   },
 
@@ -812,13 +812,13 @@ export const categories: Record<string, CategoryData> = {
     slug: "fatade-ventilate",
     title: "Fațade Ventilate",
     subtitle: "Eficiență energetică și estetică modernă",
-    heroImage: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1920&q=85",
+    heroImage: "/images/balustrada-sticla-scari-plutitoare-1.jpeg",
     intro: "Sisteme de fațade ventilate certificate pentru orice clădire",
     description: "Oferim trei sisteme principale de fațade ventilate — Bond, Fibrociment și HPL — fiecare cu caracteristici estetice și tehnice distincte. Toate sistemele includ proiectare, avize, livrare și montaj.",
     products: [
-      { title: "Bond", href: "/fatade-ventilate/bond", image: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=80", short: "Compozit aluminiu, 4kg/m², forme complexe", tags: ["Compozit", "Ușor", "PVDF"] },
-      { title: "Fibrociment", href: "/fatade-ventilate/fibrociment", image: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=80", short: "Durabilitate 50+ ani, incombustibil, textură naturală", tags: ["A2", "Natural", "Durabil"] },
-      { title: "HPL", href: "/fatade-ventilate/hpl", image: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=80", short: "High Pressure Laminate, 500+ finisaje, rezistent UV", tags: ["HPL", "UV Stabil", "500+ culori"] },
+      { title: "Bond", href: "/fatade-ventilate/bond", image: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", short: "Compozit aluminiu, 4kg/m², forme complexe", tags: ["Compozit", "Ușor", "PVDF"] },
+      { title: "Fibrociment", href: "/fatade-ventilate/fibrociment", image: "/images/balustrada-sticla-scari-interior-3.jpeg", short: "Durabilitate 50+ ani, incombustibil, textură naturală", tags: ["A2", "Natural", "Durabil"] },
+      { title: "HPL", href: "/fatade-ventilate/hpl", image: "/images/balustrada-sticla-scari-exterioare-1.jpeg", short: "High Pressure Laminate, 500+ finisaje, rezistent UV", tags: ["HPL", "UV Stabil", "500+ culori"] },
     ],
   },
 
@@ -826,13 +826,13 @@ export const categories: Record<string, CategoryData> = {
     slug: "tamplarie-pvc",
     title: "Tâmplărie PVC",
     subtitle: "Izolație superioară, confort garantat",
-    heroImage: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=1920&q=85",
+    heroImage: "/images/balustrada-sticla-scari-interior-3.jpeg",
     intro: "Profile PVC de calitate germană cu performanțe de top",
     description: "Sistemele noastre PVC includ profiluri Salamander bluEVOLUTION 92 cu 7 camere, rulouri exterioare motorize și plase pentru insecte — toate soluțiile necesare pentru o fereastră completă și eficientă.",
     products: [
-      { title: "Tâmplărie Salamander", href: "/tamplarie-pvc/salamander", image: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=80", short: "bluEVOLUTION 92, 7 camere, Uw 0.79, Passive House", tags: ["7 camere", "Passive House", "German"] },
-      { title: "Rulouri Exterioare", href: "/tamplarie-pvc/rulouri-exterioare", image: "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&q=80", short: "Motorize Somfy, reducere 75% căldură solară", tags: ["Motorizat", "Solar", "Smart"] },
-      { title: "Plase Insecte", href: "/tamplarie-pvc/plase-insecte", image: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=80", short: "Fix, rulou, plisé — soluție pentru orice fereastră", tags: ["Fix", "Rulou", "Plisé"] },
+      { title: "Tâmplărie Salamander", href: "/tamplarie-pvc/salamander", image: "/images/balustrada-sticla-scari-interior-3.jpeg", short: "bluEVOLUTION 92, 7 camere, Uw 0.79, Passive House", tags: ["7 camere", "Passive House", "German"] },
+      { title: "Rulouri Exterioare", href: "/tamplarie-pvc/rulouri-exterioare", image: "/images/fatada-rezidentiala-balustrade-2.jpeg", short: "Motorize Somfy, reducere 75% căldură solară", tags: ["Motorizat", "Solar", "Smart"] },
+      { title: "Plase Insecte", href: "/tamplarie-pvc/plase-insecte", image: "/images/balustrada-sticla-scari-exterioare-1.jpeg", short: "Fix, rulou, plisé — soluție pentru orice fereastră", tags: ["Fix", "Rulou", "Plisé"] },
     ],
   },
 
@@ -840,16 +840,16 @@ export const categories: Record<string, CategoryData> = {
     slug: "sticla-securizata",
     title: "Sticlă Securizată",
     subtitle: "Siguranță și transparență fără compromis",
-    heroImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=85",
+    heroImage: "/images/balustrada-sticla-balcon-1.jpeg",
     intro: "Sisteme din sticlă securizată pentru orice aplicație interioară și exterioară",
     description: "De la balcoane și terase la compartimentări de birouri și fațade de magazine, sistemele noastre din sticlă securizată sunt certificate și montate de echipe specializate cu 15 ani de experiență.",
     products: [
-      { title: "Balcoane și Terase", href: "/sticla-securizata/balcoane-terase", image: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=80", short: "Sistem Valedo, fără profile verticale, 10mm VSG", tags: ["Valedo", "Fără profile", "10mm"] },
-      { title: "Uși Batante", href: "/sticla-securizata/usi-batante", image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80", short: "Frameless, VSG 10mm, balamale ascunse", tags: ["Frameless", "VSG", "Premium"] },
-      { title: "Uși Glisante", href: "/sticla-securizata/usi-glisante", image: "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&q=80", short: "Suspendate, soft-close, profil 18mm", tags: ["Suspendat", "Soft-close", "Minim"] },
-      { title: "Compartimentări Birouri", href: "/sticla-securizata/compartimentari-birouri", image: "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&q=80", short: "Frameless sau profil, 35–45dB izolare fonică", tags: ["Frameless", "Birou", "Fono"] },
-      { title: "Copertine Sticlă", href: "/sticla-securizata/copertine-sticla", image: "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=800&q=80", short: "Cabluri inox, SGP, sarcini calculate structural", tags: ["Structural", "Cabluri", "Inox"] },
-      { title: "Fațade Magazin", href: "/sticla-securizata/fatade-magazin", image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80", short: "Frameless, uși automate, serigrafie brand", tags: ["Comercial", "Automat", "Brand"] },
+      { title: "Balcoane și Terase", href: "/sticla-securizata/balcoane-terase", image: "/images/balustrada-sticla-scari-exterioare-1.jpeg", short: "Sistem Valedo, fără profile verticale, 10mm VSG", tags: ["Valedo", "Fără profile", "10mm"] },
+      { title: "Uși Batante", href: "/sticla-securizata/usi-batante", image: "/images/balustrada-sticla-balcon-1.jpeg", short: "Frameless, VSG 10mm, balamale ascunse", tags: ["Frameless", "VSG", "Premium"] },
+      { title: "Uși Glisante", href: "/sticla-securizata/usi-glisante", image: "/images/fatada-rezidentiala-balustrade-2.jpeg", short: "Suspendate, soft-close, profil 18mm", tags: ["Suspendat", "Soft-close", "Minim"] },
+      { title: "Compartimentări Birouri", href: "/sticla-securizata/compartimentari-birouri", image: "/images/balustrada-sticla-scari-interior-1.jpeg", short: "Frameless sau profil, 35–45dB izolare fonică", tags: ["Frameless", "Birou", "Fono"] },
+      { title: "Copertine Sticlă", href: "/sticla-securizata/copertine-sticla", image: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", short: "Cabluri inox, SGP, sarcini calculate structural", tags: ["Structural", "Cabluri", "Inox"] },
+      { title: "Fațade Magazin", href: "/sticla-securizata/fatade-magazin", image: "/images/balustrada-sticla-balcon-1.jpeg", short: "Frameless, uși automate, serigrafie brand", tags: ["Comercial", "Automat", "Brand"] },
     ],
   },
 
@@ -869,12 +869,12 @@ export const categories: Record<string, CategoryData> = {
     slug: "pergole",
     title: "Pergole & Terase",
     subtitle: "Extinde-ți spațiul în aer liber",
-    heroImage: "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=1920&q=85",
+    heroImage: "/images/fatada-rezidentiala-balustrade-2.jpeg",
     intro: "Pergole bioclimatice și retractabile pentru locuințe și spații comerciale",
     description: "Sistemele noastre de pergole transformă terasele și grădinile în spații confortabile pentru tot sezonul, cu protecție completă la ploaie, soare și vânt.",
     products: [
-      { title: "Pergole Bioclimatice", href: "/pergole/bioclimatice", image: "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&q=80", short: "Lamele rotative, etanșe 100%, rezistente 300kg/mp zăpadă", tags: ["Bioclimatic", "100% etanș", "Smart"] },
-      { title: "Pergole Retractabile", href: "/pergole/retractabile", image: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=80", short: "Motor Somfy, pânza UV 95%, senzori vânt/ploaie", tags: ["Retractabil", "Somfy", "UV 95%"] },
+      { title: "Pergole Bioclimatice", href: "/pergole/bioclimatice", image: "/images/fatada-rezidentiala-balustrade-2.jpeg", short: "Lamele rotative, etanșe 100%, rezistente 300kg/mp zăpadă", tags: ["Bioclimatic", "100% etanș", "Smart"] },
+      { title: "Pergole Retractabile", href: "/pergole/retractabile", image: "/images/balustrada-sticla-scari-interior-3.jpeg", short: "Motor Somfy, pânza UV 95%, senzori vânt/ploaie", tags: ["Retractabil", "Somfy", "UV 95%"] },
     ],
   },
 };
