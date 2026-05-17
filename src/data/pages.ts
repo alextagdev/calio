@@ -683,7 +683,7 @@ export const pages: Record<string, PageData> = {
     slug: "balustrade/balustrade-sticla",
     title: "Balustrade din Sticlă",
     subtitle: "Certificate, sigure, spectaculoase",
-    heroImage: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1920&q=85",
+    heroImage: "/images/balustrada-sticla-balcon-1.jpeg",
     heroBadge: "Balustrade",
     intro: "Sisteme de balustrade din sticlă testate și certificate pentru balcoane, scări și terase.",
     description:
@@ -707,10 +707,12 @@ export const pages: Record<string, PageData> = {
       { label: "Termen montaj", value: "21–30 zile" },
     ],
     gallery: [
-      { src: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=85", alt: "Balustradă sticlă balcon" },
-      { src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=85", alt: "Balustradă scară" },
-      { src: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=85", alt: "Balustradă terasă" },
-      { src: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=85", alt: "Sistem frameless" },
+      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Balustradă sticlă balcon exterior" },
+      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Balustradă sticlă scări exterioare" },
+      { src: "/images/balustrada-sticla-scari-interior-2.jpeg", alt: "Balustradă sticlă scări interior inox" },
+      { src: "/images/balustrada-sticla-scari-granit-1.jpeg", alt: "Balustradă sticlă scări granit negru" },
+      { src: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", alt: "Balustradă sticlă scări plutitoare duplex" },
+      { src: "/images/fatada-rezidentiala-balustrade-1.jpeg", alt: "Fațadă vilă cu balustrade sticlă" },
     ],
   },
 
@@ -855,11 +857,11 @@ export const categories: Record<string, CategoryData> = {
     slug: "balustrade",
     title: "Balustrade",
     subtitle: "Siguranță cu caracter",
-    heroImage: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1920&q=85",
+    heroImage: "/images/balustrada-sticla-balcon-1.jpeg",
     intro: "Sisteme de balustrade certificate pentru balcoane, scări și terase",
     description: "Gamele noastre de balustrade din sticlă sunt testate și certificate conform standardelor europene. Executăm lucrări în toată România și în Europa, cu garanție 5 ani.",
     products: [
-      { title: "Balustrade Sticlă", href: "/balustrade/balustrade-sticla", image: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&q=80", short: "6 modele S1–S6, VSG 8.8–10.10mm, inox 316L", tags: ["S1–S6", "Certificat", "Inox"] },
+      { title: "Balustrade Sticlă", href: "/balustrade/balustrade-sticla", image: "/images/balustrada-sticla-balcon-1.jpeg", short: "6 modele S1–S6, VSG 8.8–10.10mm, inox 316L", tags: ["S1–S6", "Certificat", "Inox"] },
     ],
   },
 

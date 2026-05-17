@@ -13,10 +13,10 @@ const slides = [
   },
   {
     id: 2,
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=85",
-    title: "Uși Glisante\nde Sticlă",
-    subtitle: "Deschidere totală între interior și exterior",
-    tag: "Sisteme Sticlă",
+    image: "/images/balustrada-sticla-scari-plutitoare-1.jpeg",
+    title: "Balustrade\ndin Sticlă",
+    subtitle: "Eleganță și siguranță pentru scări, balcoane și terase",
+    tag: "Balustrade Sticlă",
   },
   {
     id: 3,

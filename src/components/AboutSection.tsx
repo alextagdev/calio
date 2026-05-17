@@ -30,7 +30,7 @@ export default function AboutSection() {
               <div
                 className="absolute inset-0 bg-cover bg-center"
                 style={{
-                  backgroundImage: `url("https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=900&q=85")`,
+                  backgroundImage: `url("/images/fatada-rezidentiala-balustrade-1.jpeg")`,
                 }}
               />
               <div className="absolute inset-0 bg-gradient-to-t from-[#0d0d0d]/50 to-transparent" />
