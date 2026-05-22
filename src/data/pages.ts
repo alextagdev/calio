@@ -185,7 +185,7 @@ export const pages: Record<string, PageData> = {
     slug: "pereti-cortina",
     title: "Pereți Cortină",
     subtitle: "Fațade contemporane, posibilități nelimitate",
-    heroImage: "/images/balustrada-sticla-scari-plutitoare-1.jpeg",
+    heroImage: "/images/proiecte-cortina-terasa-sticla/WhatsApp%20Image%202026-05-20%20at%2013.22.50.jpeg",
     heroBadge: "Fațade",
     intro: "Pereții cortină sunt soluția ideală pentru a oferi unei clădiri un aspect unic și modern.",
     description:
@@ -209,10 +209,10 @@ export const pages: Record<string, PageData> = {
       { label: "Servicii", value: "Proiectare + montaj" },
     ],
     gallery: [
-      { src: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", alt: "Perete cortină clădire birouri" },
-      { src: "/images/balustrada-sticla-scari-interior-1.jpeg", alt: "Fațadă cortină modernă" },
-      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Detaliu structural glazing" },
-      { src: "/images/fatada-rezidentiala-balustrade-1.jpeg", alt: "Perete cortină interior" },
+      { src: "/images/proiecte-cortina-terasa-sticla/WhatsApp%20Image%202026-05-20%20at%2013.22.50.jpeg", alt: "Perete cortină clădire" },
+      { src: "/images/proiecte-cortina-terasa-sticla/poza2.jpeg", alt: "Fațadă cortină modernă" },
+      { src: "/images/proiecte-cortina-terasa-sticla/poza3.jpeg", alt: "Detaliu structural glazing" },
+      { src: "/images/proiecte-cortina-terasa-sticla/poza4.jpeg", alt: "Perete cortină terasă sticlă" },
     ],
   },
 
@@ -222,7 +222,7 @@ export const pages: Record<string, PageData> = {
     slug: "fatade-ventilate",
     title: "Fațade Ventilate",
     subtitle: "Protecție, estetică și eficiență energetică",
-    heroImage: "/images/balustrada-sticla-scari-plutitoare-1.jpeg",
+    heroImage: "/images/fatata-ventilata-placare-bond/WhatsApp%20Image%202026-05-20%20at%2020.19.46.jpeg",
     heroBadge: "Fațade",
     intro: "Sisteme de fațade ventilate testate și certificate pentru clădiri moderne.",
     description:
@@ -246,10 +246,10 @@ export const pages: Record<string, PageData> = {
       { label: "Termen montaj", value: "La comandă" },
     ],
     gallery: [
-      { src: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", alt: "Fațadă ventilată clădire" },
-      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Panouri HPL instalate" },
-      { src: "/images/balustrada-sticla-scari-interior-3.jpeg", alt: "Detaliu fațadă Bond" },
-      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Fațadă fibrociment" },
+      { src: "/images/fatata-ventilata-placare-bond/WhatsApp%20Image%202026-05-20%20at%2020.19.46.jpeg", alt: "Fațadă ventilată clădire" },
+      { src: "/images/fatata-ventilata-placare-bond/poza2.jpeg", alt: "Panouri Bond instalate" },
+      { src: "/images/fatata-ventilata-placare-bond/poza3.jpeg", alt: "Detaliu fațadă Bond" },
+      { src: "/images/fatata-ventilata-placare-bond/poza4.jpeg", alt: "Montaj fațadă ventilată" },
     ],
   },
 
@@ -257,7 +257,7 @@ export const pages: Record<string, PageData> = {
     slug: "fatade-ventilate/bond",
     title: "Fațade Bond",
     subtitle: "Compozit aluminiu — eleganță și ușurință",
-    heroImage: "/images/balustrada-sticla-scari-plutitoare-1.jpeg",
+    heroImage: "/images/fatata-ventilata-placare-bond/WhatsApp%20Image%202026-05-20%20at%2020.19.46.jpeg",
     heroBadge: "Fațade Ventilate",
     intro: "Panourile Bond (Alucobond / Reynobond) sunt soluția ideală pentru fațade contemporane ușoare.",
     description:
@@ -281,10 +281,11 @@ export const pages: Record<string, PageData> = {
       { label: "Servicii", value: "Proiectare + montaj" },
     ],
     gallery: [
-      { src: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", alt: "Fațadă Bond" },
-      { src: "/images/balustrada-sticla-scari-interior-1.jpeg", alt: "Panouri Bond instalate" },
-      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Detaliu panou Bond" },
-      { src: "/images/balustrada-sticla-scari-interior-3.jpeg", alt: "Fațadă Bond finisaj metalic" },
+      { src: "/images/fatata-ventilata-placare-bond/WhatsApp%20Image%202026-05-20%20at%2020.19.46.jpeg", alt: "Fațadă Bond ansamblu" },
+      { src: "/images/fatata-ventilata-placare-bond/poza2.jpeg", alt: "Panouri Bond instalate" },
+      { src: "/images/fatata-ventilata-placare-bond/poza3.jpeg", alt: "Detaliu panou Bond" },
+      { src: "/images/fatata-ventilata-placare-bond/poza4.jpeg", alt: "Fațadă Bond finisaj metalic" },
+      { src: "/images/fatata-ventilata-placare-bond/poza5.jpeg", alt: "Montaj fațadă Bond" },
     ],
   },
 
@@ -471,7 +472,7 @@ export const pages: Record<string, PageData> = {
     slug: "sticla-securizata/balcoane-terase",
     title: "Balcoane și Terase",
     subtitle: "Libertate vizuală, confort maxim",
-    heroImage: "/images/balustrada-sticla-scari-exterioare-1.jpeg",
+    heroImage: "/images/inchideri-sticla-pliabila/WhatsApp%20Image%202026-05-20%20at%2013.19.18.jpeg",
     heroBadge: "Sticlă Securizată",
     intro: "Sisteme unice de balcoane din sticlă securizată și laminată, fără profile verticale.",
     description:
@@ -495,10 +496,10 @@ export const pages: Record<string, PageData> = {
       { label: "Termen montaj", value: "30 zile" },
     ],
     gallery: [
-      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Balcon cu sticlă" },
-      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Terasă închisă sticlă" },
-      { src: "/images/fatada-rezidentiala-balustrade-1.jpeg", alt: "Detaliu sistem Valedo" },
-      { src: "/images/balustrada-sticla-scari-interior-3.jpeg", alt: "Balcon modern" },
+      { src: "/images/inchideri-sticla-pliabila/WhatsApp%20Image%202026-05-20%20at%2013.19.18.jpeg", alt: "Închidere terasă sticlă pliabilă" },
+      { src: "/images/inchideri-sticla-pliabila/poza2.jpeg", alt: "Sistem glisant terasă" },
+      { src: "/images/inchideri-sticla-pliabila/poza3.jpeg", alt: "Balcon cu sticlă pliabilă" },
+      { src: "/images/inchideri-sticla-pliabila/poza4.jpeg", alt: "Deschidere totală balcon" },
     ],
   },
 
@@ -506,7 +507,7 @@ export const pages: Record<string, PageData> = {
     slug: "sticla-securizata/usi-batante",
     title: "Uși Batante din Sticlă",
     subtitle: "Design minimalist, impact maxim",
-    heroImage: "/images/balustrada-sticla-balcon-1.jpeg",
+    heroImage: "/images/paravane-sticla-baie/WhatsApp%20Image%202026-05-20%20at%2013.17.32.jpeg",
     heroBadge: "Sticlă Securizată",
     intro: "Ușile batante din sticlă securizată aduc eleganță și luminozitate în orice spațiu.",
     description:
@@ -530,10 +531,10 @@ export const pages: Record<string, PageData> = {
       { label: "Termen montaj", value: "21–30 zile" },
     ],
     gallery: [
-      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Ușă batantă sticlă" },
-      { src: "/images/fatada-rezidentiala-balustrade-1.jpeg", alt: "Interior ușă sticlă" },
-      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Feronerie inox" },
-      { src: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", alt: "Ușă frameless" },
+      { src: "/images/paravane-sticla-baie/WhatsApp%20Image%202026-05-20%20at%2013.17.32.jpeg", alt: "Paravan sticlă duș" },
+      { src: "/images/paravane-sticla-baie/paravan1.jpeg", alt: "Ușă batantă sticlă baie" },
+      { src: "/images/paravane-sticla-baie/paravan2.jpeg", alt: "Paravan duș batant" },
+      { src: "/images/paravane-sticla-baie/paravan4.jpeg", alt: "Sticlă baie fără ramă" },
     ],
   },
 
@@ -541,7 +542,7 @@ export const pages: Record<string, PageData> = {
     slug: "sticla-securizata/usi-glisante",
     title: "Uși Glisante din Sticlă",
     subtitle: "Spațiu eliberat, sticlă la vedere",
-    heroImage: "/images/fatada-rezidentiala-balustrade-2.jpeg",
+    heroImage: "/images/inchideri-sticla-pliabila/WhatsApp%20Image%202026-05-20%20at%2013.19.18.jpeg",
     heroBadge: "Sticlă Securizată",
     intro: "Ușile glisante din sticlă sunt soluția ideală pentru separatoare elegante și eficiente.",
     description:
@@ -565,10 +566,10 @@ export const pages: Record<string, PageData> = {
       { label: "Termen montaj", value: "14–21 zile" },
     ],
     gallery: [
-      { src: "/images/fatada-rezidentiala-balustrade-2.jpeg", alt: "Ușă glisantă sticlă" },
-      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Sistem glisant interior" },
-      { src: "/images/fatada-rezidentiala-balustrade-1.jpeg", alt: "Separator birou sticlă" },
-      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Detaliu șină" },
+      { src: "/images/inchideri-sticla-pliabila/WhatsApp%20Image%202026-05-20%20at%2013.19.18.jpeg", alt: "Ușă glisantă sticlă terasă" },
+      { src: "/images/inchideri-sticla-pliabila/poza5.jpeg", alt: "Sistem glisant interior" },
+      { src: "/images/inchideri-sticla-pliabila/poza6.jpeg", alt: "Glisant sticlă open" },
+      { src: "/images/inchideri-sticla-pliabila/poza7.jpeg", alt: "Detaliu șină glisant" },
     ],
   },
 
@@ -576,7 +577,7 @@ export const pages: Record<string, PageData> = {
     slug: "sticla-securizata/compartimentari-birouri",
     title: "Compartimentări Birouri",
     subtitle: "Spații de lucru moderne și luminoase",
-    heroImage: "/images/balustrada-sticla-scari-interior-1.jpeg",
+    heroImage: "/images/partitie-sticla-salon/WhatsApp%20Image%202026-05-20%20at%2013.18.08.jpeg",
     heroBadge: "Sticlă Securizată",
     intro: "Compartimentările din sticlă transformă birourile deschise în spații funcționale și elegante.",
     description:
@@ -600,10 +601,10 @@ export const pages: Record<string, PageData> = {
       { label: "Termen montaj", value: "21–45 zile" },
     ],
     gallery: [
-      { src: "/images/balustrada-sticla-scari-interior-1.jpeg", alt: "Compartimentare birou" },
-      { src: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", alt: "Sală ședințe sticlă" },
-      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Perete sticlă birou" },
-      { src: "/images/fatada-rezidentiala-balustrade-1.jpeg", alt: "Open-space compartimentat" },
+      { src: "/images/partitie-sticla-salon/WhatsApp%20Image%202026-05-20%20at%2013.18.08.jpeg", alt: "Partiție sticlă salon" },
+      { src: "/images/partitie-sticla-salon/poza2.jpeg", alt: "Compartimentare sticlă interior" },
+      { src: "/images/partitie-sticla-salon/poza3.jpeg", alt: "Perete sticlă separator" },
+      { src: "/images/partitie-sticla-salon/poza4.jpeg", alt: "Spațiu compartimentat sticlă" },
     ],
   },
 
@@ -722,7 +723,7 @@ export const pages: Record<string, PageData> = {
     slug: "pergole/bioclimatice",
     title: "Pergole Bioclimatice",
     subtitle: "Confort în aer liber, în orice anotimp",
-    heroImage: "/images/fatada-rezidentiala-balustrade-2.jpeg",
+    heroImage: "/images/proiect-cantina-terasa-exterioara/WhatsApp%20Image%202026-05-20%20at%2013.21.25.jpeg",
     heroBadge: "Pergole & Terase",
     intro: "Pergolele bioclimatice combină tehnologiile moderne cu un design distins.",
     description:
@@ -746,10 +747,10 @@ export const pages: Record<string, PageData> = {
       { label: "Termen montaj", value: "60 zile" },
     ],
     gallery: [
-      { src: "/images/fatada-rezidentiala-balustrade-2.jpeg", alt: "Pergolă bioclimatică" },
-      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Terasa cu pergolă" },
-      { src: "/images/balustrada-sticla-scari-interior-3.jpeg", alt: "Lamele rotative" },
-      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Pergolă cu iluminat" },
+      { src: "/images/proiect-cantina-terasa-exterioara/WhatsApp%20Image%202026-05-20%20at%2013.21.25.jpeg", alt: "Terasă exterioară acoperită" },
+      { src: "/images/proiect-cantina-terasa-exterioara/poza2.jpeg", alt: "Pergolă terasă cantină" },
+      { src: "/images/proiect-cantina-terasa-exterioara/poza3.jpeg", alt: "Sistem acoperire terasă" },
+      { src: "/images/proiect-cantina-terasa-exterioara/poza4.jpeg", alt: "Detaliu pergolă exterioară" },
     ],
   },
 
@@ -757,7 +758,7 @@ export const pages: Record<string, PageData> = {
     slug: "pergole/retractabile",
     title: "Pergole Retractabile",
     subtitle: "Flexibilitate totală pentru terase",
-    heroImage: "/images/balustrada-sticla-scari-interior-3.jpeg",
+    heroImage: "/images/proiect-cantina-terasa-exterioara/WhatsApp%20Image%202026-05-20%20at%2013.21.25.jpeg",
     heroBadge: "Pergole & Terase",
     intro: "Pergolele retractabile oferă protecție solară când ai nevoie și cer deschis când vrei.",
     description:
@@ -781,10 +782,10 @@ export const pages: Record<string, PageData> = {
       { label: "Termen montaj", value: "30–45 zile" },
     ],
     gallery: [
-      { src: "/images/balustrada-sticla-scari-interior-3.jpeg", alt: "Pergolă retractabilă" },
-      { src: "/images/fatada-rezidentiala-balustrade-2.jpeg", alt: "Terasa cu pergolă retractabilă" },
-      { src: "/images/balustrada-sticla-scari-exterioare-1.jpeg", alt: "Detaliu mecanism" },
-      { src: "/images/balustrada-sticla-balcon-1.jpeg", alt: "Pergolă deschisă" },
+      { src: "/images/proiect-cantina-terasa-exterioara/poza5.jpeg", alt: "Pergolă retractabilă terasă" },
+      { src: "/images/proiect-cantina-terasa-exterioara/poza6.jpeg", alt: "Acoperire retractabilă" },
+      { src: "/images/proiect-cantina-terasa-exterioara/poza7.jpeg", alt: "Terasă deschisă pergolă" },
+      { src: "/images/proiect-cantina-terasa-exterioara/poza8.jpeg", alt: "Detaliu mecanism retractabil" },
     ],
   },
 };
@@ -812,11 +813,11 @@ export const categories: Record<string, CategoryData> = {
     slug: "fatade-ventilate",
     title: "Fațade Ventilate",
     subtitle: "Eficiență energetică și estetică modernă",
-    heroImage: "/images/balustrada-sticla-scari-plutitoare-1.jpeg",
+    heroImage: "/images/fatata-ventilata-placare-bond/WhatsApp%20Image%202026-05-20%20at%2020.19.46.jpeg",
     intro: "Sisteme de fațade ventilate certificate pentru orice clădire",
     description: "Oferim trei sisteme principale de fațade ventilate — Bond, Fibrociment și HPL — fiecare cu caracteristici estetice și tehnice distincte. Toate sistemele includ proiectare, avize, livrare și montaj.",
     products: [
-      { title: "Bond", href: "/fatade-ventilate/bond", image: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", short: "Compozit aluminiu, 4kg/m², forme complexe", tags: ["Compozit", "Ușor", "PVDF"] },
+      { title: "Bond", href: "/fatade-ventilate/bond", image: "/images/fatata-ventilata-placare-bond/WhatsApp%20Image%202026-05-20%20at%2020.19.46.jpeg", short: "Compozit aluminiu, 4kg/m², forme complexe", tags: ["Compozit", "Ușor", "PVDF"] },
       { title: "Fibrociment", href: "/fatade-ventilate/fibrociment", image: "/images/balustrada-sticla-scari-interior-3.jpeg", short: "Durabilitate 50+ ani, incombustibil, textură naturală", tags: ["A2", "Natural", "Durabil"] },
       { title: "HPL", href: "/fatade-ventilate/hpl", image: "/images/balustrada-sticla-scari-exterioare-1.jpeg", short: "High Pressure Laminate, 500+ finisaje, rezistent UV", tags: ["HPL", "UV Stabil", "500+ culori"] },
     ],
@@ -844,10 +845,10 @@ export const categories: Record<string, CategoryData> = {
     intro: "Sisteme din sticlă securizată pentru orice aplicație interioară și exterioară",
     description: "De la balcoane și terase la compartimentări de birouri și fațade de magazine, sistemele noastre din sticlă securizată sunt certificate și montate de echipe specializate cu 15 ani de experiență.",
     products: [
-      { title: "Balcoane și Terase", href: "/sticla-securizata/balcoane-terase", image: "/images/balustrada-sticla-scari-exterioare-1.jpeg", short: "Sistem Valedo, fără profile verticale, 10mm VSG", tags: ["Valedo", "Fără profile", "10mm"] },
-      { title: "Uși Batante", href: "/sticla-securizata/usi-batante", image: "/images/balustrada-sticla-balcon-1.jpeg", short: "Frameless, VSG 10mm, balamale ascunse", tags: ["Frameless", "VSG", "Premium"] },
-      { title: "Uși Glisante", href: "/sticla-securizata/usi-glisante", image: "/images/fatada-rezidentiala-balustrade-2.jpeg", short: "Suspendate, soft-close, profil 18mm", tags: ["Suspendat", "Soft-close", "Minim"] },
-      { title: "Compartimentări Birouri", href: "/sticla-securizata/compartimentari-birouri", image: "/images/balustrada-sticla-scari-interior-1.jpeg", short: "Frameless sau profil, 35–45dB izolare fonică", tags: ["Frameless", "Birou", "Fono"] },
+      { title: "Balcoane și Terase", href: "/sticla-securizata/balcoane-terase", image: "/images/inchideri-sticla-pliabila/WhatsApp%20Image%202026-05-20%20at%2013.19.18.jpeg", short: "Sistem Valedo, fără profile verticale, 10mm VSG", tags: ["Valedo", "Fără profile", "10mm"] },
+      { title: "Uși Batante", href: "/sticla-securizata/usi-batante", image: "/images/paravane-sticla-baie/WhatsApp%20Image%202026-05-20%20at%2013.17.32.jpeg", short: "Frameless, VSG 10mm, balamale ascunse", tags: ["Frameless", "VSG", "Premium"] },
+      { title: "Uși Glisante", href: "/sticla-securizata/usi-glisante", image: "/images/inchideri-sticla-pliabila/poza2.jpeg", short: "Suspendate, soft-close, profil 18mm", tags: ["Suspendat", "Soft-close", "Minim"] },
+      { title: "Compartimentări Birouri", href: "/sticla-securizata/compartimentari-birouri", image: "/images/partitie-sticla-salon/WhatsApp%20Image%202026-05-20%20at%2013.18.08.jpeg", short: "Frameless sau profil, 35–45dB izolare fonică", tags: ["Frameless", "Birou", "Fono"] },
       { title: "Copertine Sticlă", href: "/sticla-securizata/copertine-sticla", image: "/images/balustrada-sticla-scari-plutitoare-1.jpeg", short: "Cabluri inox, SGP, sarcini calculate structural", tags: ["Structural", "Cabluri", "Inox"] },
       { title: "Fațade Magazin", href: "/sticla-securizata/fatade-magazin", image: "/images/balustrada-sticla-balcon-1.jpeg", short: "Frameless, uși automate, serigrafie brand", tags: ["Comercial", "Automat", "Brand"] },
     ],
@@ -869,12 +870,12 @@ export const categories: Record<string, CategoryData> = {
     slug: "pergole",
     title: "Pergole & Terase",
     subtitle: "Extinde-ți spațiul în aer liber",
-    heroImage: "/images/fatada-rezidentiala-balustrade-2.jpeg",
+    heroImage: "/images/proiect-cantina-terasa-exterioara/WhatsApp%20Image%202026-05-20%20at%2013.21.25.jpeg",
     intro: "Pergole bioclimatice și retractabile pentru locuințe și spații comerciale",
     description: "Sistemele noastre de pergole transformă terasele și grădinile în spații confortabile pentru tot sezonul, cu protecție completă la ploaie, soare și vânt.",
     products: [
-      { title: "Pergole Bioclimatice", href: "/pergole/bioclimatice", image: "/images/fatada-rezidentiala-balustrade-2.jpeg", short: "Lamele rotative, etanșe 100%, rezistente 300kg/mp zăpadă", tags: ["Bioclimatic", "100% etanș", "Smart"] },
-      { title: "Pergole Retractabile", href: "/pergole/retractabile", image: "/images/balustrada-sticla-scari-interior-3.jpeg", short: "Motor Somfy, pânza UV 95%, senzori vânt/ploaie", tags: ["Retractabil", "Somfy", "UV 95%"] },
+      { title: "Pergole Bioclimatice", href: "/pergole/bioclimatice", image: "/images/proiect-cantina-terasa-exterioara/WhatsApp%20Image%202026-05-20%20at%2013.21.25.jpeg", short: "Lamele rotative, etanșe 100%, rezistente 300kg/mp zăpadă", tags: ["Bioclimatic", "100% etanș", "Smart"] },
+      { title: "Pergole Retractabile", href: "/pergole/retractabile", image: "/images/proiect-cantina-terasa-exterioara/poza2.jpeg", short: "Motor Somfy, pânza UV 95%, senzori vânt/ploaie", tags: ["Retractabil", "Somfy", "UV 95%"] },
     ],
   },
 };
