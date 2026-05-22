@@ -1,5 +1,6 @@
 "use client";
 
+import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import Link from "next/link";
 import { ChevronRight } from "lucide-react";
@@ -14,20 +15,57 @@ interface PageHeroProps {
   breadcrumbs?: Crumb[];
 }
 
+type ImgMode = "cover" | "contain" | "pending";
+
 export default function PageHero({ title, subtitle, image, badge, breadcrumbs }: PageHeroProps) {
+  const [mode, setMode] = useState<ImgMode>("pending");
+
+  useEffect(() => {
+    setMode("pending");
+    const img = new window.Image();
+    img.onload = () => {
+      const ratio = img.naturalWidth / img.naturalHeight;
+      const isPortrait = ratio < 1.3;
+      const isTooSmall = img.naturalWidth < 1100;
+      setMode(isPortrait || isTooSmall ? "contain" : "cover");
+    };
+    img.onerror = () => setMode("cover");
+    img.src = image;
+  }, [image]);
+
   return (
     <section className="relative h-[60vh] min-h-[440px] w-full overflow-hidden flex items-end">
-      {/* Background */}
+
+      {/* ── Blurred backdrop (visible in contain mode, hidden in cover) ── */}
       <div
-        className="absolute inset-0 bg-cover bg-center"
-        style={{ backgroundImage: `url(${image})` }}
+        className="absolute inset-0 transition-opacity duration-500"
+        style={{
+          backgroundImage: `url(${image})`,
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+          filter: "blur(28px) brightness(0.28) saturate(0.7)",
+          transform: "scale(1.12)",
+          opacity: mode === "contain" ? 1 : 0,
+        }}
       />
+
+      {/* ── Main image layer ── */}
+      <div
+        className="absolute inset-0 transition-all duration-500"
+        style={{
+          backgroundImage: `url(${image})`,
+          backgroundSize: mode === "contain" ? "contain" : "cover",
+          backgroundPosition: "center",
+          backgroundRepeat: "no-repeat",
+          opacity: mode === "pending" ? 0 : 1,
+        }}
+      />
+
       <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/40 to-black/25" />
       <div className="absolute inset-0 bg-gradient-to-r from-black/50 via-transparent to-transparent" />
 
-      {/* Content */}
+      {/* ── Content ── */}
       <div className="relative z-10 section-container pb-14 w-full">
-        {/* Breadcrumb */}
         {breadcrumbs && breadcrumbs.length > 0 && (
           <motion.nav
             initial={{ opacity: 0, y: 10 }}
