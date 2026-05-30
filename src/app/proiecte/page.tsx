@@ -11,6 +11,7 @@ export default function Page() {
         title="Proiectele Noastre"
         subtitle="Lucrări realizate în toată România, pentru clienți exigenți"
         image="/images/balustrada-sticla-scari-plutitoare-1.jpeg"
+        imagePosition="center 28%"
         breadcrumbs={[{ label: "Proiecte" }]}
       />
       <div className="[&_section]:!pt-12">

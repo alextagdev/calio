@@ -13,12 +13,14 @@ interface PageHeroProps {
   image: string;
   badge?: string;
   breadcrumbs?: Crumb[];
+  imagePosition?: string;
 }
 
 type ImgMode = "cover" | "contain" | "pending";
 
-export default function PageHero({ title, subtitle, image, badge, breadcrumbs }: PageHeroProps) {
+export default function PageHero({ title, subtitle, image, badge, breadcrumbs, imagePosition }: PageHeroProps) {
   const [mode, setMode] = useState<ImgMode>("pending");
+  const [position, setPosition] = useState("center");
 
   useEffect(() => {
     setMode("pending");
@@ -27,14 +29,28 @@ export default function PageHero({ title, subtitle, image, badge, breadcrumbs }:
       const ratio = img.naturalWidth / img.naturalHeight;
       const isPortrait = ratio < 1.3;
       const isTooSmall = img.naturalWidth < 1100;
-      setMode(isPortrait || isTooSmall ? "contain" : "cover");
+      const m: ImgMode = isPortrait || isTooSmall ? "contain" : "cover";
+      setMode(m);
+
+      // For very wide landscape images (common problem on subpages),
+      // default to a lower focal point so the main subject isn't cropped too aggressively.
+      if (imagePosition) {
+        setPosition(imagePosition);
+      } else if (m === "cover" && ratio > 1.85) {
+        setPosition("center 30%");
+      } else {
+        setPosition("center");
+      }
     };
-    img.onerror = () => setMode("cover");
+    img.onerror = () => {
+      setMode("cover");
+      setPosition(imagePosition || "center");
+    };
     img.src = image;
-  }, [image]);
+  }, [image, imagePosition]);
 
   return (
-    <section className="relative h-[60vh] min-h-[440px] w-full overflow-hidden flex items-end">
+    <section className="relative h-[66vh] min-h-[490px] w-full overflow-hidden flex items-end">
 
       {/* ── Blurred backdrop (visible in contain mode, hidden in cover) ── */}
       <div
@@ -42,7 +58,7 @@ export default function PageHero({ title, subtitle, image, badge, breadcrumbs }:
         style={{
           backgroundImage: `url(${image})`,
           backgroundSize: "cover",
-          backgroundPosition: "center",
+          backgroundPosition: position,
           filter: "blur(28px) brightness(0.28) saturate(0.7)",
           transform: "scale(1.12)",
           opacity: mode === "contain" ? 1 : 0,
@@ -55,7 +71,7 @@ export default function PageHero({ title, subtitle, image, badge, breadcrumbs }:
         style={{
           backgroundImage: `url(${image})`,
           backgroundSize: mode === "contain" ? "contain" : "cover",
-          backgroundPosition: "center",
+          backgroundPosition: position,
           backgroundRepeat: "no-repeat",
           opacity: mode === "pending" ? 0 : 1,
         }}

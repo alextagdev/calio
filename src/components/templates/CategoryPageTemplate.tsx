@@ -22,6 +22,7 @@ export default function CategoryPageTemplate({ data, breadcrumbs }: Props) {
         title={data.title}
         subtitle={data.intro}
         image={data.heroImage}
+        imagePosition={data.heroImagePosition}
         breadcrumbs={breadcrumbs}
       />
 

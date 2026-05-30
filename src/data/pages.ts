@@ -8,6 +8,7 @@ export type PageData = {
   subtitle: string;
   heroImage: string;
   heroBadge?: string;
+  heroImagePosition?: string;
   intro: string;
   description: string;
   features: Feature[];
@@ -22,6 +23,7 @@ export type CategoryData = {
   title: string;
   subtitle: string;
   heroImage: string;
+  heroImagePosition?: string;
   intro: string;
   description: string;
   products: {

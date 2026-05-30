@@ -13,6 +13,7 @@ export default function Page() {
         title="Despre Calio"
         subtitle="15 ani de excelență în sisteme de tâmplărie premium"
         image="/images/fatada-rezidentiala-balustrade-2.jpeg"
+        imagePosition="center 32%"
         breadcrumbs={[{ label: "Despre noi" }]}
       />
       <div className="[&_section#despre]:pt-16">

@@ -27,6 +27,7 @@ export default function ProductPageTemplate({ data, breadcrumbs }: Props) {
         subtitle={data.subtitle}
         image={data.heroImage}
         badge={data.heroBadge}
+        imagePosition={data.heroImagePosition}
         breadcrumbs={breadcrumbs}
       />
 
