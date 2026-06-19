@@ -9,23 +9,23 @@ const testimonials = [
     id: 1,
     name: "Alexandru Ionescu",
     role: "Arhitect, Studio IO",
-    text: "Calio este partenerul perfect pentru proiectele de înaltă exigență. Toleranțele sunt impecabile, comunicarea este excelentă și livrarea este mereu la termen. Am lucrat cu ei pe 12 proiecte și nu m-au dezamăgit niciodată.",
+    text: "Calio este partenerul perfect pentru proiectele de inalta exigenta. Tolerantele sunt impecabile, comunicarea este excelenta si livrarea este mereu la termen. Am lucrat cu ei pe 12 proiecte si nu m-au dezamagit niciodata.",
     initials: "AI",
-    project: "Vilă Snagov, 2024",
+    project: "Vila Snagov, 2024",
   },
   {
     id: 2,
     name: "Mihaela Popescu",
     role: "Developer imobiliar",
-    text: "Am ales Calio pentru 3 proiecte rezidențiale premium. Calitatea produselor este comparabilă cu furnizori vest-europeni, dar cu o flexibilitate mult mai mare în personalizare și cu timp de răspuns rapid.",
+    text: "Am ales Calio pentru 3 proiecte rezidentiale premium. Calitatea produselor este comparabila cu furnizori vest-europeni, dar cu o flexibilitate mult mai mare in personalizare si cu timp de raspuns rapid.",
     initials: "MP",
-    project: "Complex rezidențial, 2023",
+    project: "Complex rezidential, 2023",
   },
   {
     id: 3,
     name: "Radu Dumitrescu",
     role: "Constructor general",
-    text: "Cel mai bun furnizor de tâmplărie cu care am lucrat în România. Documentația tehnică este completă, montajul este rapid și rezultatul final arată exact ca în randări.",
+    text: "Cel mai bun furnizor de tamplarie cu care am lucrat in Romania. Documentatia tehnica este completa, montajul este rapid si rezultatul final arata exact ca in randari.",
     initials: "RD",
     project: "Sediu corporat, 2023",
   },
@@ -51,7 +51,7 @@ export default function TestimonialsSection() {
         >
           <span className="eyebrow" style={{ textAlign: "center" }}>Testimoniale</span>
           <h2 className="text-4xl md:text-5xl font-extralight text-[#f0f0f0]">
-            Ce spun clienții noștri
+            Ce spun clientii nostri
           </h2>
         </motion.div>
 

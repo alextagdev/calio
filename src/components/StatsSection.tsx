@@ -4,9 +4,9 @@ import { useRef, useEffect, useState } from "react";
 import { motion, useInView } from "framer-motion";
 
 const stats = [
-  { value: 15, suffix: "+", label: "Ani de experiență" },
+  { value: 15, suffix: "+", label: "Ani de experienta" },
   { value: 850, suffix: "+", label: "Proiecte finalizate" },
-  { value: 98, suffix: "%", label: "Clienți mulțumiți" },
+  { value: 98, suffix: "%", label: "Clienti multumiti" },
   { value: 12, suffix: "", label: "Parteneri europeni" },
 ];
 
@@ -63,7 +63,7 @@ export default function StatsSection() {
         >
           <span className="eyebrow" style={{ textAlign: "center" }}>Cifre care vorbesc</span>
           <h2 className="text-4xl md:text-5xl font-extralight text-[#f0f0f0]">
-            Calitate dovedită
+            Calitate dovedita
           </h2>
         </motion.div>
 

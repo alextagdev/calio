@@ -5,12 +5,12 @@ import { motion, useInView, useScroll, useTransform } from "framer-motion";
 import { CheckCircle2 } from "lucide-react";
 
 const values = [
-  "Profiluri certificate CE și ISO 9001",
+  "Profiluri certificate CE si ISO 9001",
   "Garnituri EPDM rezistente UV",
   "Geam tripan cu gaz argon",
-  "Feronerie Roto și Maco",
-  "Vopsire RAL pulbere electrostatică",
-  "Montaj echipă proprie certificată",
+  "Feronerie Roto si Maco",
+  "Vopsire RAL pulbere electrostatica",
+  "Montaj echipa proprie certificata",
 ];
 
 export default function AboutSection() {
@@ -48,11 +48,11 @@ export default function AboutSection() {
             >
               <span className="text-4xl font-extralight text-gradient block mb-1">2009</span>
               <span className="text-[10px] tracking-[0.25em] uppercase text-[#555]">
-                Fondată în România
+                Fondata in Romania
               </span>
               <div className="mt-3 pt-3 border-t border-[#272727]">
                 <span className="text-[11px] text-[#777] leading-relaxed">
-                  15+ ani de excelență în tâmplărie premium
+                  15+ ani de excelenta in tamplarie premium
                 </span>
               </div>
             </motion.div>
@@ -67,7 +67,7 @@ export default function AboutSection() {
               transition={{ duration: 0.7, delay: 0.05 }}
               className="text-4xl md:text-[3.25rem] font-extralight text-[#f0f0f0] leading-[1.1] mb-6"
             >
-              Arhitectură fără{" "}
+              Arhitectura fara{" "}
               <span className="text-gradient">compromisuri</span>
             </motion.h2>
 
@@ -77,9 +77,9 @@ export default function AboutSection() {
               transition={{ duration: 0.7, delay: 0.12 }}
               className="text-[#5a5a5a] leading-relaxed mb-4 text-sm"
             >
-              Calio s-a construit pe principiul că frumusețea și performanța nu sunt opuse —
-              sunt complementare. Fiecare sistem pe care îl producem îmbină estetica
-              minimalistă cu ingineria de precizie.
+              Calio s-a construit pe principiul ca frumusetea si performanta nu sunt opuse —
+              sunt complementare. Fiecare sistem pe care il producem imbina estetica
+              minimalista cu ingineria de precizie.
             </motion.p>
             <motion.p
               initial={{ opacity: 0, y: 18 }}
@@ -87,8 +87,8 @@ export default function AboutSection() {
               transition={{ duration: 0.7, delay: 0.18 }}
               className="text-[#5a5a5a] leading-relaxed mb-10 text-sm"
             >
-              Lucrăm cu arhitecți, designeri de interior și constructori pentru a livra
-              soluții personalizate — de la vilele private la clădirile comerciale de lux.
+              Lucram cu arhitecti, designeri de interior si constructori pentru a livra
+              solutii personalizate — de la vilele private la cladirile comerciale de lux.
             </motion.p>
 
             {/* Checklist */}
@@ -113,7 +113,7 @@ export default function AboutSection() {
               className="flex flex-wrap items-center gap-4"
             >
               <a href="/contact" className="btn btn-primary">
-                Lucrează cu noi
+                Lucreaza cu noi
               </a>
               <a
                 href="/proiecte"

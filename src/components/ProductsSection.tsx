@@ -8,61 +8,61 @@ const products = [
   {
     id: 1,
     category: "Aluminiu",
-    name: "Ferestre Minimale",
+    name: "Ferestre minimale",
     description:
-      "Profiluri ultra-subțiri din aluminiu cu izolare termică superioară. Ramă de maximum 18mm pentru un aspect pur și luminos.",
+      "Profile ultra-subtiri din aluminiu cu izolare termica superioara. Rama de maximum 18mm pentru un aspect pur si luminos.",
     image: "/images/fatada-rezidentiala-balustrade-1.jpeg",
     features: ["Profil 18mm", "Tripan Low-E", "Uf = 0.8 W/m²K"],
     accent: "#c8a96e",
   },
   {
     id: 2,
-    category: "Sticlă",
-    name: "Uși Glisante Floor-to-Ceiling",
+    category: "Sticla",
+    name: "Usi glisante floor-to-ceiling",
     description:
-      "Sisteme glisante panoramice fără prag. Îmbinare perfectă între spațiile interioare și exterioare.",
+      "Sisteme glisante panoramice fara prag. Imbinare perfecta intre spatiile interioare si exterioare.",
     image: "/images/balustrada-sticla-balcon-1.jpeg",
-    features: ["Fără prag", "Deschidere 6m+", "Sticlă securizată"],
+    features: ["Fara prag", "Deschidere 6m+", "Sticla securizata"],
     accent: "#8fb8d4",
   },
   {
     id: 3,
     category: "PVC",
-    name: "Ferestre PVC Premium",
+    name: "Ferestre PVC premium",
     description:
-      "Sisteme PVC cu 7 camere pentru izolație termică și fonică maximă. Ideal pentru clădiri rezidențiale.",
+      "Sisteme PVC cu 7 camere pentru izolatie termica si fonica maxima. Ideal pentru cladiri rezidentiale.",
     image: "/images/balustrada-sticla-scari-interior-3.jpeg",
-    features: ["7 camere", "Uw = 0.7 W/m²K", "Fonoire 45dB"],
+    features: ["7 camere", "Uw = 0.7 W/m²K", "Fonie 45dB"],
     accent: "#7ab87a",
   },
   {
     id: 4,
-    category: "Fațade",
-    name: "Fațadă Cortină",
+    category: "Fatade",
+    name: "Fatada cortina",
     description:
-      "Sisteme de fațadă unitizată pentru clădiri comerciale și rezidențiale de înaltă clasă.",
+      "Sisteme de fatada unitizata pentru cladiri comerciale si rezidentiale de inalta clasa.",
     image: "/images/balustrada-sticla-scari-plutitoare-1.jpeg",
-    features: ["Unitizată", "Structural glazing", "Certificare CE"],
+    features: ["Unitizata", "Structural glazing", "Certificare CE"],
     accent: "#c8a96e",
   },
   {
     id: 5,
-    category: "Sticlă",
-    name: "Balustrade din Sticlă",
+    category: "Sticla",
+    name: "Balustrade din sticla",
     description:
-      "Balustrade din sticlă laminată securizată pentru balcoane, scări interioare și terase.",
+      "Balustrade din sticla laminata securizata pentru balcoane, scari interioare si terase.",
     image: "/images/balustrada-sticla-scari-exterioare-1.jpeg",
-    features: ["VSG 8.8", "Fără montant", "Interior/Exterior"],
+    features: ["VSG 8.8", "Fara montant", "Interior/Exterior"],
     accent: "#8fb8d4",
   },
   {
     id: 6,
     category: "Aluminiu",
-    name: "Uși Pivotante",
+    name: "Usi pivotante",
     description:
-      "Uși de intrare cu sistem pivot pentru o intrare spectaculoasă. Dimensiuni până la 1.2m x 3m.",
+      "Usi de intrare cu sistem pivot pentru o intrare spectaculoasa. Dimensiuni pana la 1.2m x 3m.",
     image: "/images/fatada-rezidentiala-balustrade-2.jpeg",
-    features: ["Pivot central", "până la 3m înălțime", "Control acces"],
+    features: ["Pivot central", "pana la 3m inaltime", "Control acces"],
     accent: "#7ab87a",
   },
 ];
@@ -143,7 +143,7 @@ function ProductCard({ product, index }: { product: (typeof products)[0]; index:
           className="flex items-center gap-1.5 text-[11px] tracking-[0.2em] uppercase font-medium transition-colors duration-300"
           style={{ color: product.accent }}
         >
-          Solicită detalii
+          Solicita detalii
           <ArrowUpRight size={13} />
         </a>
       </div>
@@ -167,7 +167,7 @@ export default function ProductsSection() {
         {/* Header */}
         <div ref={titleRef} className="mb-16 flex flex-col md:flex-row md:items-end md:justify-between gap-8">
           <div>
-            <span className="eyebrow">Gama Noastră</span>
+            <span className="eyebrow">Gama noastra</span>
             <motion.h2
               initial={{ opacity: 0, y: 28 }}
               animate={titleInView ? { opacity: 1, y: 0 } : {}}
@@ -175,7 +175,7 @@ export default function ProductsSection() {
               className="text-4xl md:text-[3.25rem] font-extralight text-[#f5f5f0] leading-[1.1]"
             >
               Produse{" "}
-              <span className="text-gradient">Premium</span>
+              <span className="text-gradient">premium</span>
             </motion.h2>
           </div>
           <motion.p
@@ -184,8 +184,8 @@ export default function ProductsSection() {
             transition={{ duration: 0.7, delay: 0.15 }}
             className="max-w-xs text-[#5a5a5a] text-sm leading-relaxed md:text-right"
           >
-            Fiecare produs este conceput pentru performanță maximă și un design
-            care rezistă timpului.
+            Fiecare produs este conceput pentru performanta maxima si un design
+            care rezista timpului.
           </motion.p>
         </div>
 

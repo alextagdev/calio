@@ -9,7 +9,7 @@ export default function Page() {
     <ProductPageTemplate
       data={pages["tamplarie-pvc/plase-insecte"]}
       breadcrumbs={[
-        { label: "Tâmplărie PVC", href: "/tamplarie-pvc" },
+        { label: "Tamplarie PVC", href: "/tamplarie-pvc" },
         { label: "Plase Insecte" },
       ]}
     />

@@ -7,7 +7,7 @@ import { X, MapPin, ChevronLeft, ChevronRight } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Vilă Rezidențială cu Balustrade",
+    title: "Vila rezidentiala cu balustrade",
     category: "Balustrade",
     location: "Ilfov",
     year: "2025",
@@ -15,39 +15,39 @@ const projects = [
       "/images/fatada-rezidentiala-balustrade-1.jpeg",
       "/images/fatada-rezidentiala-balustrade-2.jpeg",
     ],
-    tags: ["Balustrade sticlă", "Balcon", "Ferestre aluminiu"],
-    description: "Fațadă completă cu balustrade din sticlă securizată pe balcoane și ferestre din aluminiu negru mat.",
+    tags: ["Balustrade sticla", "Balcon", "Ferestre aluminiu"],
+    description: "Fatada completa cu balustrade din sticla securizata pe balcoane si ferestre din aluminiu negru mat.",
   },
   {
     id: 2,
-    title: "Balcon Modern cu Sticlă Panoramică",
+    title: "Balcon modern cu sticla panoramica",
     category: "Balustrade",
-    location: "București",
+    location: "Bucuresti",
     year: "2025",
     images: [
       "/images/balustrada-sticla-balcon-1.jpeg",
       "/images/balustrada-sticla-balcon-2.jpeg",
     ],
-    tags: ["Balustrade sticlă", "Balcon", "Cleme inox"],
-    description: "Balustrade din sticlă VSG cu cleme inox 316L pe balconul unui duplex modern, fără profile vizibile.",
+    tags: ["Balustrade sticla", "Balcon", "Cleme inox"],
+    description: "Balustrade din sticla VSG cu cleme inox 316L pe balconul unui duplex modern, fara profile vizibile.",
   },
   {
     id: 3,
-    title: "Scări Plutitoare Duplex Interior",
+    title: "Scari plutitoare duplex interior",
     category: "Balustrade",
-    location: "București",
+    location: "Bucuresti",
     year: "2025",
     images: [
       "/images/balustrada-sticla-scari-plutitoare-1.jpeg",
       "/images/balustrada-sticla-scari-plutitoare-2.jpeg",
       "/images/balustrada-sticla-scari-plutitoare-3.jpeg",
     ],
-    tags: ["Scări plutitoare", "Balustrade sticlă", "Interior"],
-    description: "Sistem de balustrade din sticlă securizată pe scări plutitoare cu trepte din lemn, interior duplex modern.",
+    tags: ["Scari plutitoare", "Balustrade sticla", "Interior"],
+    description: "Sistem de balustrade din sticla securizata pe scari plutitoare cu trepte din lemn, interior duplex modern.",
   },
   {
     id: 4,
-    title: "Balustrade Scări Granit Negru",
+    title: "Balustrade scari granit negru",
     category: "Balustrade",
     location: "Ilfov",
     year: "2024",
@@ -56,26 +56,26 @@ const projects = [
       "/images/balustrada-sticla-scari-granit-2.jpeg",
       "/images/balustrada-sticla-scari-granit-3.jpeg",
     ],
-    tags: ["Sticlă fumurie", "Granit negru", "Mână curentă"],
-    description: "Balustrade din sticlă fumurie cu mână curentă neagră și ornamente aurii pe scări din granit negru lustruit.",
+    tags: ["Sticla fumurie", "Granit negru", "Mana curenta"],
+    description: "Balustrade din sticla fumurie cu mana curenta neagra si ornamente aurii pe scari din granit negru lustruit.",
   },
   {
     id: 5,
-    title: "Balustradă Exterioară Intrare Vilă",
+    title: "Balustrada exterioara intrare vila",
     category: "Balustrade",
     location: "Ilfov",
     year: "2025",
     images: [
       "/images/balustrada-sticla-scari-exterioare-1.jpeg",
     ],
-    tags: ["Exterior", "Sticlă", "Mână curentă neagră"],
-    description: "Balustradă din sticlă securizată cu prindere punctuală și mână curentă neagră la intrarea unei vile.",
+    tags: ["Exterior", "Sticla", "Mana curenta neagra"],
+    description: "Balustrada din sticla securizata cu prindere punctuala si mana curenta neagra la intrarea unei vile.",
   },
   {
     id: 6,
-    title: "Scări cu Balustrade Inox și Sticlă",
+    title: "Scari cu balustrade inox si sticla",
     category: "Balustrade",
-    location: "București",
+    location: "Bucuresti",
     year: "2024",
     images: [
       "/images/balustrada-sticla-scari-interior-1.jpeg",
@@ -83,14 +83,14 @@ const projects = [
       "/images/balustrada-sticla-scari-interior-3.jpeg",
       "/images/balustrada-sticla-scari-interior-4.jpeg",
     ],
-    tags: ["Inox 316L", "Sticlă VSG", "Interior"],
-    description: "Balustrade din sticlă securizată cu mână curentă din inox satinat pe scări cu trepte din marmură gri.",
+    tags: ["Inox 316L", "Sticla VSG", "Interior"],
+    description: "Balustrade din sticla securizata cu mana curenta din inox satinat pe scari cu trepte din marmura gri.",
   },
   {
     id: 7,
-    title: "Fațadă Ventilată Placare Bond",
-    category: "Fațade Ventilate",
-    location: "București",
+    title: "Fatada ventilata placare Bond",
+    category: "Fatade ventilate",
+    location: "Bucuresti",
     year: "2026",
     images: [
       "/images/fatata-ventilata-placare-bond/WhatsApp%20Image%202026-05-20%20at%2020.19.46.jpeg",
@@ -99,14 +99,14 @@ const projects = [
       "/images/fatata-ventilata-placare-bond/poza4.jpeg",
       "/images/fatata-ventilata-placare-bond/poza5.jpeg",
     ],
-    tags: ["Panouri Bond", "Fațadă ventilată", "Aluminiu compozit"],
-    description: "Sistem complet de fațadă ventilată cu panouri compozite aluminiu Bond, profil ascuns și finisaj premium.",
+    tags: ["Panouri Bond", "Fatada ventilata", "Aluminiu compozit"],
+    description: "Sistem complet de fatada ventilata cu panouri compozite aluminiu Bond, profil ascuns si finisaj premium.",
   },
   {
     id: 8,
-    title: "Închideri Terasă cu Sticlă Pliabilă",
-    category: "Sticlă Securizată",
-    location: "București",
+    title: "Inchideri terasa cu sticla pliabila",
+    category: "Sticla securizata",
+    location: "Bucuresti",
     year: "2026",
     images: [
       "/images/inchideri-sticla-pliabila/WhatsApp%20Image%202026-05-20%20at%2013.19.18.jpeg",
@@ -120,14 +120,14 @@ const projects = [
       "/images/inchideri-sticla-pliabila/poza9.jpeg",
       "/images/inchideri-sticla-pliabila/poza10.jpeg",
     ],
-    tags: ["Sticlă pliabilă", "Terasă", "Sistem glisant"],
-    description: "Sistem de închidere cu panouri din sticlă pliabilă pentru terasă, deschidere totală, profil minim.",
+    tags: ["Sticla pliabila", "Terasa", "Sistem glisant"],
+    description: "Sistem de inchidere cu panouri din sticla pliabila pentru terasa, deschidere totala, profil minim.",
   },
   {
     id: 9,
-    title: "Paravane Sticlă Duș și Baie",
-    category: "Sticlă Securizată",
-    location: "București",
+    title: "Paravane sticla dus si baie",
+    category: "Sticla securizata",
+    location: "Bucuresti",
     year: "2026",
     images: [
       "/images/paravane-sticla-baie/WhatsApp%20Image%202026-05-20%20at%2013.17.32.jpeg",
@@ -137,14 +137,14 @@ const projects = [
       "/images/paravane-sticla-baie/paravan5.jpeg",
       "/images/paravane-sticla-baie/paravan6.jpeg",
     ],
-    tags: ["Paravan duș", "Sticlă securizată", "Baie"],
-    description: "Paravane din sticlă securizată securit pentru spații de duș și baie, personalizate după dimensiunile clientului.",
+    tags: ["Paravan dus", "Sticla securizata", "Baie"],
+    description: "Paravane din sticla securizata securit pentru spatii de dus si baie, personalizate dupa dimensiunile clientului.",
   },
   {
     id: 10,
-    title: "Partiție din Sticlă pentru Salon",
-    category: "Sticlă Securizată",
-    location: "București",
+    title: "Partitie din sticla pentru salon",
+    category: "Sticla securizata",
+    location: "Bucuresti",
     year: "2026",
     images: [
       "/images/partitie-sticla-salon/WhatsApp%20Image%202026-05-20%20at%2013.18.08.jpeg",
@@ -152,14 +152,14 @@ const projects = [
       "/images/partitie-sticla-salon/poza3.jpeg",
       "/images/partitie-sticla-salon/poza4.jpeg",
     ],
-    tags: ["Compartimentare", "Sticlă", "Salon"],
-    description: "Partiție fixă din sticlă securizată cu profil negru mat, separare elegantă a spațiului în salon.",
+    tags: ["Compartimentare", "Sticla", "Salon"],
+    description: "Partitie fixa din sticla securizata cu profil negru mat, separare eleganta a spatiului in salon.",
   },
   {
     id: 11,
-    title: "Cantină cu Terasă Exterioară",
+    title: "Cantina cu terasa exterioara",
     category: "Pergole & Terase",
-    location: "București",
+    location: "Bucuresti",
     year: "2026",
     images: [
       "/images/proiect-cantina-terasa-exterioara/WhatsApp%20Image%202026-05-20%20at%2013.21.25.jpeg",
@@ -172,14 +172,14 @@ const projects = [
       "/images/proiect-cantina-terasa-exterioara/poza8.jpeg",
       "/images/proiect-cantina-terasa-exterioara/poza9.jpeg",
     ],
-    tags: ["Terasă exterioară", "Pergolă", "Proiect comercial"],
-    description: "Amenajare completă terasă exterioară pentru cantină, cu sisteme de acoperire și protecție solară.",
+    tags: ["Terasa exterioara", "Pergola", "Proiect comercial"],
+    description: "Amenajare completa terasa exterioara pentru cantina, cu sisteme de acoperire si protectie solara.",
   },
   {
     id: 12,
-    title: "Cortină de Terasă din Sticlă",
-    category: "Pereți Cortină",
-    location: "București",
+    title: "Cortina de terasa din sticla",
+    category: "Pereti cortina",
+    location: "Bucuresti",
     year: "2026",
     images: [
       "/images/proiecte-cortina-terasa-sticla/WhatsApp%20Image%202026-05-20%20at%2013.22.50.jpeg",
@@ -194,12 +194,12 @@ const projects = [
       "/images/proiecte-cortina-terasa-sticla/poza10.jpeg",
       "/images/proiecte-cortina-terasa-sticla/poza11.jpeg",
     ],
-    tags: ["Perete cortină", "Sticlă", "Terasă"],
-    description: "Sistem perete cortină cu sticlă pentru terasă comercială, prindere punctuală și structură metalică vizibilă.",
+    tags: ["Perete cortina", "Sticla", "Terasa"],
+    description: "Sistem perete cortina cu sticla pentru terasa comerciala, prindere punctuala si structura metalica vizibila.",
   },
 ];
 
-const categories = ["Toate", "Balustrade", "Fațade Ventilate", "Sticlă Securizată", "Pereți Cortină", "Pergole & Terase"];
+const categories = ["Toate", "Balustrade", "Fatade ventilate", "Sticla securizata", "Pereti cortina", "Pergole & Terase"];
 
 function ProjectCard({
   project,
@@ -293,7 +293,7 @@ export default function ProjectsGallery() {
       <div className="section-container">
         <div ref={titleRef} className="mb-12 flex flex-col md:flex-row md:items-end md:justify-between gap-8">
           <div>
-            <span className="eyebrow">Referințe</span>
+            <span className="eyebrow">Referinte</span>
             <motion.h2
               initial={{ opacity: 0, y: 28 }}
               animate={titleInView ? { opacity: 1, y: 0 } : {}}

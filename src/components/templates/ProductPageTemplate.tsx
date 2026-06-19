@@ -45,12 +45,12 @@ export default function ProductPageTemplate({ data, breadcrumbs }: Props) {
             </div>
             <div className="lg:col-span-2 flex flex-col gap-4">
               <Link href="/contact" className="btn btn-primary w-full justify-center">
-                Solicită Ofertă
+                Solicita oferta
               </Link>
               <Link href="/contact" className="btn btn-outline w-full justify-center text-[11px]">
-                Consultanță gratuită
+                Consultanta gratuita
               </Link>
-              <p className="text-[10px] text-[#3a3a3a] text-center">Răspuns în maxim 24h</p>
+              <p className="text-[10px] text-[#3a3a3a] text-center">Raspuns in maxim 24h</p>
             </div>
           </div>
         </div>
@@ -67,7 +67,7 @@ export default function ProductPageTemplate({ data, breadcrumbs }: Props) {
           >
             <span className="eyebrow">Caracteristici</span>
             <h2 className="text-3xl md:text-4xl font-extralight text-[#f0f0f0]">
-              De ce să alegi <span className="text-gradient">{data.title}</span>
+              De ce sa alegi <span className="text-gradient">{data.title}</span>
             </h2>
           </motion.div>
 
@@ -101,7 +101,7 @@ export default function ProductPageTemplate({ data, breadcrumbs }: Props) {
               animate={specsInView ? { opacity: 1, x: 0 } : {}}
               transition={{ duration: 0.6 }}
             >
-              <span className="eyebrow">Specificații tehnice</span>
+              <span className="eyebrow">Specificatii tehnice</span>
               <h2 className="text-3xl font-extralight text-[#f0f0f0] mb-8">
                 Date tehnice
               </h2>
@@ -125,35 +125,35 @@ export default function ProductPageTemplate({ data, breadcrumbs }: Props) {
               className="bg-[#0f0f0f] border border-[#1e1e1e] p-8"
             >
               <span className="text-[10px] tracking-[0.3em] uppercase text-[#c8a96e] block mb-4">
-                Solicită consultanță
+                Solicita consultanta
               </span>
               <h3 className="text-2xl font-extralight text-[#f0f0f0] mb-4">
-                Vrem să te ajutăm să alegi corect
+                Vrem sa te ajutam sa alegi corect
               </h3>
               <p className="text-[#4a4a4a] text-sm leading-relaxed mb-6">
-                Echipa noastră de specialiști este disponibilă pentru a vă oferi o consultanță gratuită
-                și o ofertă personalizată pentru proiectul dumneavoastră.
+                Echipa noastra de specialisti este disponibila pentru a va oferi o consultanta gratuita
+                si o oferta personalizata pentru proiectul dumneavoastra.
               </p>
               <div className="space-y-3">
                 <div className="flex items-center gap-3 text-sm text-[#888]">
                   <CheckCircle2 size={14} className="text-[#c8a96e]" />
-                  <span>Consultanță gratuită fără obligații</span>
+                  <span>Consultanta gratuita fara obligatii</span>
                 </div>
                 <div className="flex items-center gap-3 text-sm text-[#888]">
                   <CheckCircle2 size={14} className="text-[#c8a96e]" />
-                  <span>Măsurători la fața locului incluse</span>
+                  <span>Masuratori la fata locului incluse</span>
                 </div>
                 <div className="flex items-center gap-3 text-sm text-[#888]">
                   <CheckCircle2 size={14} className="text-[#c8a96e]" />
-                  <span>Ofertă în 24h de la solicitare</span>
+                  <span>Oferta in 24h de la solicitare</span>
                 </div>
                 <div className="flex items-center gap-3 text-sm text-[#888]">
                   <CheckCircle2 size={14} className="text-[#c8a96e]" />
-                  <span>Garanție până la 5 ani inclusiv</span>
+                  <span>Garantie pana la 5 ani inclusiv</span>
                 </div>
               </div>
               <Link href="/contact" className="btn btn-primary w-full justify-center mt-7">
-                Solicită Ofertă Gratuită
+                Solicita oferta gratuita
               </Link>
             </motion.div>
           </div>
@@ -197,19 +197,19 @@ export default function ProductPageTemplate({ data, breadcrumbs }: Props) {
       {/* Bottom CTA */}
       <section className="py-20 bg-[#0a0a0a]">
         <div className="section-container text-center">
-          <span className="eyebrow" style={{ textAlign: "center" }}>Următorul pas</span>
+          <span className="eyebrow" style={{ textAlign: "center" }}>Urmatorul pas</span>
           <h2 className="text-3xl md:text-4xl font-extralight text-[#f0f0f0] mb-4">
-            Pornești un proiect?
+            Pornesti un proiect?
           </h2>
           <p className="text-[#4a4a4a] text-sm mb-8 max-w-md mx-auto">
-            Contactează-ne astăzi pentru o consultanță gratuită și o ofertă personalizată.
+            Contacteaza-ne astazi pentru o consultanta gratuita si o oferta personalizata.
           </p>
           <div className="flex flex-wrap gap-4 justify-center">
             <Link href="/contact" className="btn btn-primary">
-              Solicită Ofertă
+              Solicita oferta
             </Link>
             <Link href="/proiecte" className="btn btn-outline">
-              Vezi Proiectele Noastre
+              Vezi proiectele noastre
             </Link>
           </div>
         </div>

@@ -7,30 +7,30 @@ const slides = [
   {
     id: 1,
     image: "/images/fatada-rezidentiala-balustrade-1.jpeg",
-    title: "Ferestre din\nAluminiu",
-    subtitle: "Precizie și eleganță pentru arhitectura modernă",
-    tag: "Sisteme Aluminiu",
+    title: "Ferestre din\naluminiu",
+    subtitle: "Precizie si eleganta pentru arhitectura moderna",
+    tag: "Sisteme aluminiu",
   },
   {
     id: 2,
     image: "/images/balustrada-sticla-scari-plutitoare-1.jpeg",
-    title: "Balustrade\ndin Sticlă",
-    subtitle: "Eleganță și siguranță pentru scări, balcoane și terase",
-    tag: "Balustrade Sticlă",
+    title: "Balustrade\ndin sticla",
+    subtitle: "Eleganta si siguranta pentru scari, balcoane si terase",
+    tag: "Balustrade sticla",
   },
   {
     id: 3,
     image: "/images/balustrada-sticla-scari-interior-3.jpeg",
-    title: "Sisteme PVC\nPremium",
-    subtitle: "Izolare termică și fonică de excepție",
+    title: "Sisteme PVC\npremium",
+    subtitle: "Izolare termica si fonica de exceptie",
     tag: "Sisteme PVC",
   },
   {
     id: 4,
     image: "/images/balustrada-sticla-scari-exterioare-1.jpeg",
-    title: "Fațade\nCortină",
-    subtitle: "Soluții integrate pentru clădiri contemporane",
-    tag: "Fațade",
+    title: "Fatade\ncortina",
+    subtitle: "Solutii integrate pentru cladiri contemporane",
+    tag: "Fatade",
   },
 ];
 
@@ -105,7 +105,7 @@ export default function HeroSlider() {
               {/* Buttons */}
               <div className="flex flex-wrap items-center gap-4">
                 <a href="/tamplarie-aluminiu" className="btn btn-primary">
-                  Descoperă
+                  Descopera
                 </a>
                 <a href="/proiecte" className="btn btn-outline">
                   Proiectele noastre

@@ -90,7 +90,7 @@ export default function PageHero({ title, subtitle, image, badge, breadcrumbs, i
             className="flex items-center gap-1.5 mb-5 flex-wrap"
           >
             <Link href="/" className="text-[10px] tracking-[0.2em] uppercase text-[#555] hover:text-[#c8a96e] transition-colors">
-              Acasă
+              Acasa
             </Link>
             {breadcrumbs.map((crumb, i) => (
               <span key={i} className="flex items-center gap-1.5">

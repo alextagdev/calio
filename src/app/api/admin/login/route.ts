@@ -5,7 +5,7 @@ export async function POST(req: NextRequest) {
   const { password } = await req.json().catch(() => ({}));
 
   if (!password || !checkPassword(password)) {
-    return NextResponse.json({ error: 'Parolă incorectă' }, { status: 401 });
+    return NextResponse.json({ error: 'Parola incorecta' }, { status: 401 });
   }
 
   const res = NextResponse.json({ ok: true });

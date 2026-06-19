@@ -9,24 +9,24 @@ const systems = [
     label: "Aluminiu",
     title: "Precizie la\nnivel molecular",
     description:
-      "Profilurile din aluminiu Calio sunt realizate prin extrudare de înaltă precizie, utilizând aliaje speciale tratate termic. Rezultatul: sisteme cu rezistență excepțională, toleranțe de ±0.1mm și durată de viață de peste 50 de ani.",
+      "Profilurile din aluminiu Calio sunt realizate prin extrudare de inalta precizie, utilizand aliaje speciale tratate termic. Rezultatul: sisteme cu rezistenta exceptionala, tolerante de ±0.1mm si durata de viata de peste 50 de ani.",
     specs: [
-      { label: "Grosime ramă", value: "12–24 mm" },
-      { label: "Rezistență vânt", value: "Clasa C5" },
+      { label: "Grosime rama", value: "12–24 mm" },
+      { label: "Rezistenta vant", value: "Clasa C5" },
       { label: "Permeabilitate aer", value: "Clasa 4" },
-      { label: "Etanșeitate apă", value: "Clasa 9A" },
+      { label: "Etanseitate apa", value: "Clasa 9A" },
     ],
     image: "/images/fatada-rezidentiala-balustrade-1.jpeg",
     color: "#c8a96e",
   },
   {
     id: "sticla",
-    label: "Sticlă",
-    title: "Lumina care\ndefinește spațiul",
+    label: "Sticla",
+    title: "Lumina care\ndefineste spatiul",
     description:
-      "Sistemele noastre din sticlă folosesc panouri securizate VSG și ESG cu tratamente speciale. Fiecare geam este calculat structural pentru a rezista la sarcini seismice și vânturi puternice.",
+      "Sistemele noastre din sticla folosesc panouri securizate VSG si ESG cu tratamente speciale. Fiecare geam este calculat structural pentru a rezista la sarcini seismice si vanturi puternice.",
     specs: [
-      { label: "Tip sticlă", value: "VSG / ESG / Tripan" },
+      { label: "Tip sticla", value: "VSG / ESG / Tripan" },
       { label: "Grosime max", value: "52 mm" },
       { label: "Factor solar", value: "g = 0.26" },
       { label: "Transmisie lum.", value: "TL = 72%" },
@@ -37,13 +37,13 @@ const systems = [
   {
     id: "pvc",
     label: "PVC",
-    title: "Izolație care\nredefinește confortul",
+    title: "Izolatie care\nredefineste confortul",
     description:
-      "Profilurile PVC premium cu 7 camere și ranforsare din oțel galvanizat oferă cea mai bună izolație termică din categorie. Certificare Passive House pentru construcții cu consum energetic aproape zero.",
+      "Profilurile PVC premium cu 7 camere si ranforsare din otel galvanizat ofera cea mai buna izolatie termica din categorie. Certificare Passive House pentru constructii cu consum energetic aproape zero.",
     specs: [
       { label: "Nr. camere", value: "7 camere" },
       { label: "Valoare Uf", value: "0.79 W/m²K" },
-      { label: "Izolare fonică", value: "45 dB" },
+      { label: "Izolare fonica", value: "45 dB" },
       { label: "Certificare", value: "Passive House" },
     ],
     image: "/images/balustrada-sticla-scari-interior-3.jpeg",
@@ -128,7 +128,7 @@ export default function SystemsSection() {
             </div>
 
             <a href="/contact" className="btn btn-outline inline-flex text-[11px]">
-              Solicită documentație tehnică
+              Solicita documentatie tehnica
             </a>
           </div>
 

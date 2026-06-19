@@ -9,7 +9,7 @@ export default function Page() {
     <ProductPageTemplate
       data={pages["tamplarie-pvc/rulouri-exterioare"]}
       breadcrumbs={[
-        { label: "Tâmplărie PVC", href: "/tamplarie-pvc" },
+        { label: "Tamplarie PVC", href: "/tamplarie-pvc" },
         { label: "Rulouri Exterioare" },
       ]}
     />

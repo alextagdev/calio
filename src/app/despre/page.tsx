@@ -11,7 +11,7 @@ export default function Page() {
     <>
       <PageHero
         title="Despre Calio"
-        subtitle="15 ani de excelență în sisteme de tâmplărie premium"
+        subtitle="15 ani de excelenta in sisteme de tamplarie premium"
         image="/images/fatada-rezidentiala-balustrade-2.jpeg"
         imagePosition="center 32%"
         breadcrumbs={[{ label: "Despre noi" }]}

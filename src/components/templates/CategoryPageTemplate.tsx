@@ -97,15 +97,15 @@ export default function CategoryPageTemplate({ data, breadcrumbs }: Props) {
         <div className="section-container flex flex-col md:flex-row md:items-center md:justify-between gap-8">
           <div>
             <h2 className="text-2xl md:text-3xl font-extralight text-[#f0f0f0] mb-2">
-              Nu ești sigur ce produs se potrivește?
+              Nu esti sigur ce produs se potriveste?
             </h2>
             <p className="text-[#4a4a4a] text-sm">
-              Consultanții noștri te ajută să alegi soluția optimă pentru proiectul tău.
+              Consultantii nostri te ajuta sa alegi solutia optima pentru proiectul tau.
             </p>
           </div>
           <div className="flex flex-wrap gap-4 flex-shrink-0">
-            <Link href="/contact" className="btn btn-primary">Solicită Consultanță</Link>
-            <Link href="/proiecte" className="btn btn-outline text-[11px]">Proiectele Noastre</Link>
+            <Link href="/contact" className="btn btn-primary">Solicita consultanta</Link>
+            <Link href="/proiecte" className="btn btn-outline text-[11px]">Proiectele noastre</Link>
           </div>
         </div>
       </section>

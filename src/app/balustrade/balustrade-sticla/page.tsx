@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import ProductPageTemplate from "@/components/templates/ProductPageTemplate";
 import { pages } from "@/data/pages";
 
-export const metadata: Metadata = { title: "Balustrade din Sticlă" };
+export const metadata: Metadata = { title: "Balustrade din sticla" };
 
 export default function Page() {
   return (
@@ -10,7 +10,7 @@ export default function Page() {
       data={pages["balustrade/balustrade-sticla"]}
       breadcrumbs={[
         { label: "Balustrade", href: "/balustrade" },
-        { label: "Balustrade Sticlă" },
+        { label: "Balustrade sticla" },
       ]}
     />
   );

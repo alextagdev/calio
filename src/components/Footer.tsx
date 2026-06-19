@@ -1,12 +1,12 @@
-"use client";
-
 const links = {
-  Produse: ["Ferestre Aluminiu", "Uși Glisante", "Sisteme PVC", "Fațade Cortină", "Balustrade Sticlă"],
-  Companie: ["Despre noi", "Proiecte", "Certificări", "Cariere", "Contact"],
-  Suport: ["Documentație tehnică", "Detalii montaj", "Garanție", "Service", "FAQ"],
+  Produse: ["Ferestre aluminiu", "Usi glisante", "Sisteme PVC", "Fatade cortina", "Balustrade sticla"],
+  Companie: ["Despre noi", "Proiecte", "Certificari", "Cariere", "Contact"],
+  Suport: ["Documentatie tehnica", "Detalii montaj", "Garantie", "Service", "FAQ"],
 };
 
 export default function Footer() {
+  const year = new Date().getFullYear();
+
   return (
     <footer className="bg-[#060606] border-t border-[#181818]">
       <div className="section-container py-16">
@@ -18,7 +18,7 @@ export default function Footer() {
               <span className="w-1.5 h-1.5 rounded-full bg-[#c8a96e]" />
             </div>
             <p className="text-[13px] text-[#4a4a4a] leading-relaxed mb-7 max-w-[220px]">
-              Sisteme premium de tâmplărie din aluminiu, PVC și sticlă pentru arhitectura modernă.
+              Sisteme premium de tamplarie din aluminiu, PVC si sticla pentru arhitectura moderna.
             </p>
             <div className="flex gap-2.5">
               {["Fb", "In", "Ig", "Yt"].map((s) => (
@@ -56,10 +56,10 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="border-t border-[#181818] pt-7 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-[11px] text-[#3a3a3a]">
-            © 2024 Calio SRL · Toate drepturile rezervate
+            © {year} Calio SRL · Toate drepturile rezervate
           </p>
           <div className="flex flex-wrap justify-center gap-5">
-            {["Politica de confidențialitate", "Termeni și condiții", "GDPR"].map((item) => (
+            {["Politica de confidentialitate", "Termeni si conditii", "GDPR"].map((item) => (
               <a
                 key={item}
                 href="#"

@@ -27,7 +27,7 @@ export async function POST(req: NextRequest) {
     const ext = path.extname(file.name).toLowerCase();
     const allowed = ['.jpg', '.jpeg', '.png', '.webp', '.gif'];
     if (!allowed.includes(ext)) {
-      return NextResponse.json({ error: 'Tip fișier neacceptat' }, { status: 400 });
+      return NextResponse.json({ error: 'Tip fisier neacceptat' }, { status: 400 });
     }
 
     const bytes = await file.arrayBuffer();

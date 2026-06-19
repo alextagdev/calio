@@ -9,7 +9,7 @@ export default function Page() {
     <>
       <PageHero
         title="Contact"
-        subtitle="Suntem aici să te ajutăm — contactează-ne pentru o ofertă gratuită"
+        subtitle="Suntem aici sa te ajutam — contacteaza-ne pentru o oferta gratuita"
         image="/images/balustrada-sticla-scari-interior-2.jpeg"
         breadcrumbs={[{ label: "Contact" }]}
       />

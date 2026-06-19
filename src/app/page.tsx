@@ -15,8 +15,8 @@ export default function Home() {
       <ProductsSection />
       <ParallaxBanner
         image="/images/balustrada-sticla-scari-interior-3.jpeg"
-        subtitle="Performanță certificată"
-        title="Tehnologie europeană,\nconstruită în România"
+        subtitle="Performanta certificata"
+        title="Tehnologie europeana,\nconstruita in Romania"
         ctaText="Sisteme disponibile"
         ctaHref="/tamplarie-aluminiu"
       />
@@ -25,8 +25,8 @@ export default function Home() {
       <ParallaxBanner
         image="/images/balustrada-sticla-scari-plutitoare-1.jpeg"
         subtitle="Portofoliu"
-        title="Proiecte care definesc\narhitectura modernă"
-        ctaText="Explorează proiectele"
+        title="Proiecte care definesc\narhitectura moderna"
+        ctaText="Exploreaza proiectele"
         ctaHref="/proiecte"
       />
       <ProjectsGallery />

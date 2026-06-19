@@ -11,12 +11,12 @@ const geist = Geist({
 
 export const metadata: Metadata = {
   title: {
-    default: "Calio | Sisteme de Aluminiu, PVC și Sticlă",
+    default: "Calio | Sisteme de aluminiu, PVC si sticla",
     template: "%s | Calio",
   },
   description:
-    "Calio — soluții premium de tâmplărie din aluminiu, PVC și sisteme de sticlă pentru arhitectură modernă. Ferestre, uși, fațade, balustrade, pergole.",
-  keywords: ["aluminiu", "PVC", "sticlă", "ferestre", "uși", "sisteme glisante", "fațade", "balustrade", "pergole"],
+    "Calio — solutii premium de tamplarie din aluminiu, PVC si sisteme de sticla pentru arhitectura moderna. Ferestre, usi, fatade, balustrade, pergole.",
+  keywords: ["aluminiu", "PVC", "sticla", "ferestre", "usi", "sisteme glisante", "fatade", "balustrade", "pergole"],
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
