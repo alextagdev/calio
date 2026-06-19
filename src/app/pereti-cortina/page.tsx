@@ -1,16 +1,19 @@
 import { Metadata } from "next";
 import ProductPageTemplate from "@/components/templates/ProductPageTemplate";
-import { pages } from "@/data/pages";
+import { getPage } from "@/data/pages";
 
-export const metadata: Metadata = { title: "Pereți Cortină" };
+export const metadata: Metadata = { title: "Pereti Cortina" };
 
-export default function Page() {
+export default async function Page() {
+  const data = getPage("pereti-cortina");
+  if (!data) return <div>Page not found</div>;
+
   return (
     <ProductPageTemplate
-      data={pages["pereti-cortina"]}
+      data={data}
       breadcrumbs={[
-        { label: "Acasă", href: "/" },
-        { label: "Pereți Cortină" },
+        { label: "Acasa", href: "/" },
+        { label: "Pereti Cortina" },
       ]}
     />
   );

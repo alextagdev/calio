@@ -1,0 +1,781 @@
+{
+  "pages": {
+    "tamplarie-aluminiu/usi-ferestre": {
+      "slug": "tamplarie-aluminiu/usi-ferestre",
+      "title": "Usi si Ferestre din Aluminiu",
+      "subtitle": "Design modern, performanta dovedita",
+      "heroImage": "/images/fatada-rezidentiala-balustrade-1.jpeg",
+      "heroBadge": "Tamplarie Aluminiu",
+      "intro": "Usile si ferestrele batante din aluminiu sunt mult mai eficiente decat solutiile clasice.",
+      "description": "Ofera confort termic sporit si un design modern. Rezistente la orice conditii meteo, etanseaza impotriva apei si vantului. Disponibile in orice culoare RAL, sunt o investitie solida pe termen lung pentru casa sau biroul dumneavoastra.",
+      "features": [
+        { "title": "Profile Reynaers & Alumil", "description": "Profile de cea mai inalta calitate europeana, testate si certificate pentru durabilitate extrema." },
+        { "title": "Geam tripan 52mm", "description": "Sticla tripan cu gaz argon si tratament Low-E pentru izolatie termica superioara." },
+        { "title": "Etansare perfecta", "description": "Garnituri EPDM pe trei randuri, care blocheaza complet infiltrarea apei si a vantului." },
+        { "title": "Design personalizabil", "description": "Disponibile in toata paleta RAL, cu finisaje mat sau lucios, lemn sau beton imprimat." },
+        { "title": "Garantie 5 ani", "description": "Garantie extinsa pe toata lucrarea, inclusiv materiale si manopera de montaj." },
+        { "title": "Montaj profesional", "description": "Echipa proprie certificata, termen de instalare 30 zile de la comanda." }
+      ],
+      "specs": [
+        { "label": "Profile", "value": "Reynaers / Alumil" },
+        { "label": "Tip deschidere", "value": "Batant / Oscilant" },
+        { "label": "Geam", "value": "Tripan 52mm Low-E" },
+        { "label": "Izolare termica", "value": "Uf ≤ 1.0 W/m²K" },
+        { "label": "Clasa etanseitate", "value": "Clasa 9A" },
+        { "label": "Rezistenta vant", "value": "Clasa C5" },
+        { "label": "Garantie", "value": "5 ani" },
+        { "label": "Termen montaj", "value": "30 zile" }
+      ],
+      "gallery": [
+        { "src": "/images/fatada-rezidentiala-balustrade-1.jpeg", "alt": "Ferestre aluminiu exterior" },
+        { "src": "/images/balustrada-sticla-scari-interior-3.jpeg", "alt": "Ferestre interior modern" },
+        { "src": "/images/balustrada-sticla-scari-exterioare-1.jpeg", "alt": "Detaliu profil aluminiu" },
+        { "src": "/images/fatada-rezidentiala-balustrade-2.jpeg", "alt": "Ansamblu ferestre vila" }
+      ]
+    },
+    "tamplarie-aluminiu/usi-glisante": {
+      "slug": "tamplarie-aluminiu/usi-glisante",
+      "title": "Usi Glisante din Aluminiu",
+      "subtitle": "Deschidere totala, luminozitate maxima",
+      "heroImage": "/images/balustrada-sticla-balcon-1.jpeg",
+      "heroBadge": "Tamplarie Aluminiu",
+      "intro": "O solutie eleganta pentru cei care vor sa profite la maxim de spatiu.",
+      "description": "Usile glisante si lift-slide din aluminiu sunt ideale pentru terase si incaperi unde conteaza lumina si designul. Pot ajunge pana la 12 metri latime si se manevreaza usor, chiar si la panouri mari. Sticla tripan cu folie solara reduce semnificativ transferul de caldura.",
+      "features": [
+        { "title": "Deschidere pana la 12m", "description": "Sisteme multi-panou care permit deschideri panoramice de dimensiuni impresionante." },
+        { "title": "Culisare cu ridicare", "description": "Mecanism lift-slide pentru o manevrare usoara chiar si la panouri de mari dimensiuni." },
+        { "title": "Sticla cu folie solara", "description": "Pachet 8mm + folie 8.4.8 securizata laminata, cu protectie solara integrata." },
+        { "title": "Optiune antiefractie", "description": "Senzori de avertizare efractie integrati, pentru siguranta maxima a locuintei." },
+        { "title": "Personalizare RAL", "description": "Disponibile in orice culoare din paleta RAL, mat sau lucios." },
+        { "title": "Fara prag optional", "description": "Variante cu prag minim sau complet integrat in pardoseala." }
+      ],
+      "specs": [
+        { "label": "Profile", "value": "Reynaers / Alumil" },
+        { "label": "Tip", "value": "Lift-Slide / Culisant" },
+        { "label": "Geam", "value": "Tripan 52mm securizat" },
+        { "label": "Latime maxima", "value": "pana la 12m" },
+        { "label": "Inaltime maxima", "value": "pana la 3.5m" },
+        { "label": "Garantie", "value": "5 ani" },
+        { "label": "Termen montaj", "value": "30 zile" },
+        { "label": "Servicii", "value": "Livrare + montaj" }
+      ],
+      "gallery": [
+        { "src": "/images/balustrada-sticla-balcon-1.jpeg", "alt": "Usi glisante terasa" },
+        { "src": "/images/fatada-rezidentiala-balustrade-1.jpeg", "alt": "Interior cu usi glisante" },
+        { "src": "/images/balustrada-sticla-scari-exterioare-1.jpeg", "alt": "Usa glisanta panoramica" },
+        { "src": "/images/balustrada-sticla-scari-interior-3.jpeg", "alt": "Sistem glisant modern" }
+      ]
+    },
+    "tamplarie-aluminiu/usi-armonice": {
+      "slug": "tamplarie-aluminiu/usi-armonice",
+      "title": "Usi Armonice din Aluminiu",
+      "subtitle": "Flexibilitate maxima, solutie fara compromisuri",
+      "heroImage": "/images/balustrada-sticla-scari-plutitoare-1.jpeg",
+      "heroBadge": "Tamplarie Aluminiu",
+      "intro": "Usile armonice din aluminiu elimina barierele dintre interior si exterior.",
+      "description": "Sistemele pliant-armonice din aluminiu ofera deschideri complet libere, fara stalpi sau profile intermediare. Ideale pentru restaurante, sali de evenimente, garaje si case care vor o conexiune totala cu exteriorul. Pot fi configurate atat ca sisteme de perete complet retractabil, cat si ca separatoare interioare.",
+      "features": [
+        { "title": "Deschidere completa", "description": "Panelurile se pliaza complet intr-o parte, eliberand toata deschiderea." },
+        { "title": "Sisteme rezidentiale si comerciale", "description": "Disponibile in versiuni pentru locuinte, restaurante si spatii comerciale." },
+        { "title": "Etanseitate superioara", "description": "Garnituri multiple pentru etanseitate la apa, vant si zgomot." },
+        { "title": "Geam tripan optional", "description": "Sticla simpla, dubla sau tripan cu Low-E, in functie de necesitatile termice." },
+        { "title": "Ghidaj inferior si superior", "description": "Sisteme cu ghidaj jos sau sus-jos pentru o manevrare fluida si durabila." },
+        { "title": "Personalizare completa", "description": "Culori RAL, dimensiuni custom, accesorii si hardware personalizate." }
+      ],
+      "specs": [
+        { "label": "Profile", "value": "Alumil / Reynaers" },
+        { "label": "Tip", "value": "Pliant-armonic" },
+        { "label": "Geam", "value": "Simplu / Dublu / Tripan" },
+        { "label": "Latime panou", "value": "400-1200mm" },
+        { "label": "Inaltime maxima", "value": "pana la 3m" },
+        { "label": "Garantie", "value": "5 ani" },
+        { "label": "Termen montaj", "value": "30-45 zile" },
+        { "label": "Ghidaj", "value": "Inferior / Superior" }
+      ],
+      "gallery": [
+        { "src": "/images/balustrada-sticla-scari-plutitoare-1.jpeg", "alt": "Usi armonice exterior" },
+        { "src": "/images/balustrada-sticla-balcon-1.jpeg", "alt": "Sistem armonic deschis" },
+        { "src": "/images/fatada-rezidentiala-balustrade-1.jpeg", "alt": "Interior cu armonic" },
+        { "src": "/images/balustrada-sticla-scari-exterioare-1.jpeg", "alt": "Detaliu armonic aluminiu" }
+      ]
+    },
+    "tamplarie-aluminiu/usi-intrare": {
+      "slug": "tamplarie-aluminiu/usi-intrare",
+      "title": "Usi de Intrare din Aluminiu",
+      "subtitle": "Prima impresie conteaza",
+      "heroImage": "/images/fatada-rezidentiala-balustrade-2.jpeg",
+      "heroBadge": "Tamplarie Aluminiu",
+      "intro": "Usile de intrare din aluminiu combina securitatea cu un design de impact.",
+      "description": "Proiectam si montam usi de intrare din aluminiu pentru case, cladiri de birouri si spatii comerciale. De la batante clasice la usi pivotante spectaculoase, fiecare produs este realizat din profile premium cu rupere de punte termica si feronerie de inalta securitate.",
+      "features": [
+        { "title": "Sistem pivot disponibil", "description": "Usi pivotante cu mecanism central, dimensiuni pana la 1.2m x 3m, aspect monumental." },
+        { "title": "Securitate clasa RC3", "description": "Feronerie certificata antiefractie, geam VSG laminat 8.8 sau 10.10." },
+        { "title": "Izolare termica", "description": "Profile cu rupere de punte termica pentru eficienta energetica maxima la intrare." },
+        { "title": "Control acces integrat", "description": "Optiuni de interfon video, cititor de card/amprenta si electrozavor." },
+        { "title": "Dimensiuni XL", "description": "Usi batante pana la 1.4m latime si 3m inaltime pentru intrari reprezentative." },
+        { "title": "Finisaje premium", "description": "Vopsire electrostatica RAL, anodizare sau furnir de lemn termoimprimat." }
+      ],
+      "specs": [
+        { "label": "Profile", "value": "Reynaers / Alumil" },
+        { "label": "Tipuri", "value": "Batant / Pivot / Batant dublu" },
+        { "label": "Geam", "value": "VSG 8.8 - 10.10" },
+        { "label": "Securitate", "value": "Clasa RC2-RC3" },
+        { "label": "Latime max.", "value": "1.4m (batant)" },
+        { "label": "Inaltime max.", "value": "3m" },
+        { "label": "Garantie", "value": "5 ani" },
+        { "label": "Termen montaj", "value": "30 zile" }
+      ],
+      "gallery": [
+        { "src": "/images/fatada-rezidentiala-balustrade-2.jpeg", "alt": "Usa de intrare moderna" },
+        { "src": "/images/fatada-rezidentiala-balustrade-1.jpeg", "alt": "Usa pivot" },
+        { "src": "/images/balustrada-sticla-scari-interior-3.jpeg", "alt": "Detaliu maner intrare" },
+        { "src": "/images/balustrada-sticla-scari-exterioare-1.jpeg", "alt": "Intrare reprezentativa" }
+      ]
+    },
+    "pereti-cortina": {
+      "slug": "pereti-cortina",
+      "title": "Pereti Cortina",
+      "subtitle": "Fatade contemporane, posibilitati nelimitate",
+      "heroImage": "/images/proiecte-cortina-terasa-sticla/WhatsApp%20Image%202026-05-20%20at%2013.22.50.jpeg",
+      "heroBadge": "Fatade",
+      "intro": "Peretii cortina sunt solutia ideala pentru a da unei cladiri un aspect unic si modern.",
+      "description": "Fatade contemporane din sticla cu posibilitati de design practic nelimitate, ideale atat pentru exterior cat si pentru compartimentari interioare. Impermeabili si rezistenti la factorii de mediu, tin piept vantului puternic si rezista la deformari cauzate de vibratii sau cutremure. Sistemele Reynaers CW50 si Alumil M50 sunt solutiile noastre standard pentru cladiri comerciale si rezidentiale premium.",
+      "features": [
+        { "title": "Sisteme Reynaers & Alumil", "description": "CW50 si M50 sunt sisteme de referinta europeana pentru pereti cortina, testate exhaustiv." },
+        { "title": "Impermeabili si rezistenti", "description": "Protectie completa impotriva ploii, vantului si agentilor de mediu." },
+        { "title": "Rezistenta seismica", "description": "Sisteme proiectate sa reziste la deformari cauzate de vibratii si cutremure moderate." },
+        { "title": "Izolare fonica si termica", "description": "Panouri de sticla high-performance cu valori Uf pana la 0.7 W/m²K." },
+        { "title": "Design nelimitat", "description": "Sticla in diverse nuante, serigrafii, sisteme de umbrire exterioare sau interioare." },
+        { "title": "Proiectare inclusa", "description": "Servicii complete: proiectare, avize, livrare, montaj si service." }
+      ],
+      "specs": [
+        { "label": "Sisteme", "value": "Reynaers CW50 / Alumil M50" },
+        { "label": "Material", "value": "Aluminiu + Sticla" },
+        { "label": "Geam", "value": "Tripan / Double-skin" },
+        { "label": "Izolare termica", "value": "Uf ≤ 0.8 W/m²K" },
+        { "label": "Rezistenta vant", "value": "Clasa C5" },
+        { "label": "Garantie", "value": "5 ani" },
+        { "label": "Termen montaj", "value": "60 zile" },
+        { "label": "Servicii", "value": "Proiectare + montaj" }
+      ],
+      "gallery": [
+        { "src": "/images/proiecte-cortina-terasa-sticla/WhatsApp%20Image%202026-05-20%20at%2013.22.50.jpeg", "alt": "Perete cortina cladire" },
+        { "src": "/images/proiecte-cortina-terasa-sticla/poza2.jpeg", "alt": "Fatada cortina moderna" },
+        { "src": "/images/proiecte-cortina-terasa-sticla/poza3.jpeg", "alt": "Detaliu structural glazing" },
+        { "src": "/images/proiecte-cortina-terasa-sticla/poza4.jpeg", "alt": "Perete cortina terasa sticla" }
+      ]
+    },
+    "fatade-ventilate": {
+      "slug": "fatade-ventilate",
+      "title": "Fatade Ventilate",
+      "subtitle": "Protectie, estetica si eficienta energetica",
+      "heroImage": "/images/fatata-ventilata-placare-bond/WhatsApp%20Image%202026-05-20%20at%2020.19.46.jpeg",
+      "heroBadge": "Fatade",
+      "intro": "Sisteme de fatade ventilate testate si certificate pentru cladiri moderne.",
+      "description": "Fatadele ventilate sunt pereti stratificati care permit ventilarea naturala a cladirilor, protejeaza de umiditate si reduc zgomotul. Vara pastreaza racoarea, iarna caldura — reducand vizibil consumul de energie. Oferim trei tipuri: Bond (compozit aluminiu), Fibrociment si HPL.",
+      "features": [
+        { "title": "Eficienta energetica", "description": "Stratul de aer ventilat reduce transferul termic cu pana la 30% fata de fatadele traditionale." },
+        { "title": "Protectie umiditate", "description": "Sistemul de ventilare elimina condensul si previne deteriorarea structurii cladirii." },
+        { "title": "Izolare fonica", "description": "Reducere substantiala a zgomotului exterior, confort sporit la interior." },
+        { "title": "Estetica personalizata", "description": "Panouri Bond, Fibrociment sau HPL in sute de finisaje si culori disponibile." },
+        { "title": "Durabilitate extrema", "description": "Materiale rezistente la UV, umiditate, variatii termice si impact mecanic." },
+        { "title": "Montaj rapid", "description": "Sistem de prindere mecanica, fara lucrari umede, reducand durata santierului." }
+      ],
+      "specs": [
+        { "label": "Tipuri", "value": "Bond / Fibrociment / HPL" },
+        { "label": "Structura portanta", "value": "Aluminiu / Otel zincat" },
+        { "label": "Strat ventilat", "value": "25-50mm" },
+        { "label": "Izolare termica", "value": "Vata minerala 100-200mm" },
+        { "label": "Reactie la foc", "value": "A2 / B (in functie de panou)" },
+        { "label": "Servicii", "value": "Proiectare + montaj" },
+        { "label": "Garantie", "value": "10 ani panouri" },
+        { "label": "Termen montaj", "value": "La comanda" }
+      ],
+      "gallery": [
+        { "src": "/images/fatata-ventilata-placare-bond/WhatsApp%20Image%202026-05-20%20at%2020.19.46.jpeg", "alt": "Fatada ventilata cladire" },
+        { "src": "/images/fatata-ventilata-placare-bond/poza2.jpeg", "alt": "Panouri Bond instalate" },
+        { "src": "/images/fatata-ventilata-placare-bond/poza3.jpeg", "alt": "Detaliu fatada Bond" },
+        { "src": "/images/fatata-ventilata-placare-bond/poza4.jpeg", "alt": "Montaj fatada ventilata" }
+      ]
+    },
+    "fatade-ventilate/bond": {
+      "slug": "fatade-ventilate/bond",
+      "title": "Fatade Bond",
+      "subtitle": "Compozit aluminiu — eleganta si usurinta",
+      "heroImage": "/images/fatata-ventilata-placare-bond/WhatsApp%20Image%202026-05-20%20at%2020.19.46.jpeg",
+      "heroBadge": "Fatade Ventilate",
+      "intro": "Panourile Bond (Alucobond / Reynobond) sunt solutia ideala pentru fatade contemporane usoare.",
+      "description": "Panourile compozite din aluminiu Bond combina doua foi de aluminiu cu un miez din polietilena sau mineral, rezultand un material extrem de usor (4kg/m²), rigid si rezistent la coroziune. Disponibile in finisaje metalice, oglindate, lemn sau mata, panourile Bond permit realizarea de forme curbe, frezari si reliefuri.",
+      "features": [
+        { "title": "Greutate redusa", "description": "Doar 4-5 kg/m², reducand sarcina pe structura cladirii si costurile de montaj." },
+        { "title": "Forme complexe", "description": "Panourile pot fi frezate, curbate si formate 3D pentru arhitectura expresiva." },
+        { "title": "Finisaje multiple", "description": "Metalic, mat, oglinda, imitatie lemn sau piatra — sute de optiuni disponibile." },
+        { "title": "Reactie la foc A2", "description": "Variante cu miez mineral, clasificare A2-s1,d0 pentru cladiri inalte si publice." },
+        { "title": "Durabilitate 30+ ani", "description": "Stratul PVDF protejeaza fata de UV, coroziune si poluare atmosferica." },
+        { "title": "Reciclabil 100%", "description": "Aluminiul este integral reciclabil la finalul duratei de viata a panoului." }
+      ],
+      "specs": [
+        { "label": "Grosime panou", "value": "3mm / 4mm / 6mm" },
+        { "label": "Greutate", "value": "4-8 kg/m²" },
+        { "label": "Miez", "value": "PE / FR / Mineral" },
+        { "label": "Finisaj", "value": "PVDF / Anodizat" },
+        { "label": "Reactie foc", "value": "B / A2 (mineral)" },
+        { "label": "Format max.", "value": "1500 x 7200mm" },
+        { "label": "Garantie", "value": "10 ani" },
+        { "label": "Servicii", "value": "Proiectare + montaj" }
+      ],
+      "gallery": [
+        { "src": "/images/fatata-ventilata-placare-bond/WhatsApp%20Image%202026-05-20%20at%2020.19.46.jpeg", "alt": "Fatada Bond ansamblu" },
+        { "src": "/images/fatata-ventilata-placare-bond/poza2.jpeg", "alt": "Panouri Bond instalate" },
+        { "src": "/images/fatata-ventilata-placare-bond/poza3.jpeg", "alt": "Detaliu panou Bond" },
+        { "src": "/images/fatata-ventilata-placare-bond/poza4.jpeg", "alt": "Fatada Bond finisaj metalic" },
+        { "src": "/images/fatata-ventilata-placare-bond/poza5.jpeg", "alt": "Montaj fatada Bond" }
+      ]
+    },
+    "fatade-ventilate/fibrociment": {
+      "slug": "fatade-ventilate/fibrociment",
+      "title": "Fatade Fibrociment",
+      "subtitle": "Textura naturala, durabilitate extrema",
+      "heroImage": "/images/balustrada-sticla-scari-interior-3.jpeg",
+      "heroBadge": "Fatade Ventilate",
+      "intro": "Fibrocimentul combina rezistenta betonului cu versatilitatea estetica a materialelor naturale.",
+      "description": "Panourile din fibrociment (fibre de celuloza + ciment + agregate minerale) sunt solutia durabila pentru fatade cu aspect natural sau industrial. Rezistente la umiditate, foc, mucegai si daunatori, sunt folosite atat pentru cladiri rezidentiale cat si industriale sau publice. Finisajele disponibile imita lemnul, piatra, betonul sau sunt colorate in masa.",
+      "features": [
+        { "title": "Rezistent la umiditate", "description": "Absorbtie minima de apa, fara deformare sau degradare in conditii climatice extreme." },
+        { "title": "Clasa foc A2", "description": "Materiale incombustibile, ideal pentru cladiri publice, spitale, scoli." },
+        { "title": "Anti-mucegai", "description": "Suprafata densa nu permite dezvoltarea ciupercilor sau bacteriilor." },
+        { "title": "Textura naturala", "description": "Finisaje ce imita lemnul, piatra sau betonul aparent, la un cost redus." },
+        { "title": "Dimensiuni mari", "description": "Formate de pana la 1250 x 3100mm pentru o acoperire rapida a suprafetelor." },
+        { "title": "Durabilitate 50+ ani", "description": "Material inert, care nu putrezeste, nu rugineste si nu necesita vopsire repetata." }
+      ],
+      "specs": [
+        { "label": "Grosime", "value": "8mm / 10mm / 12mm" },
+        { "label": "Format", "value": "1250 x 3100mm" },
+        { "label": "Densitate", "value": "1400 kg/m³" },
+        { "label": "Reactie foc", "value": "A1 / A2" },
+        { "label": "Absorbtie apa", "value": "< 15%" },
+        { "label": "Finisaje", "value": "Lemn / Piatra / Beton / Uni" },
+        { "label": "Garantie", "value": "15 ani" },
+        { "label": "Servicii", "value": "Proiectare + montaj" }
+      ],
+      "gallery": [
+        { "src": "/images/balustrada-sticla-scari-interior-3.jpeg", "alt": "Fatada fibrociment" },
+        { "src": "/images/balustrada-sticla-scari-plutitoare-1.jpeg", "alt": "Cladire cu fibrociment" },
+        { "src": "/images/fatada-rezidentiala-balustrade-1.jpeg", "alt": "Detaliu panou fibrociment" },
+        { "src": "/images/balustrada-sticla-scari-exterioare-1.jpeg", "alt": "Finisaj lemn fibrociment" }
+      ]
+    },
+    "fatade-ventilate/hpl": {
+      "slug": "fatade-ventilate/hpl",
+      "title": "Fatade HPL",
+      "subtitle": "High Pressure Laminate — estetic si performant",
+      "heroImage": "/images/balustrada-sticla-scari-exterioare-1.jpeg",
+      "heroBadge": "Fatade Ventilate",
+      "intro": "Panourile HPL sunt solutia de fatada care combina estetica cu performanta superioara.",
+      "description": "HPL (High Pressure Laminate) este un material compozit din fibre de celuloza impregnate cu rasini termorezistente, presat la temperaturi ridicate. Panourile HPL exterioare sunt rezistente la UV, apa, zgarieturi si impact, pastrand culoarea si aspectul pe toata durata de viata. Disponibile in finisaje solide, lemn, piatra sau metalice.",
+      "features": [
+        { "title": "Rezistenta UV exceptionala", "description": "Culoarea nu se decoloreaza in timp, chiar si la expunere solara intensa pe sud." },
+        { "title": "Suprafata dura", "description": "Rezistenta la zgarieturi, graffiti si vandalism — usor de curatat." },
+        { "title": "Versatilitate estetica", "description": "Sute de culori si texturi: lemn, piatra, solid, metalic." },
+        { "title": "Usor de prelucrat", "description": "Se taie, frezeaza si prinde cu usurinta — flexibilitate maxima la instalare." },
+        { "title": "Termorezistent", "description": "Stabil la variatii termice extreme, fara deformare sau delaminare." },
+        { "title": "Ecologic", "description": "Fara emisii de formaldehida, prietenos cu mediul pentru interioare si exterioare." }
+      ],
+      "specs": [
+        { "label": "Grosime", "value": "6mm / 8mm / 10mm / 12mm" },
+        { "label": "Format", "value": "1300 x 3050mm" },
+        { "label": "Greutate", "value": "8-14 kg/m²" },
+        { "label": "Reactie foc", "value": "B-s2,d0" },
+        { "label": "Rezistenta UV", "value": "Clasa 7 (max.)" },
+        { "label": "Finisaje", "value": "500+ optiuni" },
+        { "label": "Garantie", "value": "10 ani" },
+        { "label": "Servicii", "value": "Proiectare + montaj" }
+      ],
+      "gallery": [
+        { "src": "/images/balustrada-sticla-scari-exterioare-1.jpeg", "alt": "Fatada HPL" },
+        { "src": "/images/balustrada-sticla-scari-plutitoare-1.jpeg", "alt": "Panouri HPL cladire" },
+        { "src": "/images/balustrada-sticla-balcon-1.jpeg", "alt": "Detaliu HPL" },
+        { "src": "/images/fatada-rezidentiala-balustrade-2.jpeg", "alt": "HPL finisaj lemn" }
+      ]
+    },
+    "tamplarie-pvc/salamander": {
+      "slug": "tamplarie-pvc/salamander",
+      "title": "Tamplarie Salamander",
+      "subtitle": "Calitate germana pentru confortul tau",
+      "heroImage": "/images/balustrada-sticla-scari-interior-3.jpeg",
+      "heroBadge": "Tamplarie PVC",
+      "intro": "Tamplaria Salamander este solutia perfecta pentru cei care vor personalizare si izolare de top.",
+      "description": "Sistemul bluEVOLUTION 92 de la Salamander este solutia de top din gama PVC. Cu 7 camere si ranforsare din otel galvanizat, atinge valori termice de 0.79 W/m²K si izolare fonica de 45dB — performante echivalente cu certificarea Passive House. Potrivit atat pentru spatii rezidentiale, cat si comerciale.",
+      "features": [
+        { "title": "7 camere de izolare", "description": "Profilele cu 7 camere creeaza o bariera termica superioara fata de sistemele standard cu 5 camere." },
+        { "title": "Uw = 0.79 W/m²K", "description": "Valoarea termica certificata Passive House, reducand semnificativ facturile de energie." },
+        { "title": "Izolare fonica 45dB", "description": "Confort acustic superior — blocheaza traficul urban, vecinii zgomotosi si alte surse de zgomot." },
+        { "title": "Durata de viata 25 ani", "description": "Material PVC stabil UV, care nu se deformeaza, nu se ingalbeneste si nu necesita vopsire." },
+        { "title": "Forme neregulate posibile", "description": "Profile care permit realizarea arcelor, trapezelor si altor forme arhitecturale speciale." },
+        { "title": "Paleta larga de culori", "description": "Standard si premium: alb, mahon, stejar, antracit, aluminiu si 200+ laminari speciale." }
+      ],
+      "specs": [
+        { "label": "Sistem profil", "value": "bluEVOLUTION 92" },
+        { "label": "Camere", "value": "7 camere" },
+        { "label": "Geam", "value": "Tripan 52mm" },
+        { "label": "Izolare termica", "value": "Uw 1.1 W/m²K" },
+        { "label": "Izolare fonica", "value": "30-45 dB" },
+        { "label": "Durata viata", "value": "25 ani" },
+        { "label": "Garantie", "value": "5 ani" },
+        { "label": "Termen montaj", "value": "30 zile" }
+      ],
+      "gallery": [
+        { "src": "/images/balustrada-sticla-scari-interior-3.jpeg", "alt": "Ferestre PVC Salamander" },
+        { "src": "/images/fatada-rezidentiala-balustrade-1.jpeg", "alt": "Interior cu PVC Salamander" },
+        { "src": "/images/balustrada-sticla-scari-exterioare-1.jpeg", "alt": "Detaliu profil PVC" },
+        { "src": "/images/fatada-rezidentiala-balustrade-2.jpeg", "alt": "Vila cu tamplarie Salamander" }
+      ]
+    },
+    "tamplarie-pvc/rulouri-exterioare": {
+      "slug": "tamplarie-pvc/rulouri-exterioare",
+      "title": "Rulouri Exterioare",
+      "subtitle": "Protectie solara, termica si de securitate",
+      "heroImage": "/images/fatada-rezidentiala-balustrade-2.jpeg",
+      "heroBadge": "Tamplarie PVC",
+      "intro": "Rulourile exterioare ofera un nivel superior de control termic si protectie pentru locuinta ta.",
+      "description": "Rulourile exterioare motorizate sunt solutia completa pentru protectia ferestrei: blocheaza caldura solara vara inainte de a ajunge la geam, asigura intimitate fara a reduce complet lumina si adauga un nivel in plus de securitate. Disponibile in variante manuale, cu motor sau cu actionare automata prin senzori meteo sau aplicatie smartphone.",
+      "features": [
+        { "title": "Reducere caldura 75%", "description": "Rulourile exterioare blocheaza caldura solara inainte de a ajunge la geam — spre deosebire de jaluzelele interioare." },
+        { "title": "Actionare automata", "description": "Motor tubular silentios cu comanda prin telecomanda, timer sau senzori de vant si lumina." },
+        { "title": "Ghidaje laterale", "description": "Sistemul de ghidaj lateral asigura stabilitate la vant si o etansare mai buna pe lateral." },
+        { "title": "Lame de 8mm", "description": "Lamele din aluminiu extrudat, cu spuma poliuretanica in interior pentru izolatie." },
+        { "title": "Integrare smart home", "description": "Compatibil cu sisteme KNX, Somfy, Velux Integra si asistenti vocali." },
+        { "title": "Culori RAL", "description": "Cutia si ghidajele pot fi vopsite in orice culoare RAL pentru a se potrivi fatadei." }
+      ],
+      "specs": [
+        { "label": "Material lama", "value": "Aluminiu extrudat" },
+        { "label": "Grosime lama", "value": "8mm / 10mm" },
+        { "label": "Reducere solara", "value": "pana la 75%" },
+        { "label": "Motor", "value": "Somfy / Nice" },
+        { "label": "Actionare", "value": "Manual / Motor / Automat" },
+        { "label": "Latime max.", "value": "3000mm" },
+        { "label": "Garantie", "value": "5 ani" },
+        { "label": "Termen montaj", "value": "14-21 zile" }
+      ],
+      "gallery": [
+        { "src": "/images/fatada-rezidentiala-balustrade-2.jpeg", "alt": "Rulouri exterioare vila" },
+        { "src": "/images/balustrada-sticla-scari-exterioare-1.jpeg", "alt": "Detaliu rulou exterior" },
+        { "src": "/images/balustrada-sticla-scari-interior-3.jpeg", "alt": "Rulouri pe bloc" },
+        { "src": "/images/fatada-rezidentiala-balustrade-1.jpeg", "alt": "Interior cu rulouri" }
+      ]
+    },
+    "tamplarie-pvc/plase-insecte": {
+      "slug": "tamplarie-pvc/plase-insecte",
+      "title": "Plase Insecte",
+      "subtitle": "Aer curat, fara insecte",
+      "heroImage": "/images/balustrada-sticla-scari-exterioare-1.jpeg",
+      "heroBadge": "Tamplarie PVC",
+      "intro": "Plasele de insecte sunt solutia discreta si eficienta pentru un interior fara daunatori.",
+      "description": "Oferim o gama completa de plase pentru insecte adaptate oricarui tip de fereastra sau usa: fixe (cu rama demontabila), rulou (retractabile vertical), plise (plisate orizontal) si pentru usi. Materialul plasei din fibra de sticla sau poliester este rezistent la UV si nu blocheaza vizibilitatea sau ventilatia.",
+      "features": [
+        { "title": "Tipuri multiple", "description": "Fixe, rulou, plise orizontal, plise dublu pentru usi — solutie pentru orice deschidere." },
+        { "title": "Fibra de sticla", "description": "Plasa din fibra de sticla este mai rezistenta si mai transparenta decat variantele din poliester." },
+        { "title": "Rama din aluminiu", "description": "Profil din aluminiu vopsit RAL, discret si rezistent la coroziune." },
+        { "title": "Montaj simplu", "description": "Sistemele cu clips sau magnetice se monteaza in cateva minute, fara gauri in tamplarie." },
+        { "title": "Variante cu pollenstopp", "description": "Plase cu densitate ridicata care retin si polenul, ideal pentru alergici." },
+        { "title": "Personalizare culoare", "description": "Rama disponibila in alb, antracit, maro si alte culori RAL la cerere." }
+      ],
+      "specs": [
+        { "label": "Material plasa", "value": "Fibra de sticla / Poliester" },
+        { "label": "Rama", "value": "Aluminiu vopsit" },
+        { "label": "Tipuri", "value": "Fix / Rulou / Plise / Usa" },
+        { "label": "Culori", "value": "Alb / Antracit / RAL" },
+        { "label": "Dimensiuni", "value": "La comanda" },
+        { "label": "Montaj", "value": "Clips / Magnetic / Infilet" },
+        { "label": "Garantie", "value": "2 ani" },
+        { "label": "Termen livrare", "value": "7-14 zile" }
+      ],
+      "gallery": [
+        { "src": "/images/balustrada-sticla-scari-exterioare-1.jpeg", "alt": "Plasa insecte fereastra" },
+        { "src": "/images/fatada-rezidentiala-balustrade-1.jpeg", "alt": "Plasa rulou" },
+        { "src": "/images/balustrada-sticla-balcon-1.jpeg", "alt": "Plasa plise" },
+        { "src": "/images/balustrada-sticla-scari-interior-3.jpeg", "alt": "Plasa usa" }
+      ]
+    },
+    "sticla-securizata/balcoane-terase": {
+      "slug": "sticla-securizata/balcoane-terase",
+      "title": "Balcoane si Terase",
+      "subtitle": "Libertate vizuala, confort maxim",
+      "heroImage": "/images/inchideri-sticla-pliabila/WhatsApp%20Image%202026-05-20%20at%2013.19.18.jpeg",
+      "heroBadge": "Sticla Securizata",
+      "intro": "Sisteme unice de balcoane din sticla securizata si laminata, fara profile verticale.",
+      "description": "Sistemul Valedo de inchidere a balcoanelor foloseste panouri glisante din sticla securizata laminata de 10mm, fara profile verticale care sa blocheze vederea. Etansarea se face prin benzi magnetice de 6mm, aproape invizibile. Panelurile se deschid armonic, glisand usor pe rulmenti din teflon, eliberand complet balconul.",
+      "features": [
+        { "title": "Sistem Valedo", "description": "Panouri glisante cu etansare magnetica pentru deschidere completa, fara profile verticale." },
+        { "title": "Sticla 10mm VSG", "description": "Sticla securizata si laminata de 10mm — la spargere, cioburile raman lipite de folia intermediara." },
+        { "title": "Deschidere armonica", "description": "Panelurile se pliaza complet intr-o parte pentru acces total la spatiul balconului." },
+        { "title": "Rulmenti teflon", "description": "Glisare usoara si silentioasa, fara efort, chiar si pentru panouri mari si grele." },
+        { "title": "Etansare magnetica", "description": "Benzi magnetice de 6mm asigura etanseitate la vant si ploaie fara profile vizibile." },
+        { "title": "Canal de drenare", "description": "Profil inferior de 2cm cu margini rotunjite si canal de scurgere pentru apa." }
+      ],
+      "specs": [
+        { "label": "Sistem", "value": "Valedo" },
+        { "label": "Sticla", "value": "VSG 10mm securizat" },
+        { "label": "Deschidere", "value": "Armonic / Glisant" },
+        { "label": "Etansare", "value": "Magnetica 6mm" },
+        { "label": "Ghidaj", "value": "Rulmenti teflon" },
+        { "label": "Profil inferior", "value": "2cm cu drenare" },
+        { "label": "Garantie", "value": "5 ani" },
+        { "label": "Termen montaj", "value": "30 zile" }
+      ],
+      "gallery": [
+        { "src": "/images/inchideri-sticla-pliabila/WhatsApp%20Image%202026-05-20%20at%2013.19.18.jpeg", "alt": "Inchidere terasa sticla pliabila" },
+        { "src": "/images/inchideri-sticla-pliabila/poza2.jpeg", "alt": "Sistem glisant terasa" },
+        { "src": "/images/inchideri-sticla-pliabila/poza3.jpeg", "alt": "Balcon cu sticla pliabila" },
+        { "src": "/images/inchideri-sticla-pliabila/poza4.jpeg", "alt": "Deschidere totala balcon" }
+      ]
+    },
+    "sticla-securizata/usi-batante": {
+      "slug": "sticla-securizata/usi-batante",
+      "title": "Usi Batante din Sticla",
+      "subtitle": "Design minimalist, impact maxim",
+      "heroImage": "/images/paravane-sticla-baie/WhatsApp%20Image%202026-05-20%20at%2013.17.32.jpeg",
+      "heroBadge": "Sticla Securizata",
+      "intro": "Usile batante din sticla securizata aduc eleganta si lumina in orice spatiu.",
+      "description": "Usile batante din sticla securizata VSG sunt o alegere excelenta pentru intrari reprezentative, comerciale si rezidentiale. Fara rama sau cu rama subtire din aluminiu sau inox, creeaza un impact vizual puternic si lasa lumina naturala sa patrunda in profunzimea spatiului. Disponibile cu balamale ascunse si sisteme de inchidere automate.",
+      "features": [
+        { "title": "Frameless (fara rama)", "description": "Sisteme fara profil perimetral, fixare prin balamale si pivot din inox sau aluminiu." },
+        { "title": "Sticla VSG 10mm", "description": "Sticla securizata laminata, la impact cioburile raman suspendate in folia PVB." },
+        { "title": "Balamale ascunse", "description": "Sisteme de pivotare integrate in pardoseala si tavan pentru un look complet curat." },
+        { "title": "Feronerie premium", "description": "Manere, broaste si silduri din inox 316L sau aluminiu anodizat, rezistente la coroziune." },
+        { "title": "Sistem automat", "description": "Optiune cu actuator electromagnetic pentru deschidere automata la apropierea persoanelor." },
+        { "title": "Personalizare sticla", "description": "Satinat, fumuriu, bronz, verde, serigrafiat sau imprimat digital." }
+      ],
+      "specs": [
+        { "label": "Sticla", "value": "VSG 10mm / 8.8mm" },
+        { "label": "Tip", "value": "Frameless / Rama" },
+        { "label": "Balamale", "value": "Ascunse / Vizibile" },
+        { "label": "Feronerie", "value": "Inox / Aluminiu" },
+        { "label": "Latime max.", "value": "1.2m" },
+        { "label": "Inaltime max.", "value": "3m" },
+        { "label": "Garantie", "value": "5 ani" },
+        { "label": "Termen montaj", "value": "21-30 zile" }
+      ],
+      "gallery": [
+        { "src": "/images/paravane-sticla-baie/WhatsApp%20Image%202026-05-20%20at%2013.17.32.jpeg", "alt": "Paravan sticla dus" },
+        { "src": "/images/paravane-sticla-baie/paravan1.jpeg", "alt": "Usa batanta sticla baie" },
+        { "src": "/images/paravane-sticla-baie/paravan2.jpeg", "alt": "Paravan dus batant" },
+        { "src": "/images/paravane-sticla-baie/paravan4.jpeg", "alt": "Sticla baie fara rama" }
+      ]
+    },
+    "sticla-securizata/usi-glisante": {
+      "slug": "sticla-securizata/usi-glisante",
+      "title": "Usi Glisante din Sticla",
+      "subtitle": "Spatiu eliberat, sticla la vedere",
+      "heroImage": "/images/inchideri-sticla-pliabila/WhatsApp%20Image%202026-05-20%20at%2013.19.18.jpeg",
+      "heroBadge": "Sticla Securizata",
+      "intro": "Usile glisante din sticla sunt solutia ideala pentru separatoare elegante si eficiente.",
+      "description": "Sistemele de usi glisante din sticla securizata elimina nevoia de spatiu pentru deschidere, asigurand in acelasi timp o separare vizuala sau fonica a spatiilor. Disponibile cu sina superioara (suspendate), profil inferior minim sau complet fara profil vizibil. Ideale pentru dormitoare, bai, dressing-uri si birouri.",
+      "features": [
+        { "title": "Suspendate sau pe sina", "description": "Variante fara sina inferioara (suspendate) pentru o curatare mai usoara a pardoselii." },
+        { "title": "Amortizare la inchidere", "description": "Sistem de amortizare soft-close care previne zgomotul la inchidere." },
+        { "title": "Sticla optiuni multiple", "description": "Transparenta, satinat, fumuriu, colorata sau cu imprimare digitala." },
+        { "title": "Profil minim", "description": "Profile din aluminiu de doar 18mm pentru un aspect pur si modern." },
+        { "title": "Latimi de panou", "description": "Panouri individuale de pana la 1.5m latime, sisteme multi-panou disponibile." },
+        { "title": "Serigrafie si printare", "description": "Personalizare completa prin serigrafie, sandblasting sau folie adeziva." }
+      ],
+      "specs": [
+        { "label": "Sticla", "value": "VSG 8mm / 10mm" },
+        { "label": "Sistem", "value": "Suspendat / Sina inferioara" },
+        { "label": "Profile", "value": "Aluminiu 18mm" },
+        { "label": "Soft-close", "value": "Standard" },
+        { "label": "Latime panou", "value": "pana la 1.5m" },
+        { "label": "Inaltime", "value": "pana la 3m" },
+        { "label": "Garantie", "value": "5 ani" },
+        { "label": "Termen montaj", "value": "14-21 zile" }
+      ],
+      "gallery": [
+        { "src": "/images/inchideri-sticla-pliabila/WhatsApp%20Image%202026-05-20%20at%2013.19.18.jpeg", "alt": "Usa glisanta sticla terasa" },
+        { "src": "/images/inchideri-sticla-pliabila/poza5.jpeg", "alt": "Sistem glisant interior" },
+        { "src": "/images/inchideri-sticla-pliabila/poza6.jpeg", "alt": "Glisant sticla open" },
+        { "src": "/images/inchideri-sticla-pliabila/poza7.jpeg", "alt": "Detaliu sina glisant" }
+      ]
+    },
+    "sticla-securizata/compartimentari-birouri": {
+      "slug": "sticla-securizata/compartimentari-birouri",
+      "title": "Compartimentari Birouri",
+      "subtitle": "Spatii de lucru moderne si luminoase",
+      "heroImage": "/images/partitie-sticla-salon/WhatsApp%20Image%202026-05-20%20at%2013.18.08.jpeg",
+      "heroBadge": "Sticla Securizata",
+      "intro": "Compartimentarile din sticla transforma birourile deschise in spatii functionale si elegante.",
+      "description": "Sistemele de compartimentare pentru birouri din sticla securizata permit crearea de cabinete, sali de sedinta si zone private, fara a sacrifica lumina naturala sau senzatia de spatiu. Disponibile cu profil vizibil (aluminiu sau otel) sau frameless, cu usi glisante sau batante integrate.",
+      "features": [
+        { "title": "Sisteme frameless", "description": "Compartimentari fara profil perimetral vizibil pentru un aspect complet transparent." },
+        { "title": "Izolare fonica", "description": "Sticla laminata sau dubla cu cavitate de aer pentru intimitate acustica in birouri." },
+        { "title": "Integrare usi", "description": "Usi batante si glisante perfect aliniate cu sistemul de pereti din sticla." },
+        { "title": "Electricitate integrata", "description": "Cabluri si prize ascunse in profilele sistemului de perete." },
+        { "title": "Jaluzele interioare", "description": "Sisteme de jaluzele venetiene sau verticale integrate in cavitatea peretelui." },
+        { "title": "Modular si reconfigurabil", "description": "Sistemele modulare pot fi demontate si remontate in alta configuratie." }
+      ],
+      "specs": [
+        { "label": "Sticla", "value": "VSG 8mm / Dublu vitraj" },
+        { "label": "Sistem", "value": "Frameless / Profil" },
+        { "label": "Profile", "value": "Aluminiu / Otel" },
+        { "label": "Izolare fonica", "value": "35-45 dB" },
+        { "label": "Inaltime", "value": "pana la 4m" },
+        { "label": "Usi integrate", "value": "Batanta / Glisanta" },
+        { "label": "Garantie", "value": "5 ani" },
+        { "label": "Termen montaj", "value": "21-45 zile" }
+      ],
+      "gallery": [
+        { "src": "/images/partitie-sticla-salon/WhatsApp%20Image%202026-05-20%20at%2013.18.08.jpeg", "alt": "Partitie sticla salon" },
+        { "src": "/images/partitie-sticla-salon/poza2.jpeg", "alt": "Compartimentare sticla interior" },
+        { "src": "/images/partitie-sticla-salon/poza3.jpeg", "alt": "Perete sticla separator" },
+        { "src": "/images/partitie-sticla-salon/poza4.jpeg", "alt": "Spatiu compartimentat sticla" }
+      ]
+    },
+    "sticla-securizata/copertine-sticla": {
+      "slug": "sticla-securizata/copertine-sticla",
+      "title": "Copertine din Sticla",
+      "subtitle": "Protectie eleganta la intrari si terase",
+      "heroImage": "/images/balustrada-sticla-scari-plutitoare-1.jpeg",
+      "heroBadge": "Sticla Securizata",
+      "intro": "Copertinele din sticla securizata protejeaza intrarile si terasele cu eleganta maxima.",
+      "description": "Copertinele din sticla structurala securizata protejeaza intrarile in cladiri, terasele si zonele pietonale de ploaie si soare, fara sa blocheze lumina naturala. Sustinute prin cabluri din inox, console sau structuri de aluminiu, au un aspect pur, minimalist.",
+      "features": [
+        { "title": "Sticla structurala", "description": "VSG cu folie SGP pentru rezistenta superioara la impact si la sarcini de zapada." },
+        { "title": "Sustinere prin cabluri", "description": "Sisteme cu cabluri din inox 316L invizibile pentru un aspect aerian si modern." },
+        { "title": "Console din inox sau aluminiu", "description": "Console ancorate in perete sau stalpi, calculate structural pentru incarcarile specifice." },
+        { "title": "Scurgere integrata", "description": "Sisteme de colectare si scurgere a apei integrate discret in structura copertinei." },
+        { "title": "Anti-alunecare", "description": "Sticla cu imprimare ceramica anti-alunecare pentru copertinele practicabile." },
+        { "title": "Personalizare dimensiuni", "description": "Orice forma si dimensiune, inclusiv variante curbate sau in unghi." }
+      ],
+      "specs": [
+        { "label": "Sticla", "value": "VSG 8.8 / 10.10mm" },
+        { "label": "Folie", "value": "PVB / SGP" },
+        { "label": "Sustinere", "value": "Cabluri / Console" },
+        { "label": "Material structura", "value": "Inox 316L / Aluminiu" },
+        { "label": "Sarcina zapada", "value": "Calculata structural" },
+        { "label": "Anti-alunecare", "value": "Optional ceramica" },
+        { "label": "Garantie", "value": "5 ani" },
+        { "label": "Termen montaj", "value": "21-30 zile" }
+      ],
+      "gallery": [
+        { "src": "/images/balustrada-sticla-scari-plutitoare-1.jpeg", "alt": "Copertina sticla intrare" },
+        { "src": "/images/balustrada-sticla-balcon-1.jpeg", "alt": "Copertina cu cabluri" },
+        { "src": "/images/fatada-rezidentiala-balustrade-1.jpeg", "alt": "Copertina terasa" },
+        { "src": "/images/balustrada-sticla-scari-exterioare-1.jpeg", "alt": "Detaliu prindere copertina" }
+      ]
+    },
+    "sticla-securizata/fatade-magazin": {
+      "slug": "sticla-securizata/fatade-magazin",
+      "title": "Fatade Magazin",
+      "subtitle": "Vitrina comerciala de impact",
+      "heroImage": "/images/balustrada-sticla-scari-plutitoare-1.jpeg",
+      "heroBadge": "Sticla Securizata",
+      "intro": "Fatadele de magazin din sticla maximizeaza vizibilitatea produselor si atractivitatea spatiului.",
+      "description": "Proiectam si montam fatade de magazine, showroom-uri si spatii comerciale din sticla securizata, cu sau fara profil structural. De la vitrine simple la sisteme complexe cu usi automate si iluminat integrat, fiecare fatada este calculata structural si personalizata pentru brandul clientului.",
+      "features": [
+        { "title": "Sisteme frameless", "description": "Vitrine fara profil perimetral vizibil pentru maxima transparenta si vizibilitate produs." },
+        { "title": "Geam securizat ESG", "description": "Sticla securizata termic sau chimic — la spargere se transforma in granule mici inofensive." },
+        { "title": "Usi automate integrate", "description": "Usi glisante automate cu senzori de prezenta sau cu cititor de card/cod." },
+        { "title": "Serigrafie si branding", "description": "Logo-uri, texte si grafice aplicate direct pe sticla prin serigrafie sau folie." },
+        { "title": "Iluminat integrat", "description": "Sisteme de iluminat LED integrat in profilele fatadei pentru efect vizual nocturn." },
+        { "title": "Securitate antiefractie", "description": "Sticla antiglont sau laminata special pentru spatii care necesita securitate sporita." }
+      ],
+      "specs": [
+        { "label": "Sticla", "value": "ESG 10mm / VSG laminat" },
+        { "label": "Sistem", "value": "Frameless / Profil" },
+        { "label": "Usi", "value": "Manuale / Automate" },
+        { "label": "Acoperire", "value": "Serigrafie / Folie" },
+        { "label": "Securitate", "value": "Standard / Antiefractie" },
+        { "label": "Garantie", "value": "5 ani" },
+        { "label": "Termen montaj", "value": "30-60 zile" },
+        { "label": "Servicii", "value": "Proiectare + montaj" }
+      ],
+      "gallery": [
+        { "src": "/images/balustrada-sticla-scari-plutitoare-1.jpeg", "alt": "Fatada magazin sticla" },
+        { "src": "/images/balustrada-sticla-balcon-1.jpeg", "alt": "Vitrina comerciala" },
+        { "src": "/images/balustrada-sticla-scari-interior-1.jpeg", "alt": "Showroom cu sticla" },
+        { "src": "/images/fatada-rezidentiala-balustrade-2.jpeg", "alt": "Intrare magazin" }
+      ]
+    },
+    "balustrade/balustrade-sticla": {
+      "slug": "balustrade/balustrade-sticla",
+      "title": "Balustrade din Sticla",
+      "subtitle": "Certificate, sigure, spectaculoase",
+      "heroImage": "/images/balustrada-sticla-balcon-1.jpeg",
+      "heroBadge": "Balustrade",
+      "intro": "Sisteme de balustrade din sticla testate si certificate pentru balcoane, scari si terase.",
+      "description": "Tendinta moderna in constructii si amenajari foloseste sticla pentru a pastra lumina naturala si senzatia de spatiu deschis. Oferim o gama completa de balustrade: de la modele cu profil inferior minim (S1) la sisteme complet frameless (S6 — tip point-fixed). Executam lucrari atat in Romania cat si in Europa.",
+      "features": [
+        { "title": "6 modele disponibile", "description": "S1, S2, S3, S3B, S4, S5, S6 — de la sisteme cu profil la complet frameless point-fixed." },
+        { "title": "Sticla VSG certificata", "description": "Sticla securizata si laminata conform EN 12600, EN 14179 si ETAG 002." },
+        { "title": "Prindere cu cleme inox", "description": "Cleme si console din inox 316L rezistente la coroziune, in special pentru exterior." },
+        { "title": "Montaj in masa sau pe structura", "description": "Adaptabil la beton, lemn, otel si orice tip de structura portanta." },
+        { "title": "Manere si profile personalizate", "description": "Elemente din aluminiu, inox sau lemn in functie de stilul arhitectural." },
+        { "title": "Executie in Romania si UE", "description": "14 ani experienta, lucrari finalizate in toata Romania si in Europa." }
+      ],
+      "specs": [
+        { "label": "Sticla", "value": "VSG 8.8 / 10.10mm" },
+        { "label": "Modele", "value": "S1 - S6" },
+        { "label": "Prindere", "value": "Cleme / Profile / Point-fixed" },
+        { "label": "Material prindere", "value": "Inox 316L / Aluminiu" },
+        { "label": "Inaltime balustrada", "value": "100-120cm" },
+        { "label": "Certificare", "value": "EN 12600 / ETAG 002" },
+        { "label": "Garantie", "value": "5 ani" },
+        { "label": "Termen montaj", "value": "21-30 zile" }
+      ],
+      "gallery": [
+        { "src": "/images/balustrada-sticla-balcon-1.jpeg", "alt": "Balustrada sticla balcon exterior" },
+        { "src": "/images/balustrada-sticla-scari-exterioare-1.jpeg", "alt": "Balustrada sticla scari exterioare" },
+        { "src": "/images/balustrada-sticla-scari-interior-2.jpeg", "alt": "Balustrada sticla scari interior inox" },
+        { "src": "/images/balustrada-sticla-scari-granit-1.jpeg", "alt": "Balustrada sticla scari granit negru" },
+        { "src": "/images/balustrada-sticla-scari-plutitoare-1.jpeg", "alt": "Balustrada sticla scari plutitoare duplex" },
+        { "src": "/images/fatada-rezidentiala-balustrade-1.jpeg", "alt": "Fatada vila cu balustrade sticla" }
+      ]
+    },
+    "pergole/bioclimatice": {
+      "slug": "pergole/bioclimatice",
+      "title": "Pergole Bioclimatice",
+      "subtitle": "Confort in aer liber, in orice anotimp",
+      "heroImage": "/images/proiect-cantina-terasa-exterioara/WhatsApp%20Image%202026-05-20%20at%2013.21.25.jpeg",
+      "heroBadge": "Pergole & Terase",
+      "intro": "Pergolele bioclimatice reunesc tehnologia moderna si un design de calitate.",
+      "description": "Potrivite pentru case si spatii comerciale (restaurante, terase), pergolele bioclimatice au lamele de aluminiu controlate electric prin telecomanda sau smartphone. Lamelele rotative se adapteaza la conditiile meteo: inchise complet pentru protectie la ploaie (etanseitate 100%), deschise pentru circulatie de aer sau partial rotite pentru filtrare solara.",
+      "features": [
+        { "title": "Lamele rotative motorizate", "description": "Control prin telecomanda, aplicatie smartphone sau senzori meteo automati." },
+        { "title": "Etanseitate 100%", "description": "Cand lamelele sunt inchise, pergola este complet impermeabila — nu trece nicio picatura de ploaie." },
+        { "title": "Rezistenta la zapada", "description": "Lamele testate cu incarcari de 2 metri zapada (300 kg/mp) — constructie robusta." },
+        { "title": "Ventilatie naturala", "description": "Lamele rotite partial permit circulatia aerului si racorire naturala a spatiului." },
+        { "title": "Iluminare integrata LED", "description": "Trei sisteme de iluminat disponibile: alb, relaxant si colorat — creaza atmosfera dorita." },
+        { "title": "Optiuni de inchidere laterala", "description": "Perdele zip, sticle glisante sau plase pentru protectie completa laterala." }
+      ],
+      "specs": [
+        { "label": "Material", "value": "Aluminiu extrudat" },
+        { "label": "Tip", "value": "Bioclimatic — lamele rotative" },
+        { "label": "Etanseitate", "value": "100% la ploaie" },
+        { "label": "Rezistenta zapada", "value": "300 kg/mp" },
+        { "label": "Comanda", "value": "Telecomanda / Smartphone" },
+        { "label": "Iluminare", "value": "LED integrat (optional)" },
+        { "label": "Garantie", "value": "3 ani" },
+        { "label": "Termen montaj", "value": "60 zile" }
+      ],
+      "gallery": [
+        { "src": "/images/proiect-cantina-terasa-exterioara/WhatsApp%20Image%202026-05-20%20at%2013.21.25.jpeg", "alt": "Terasa exterioara acoperita" },
+        { "src": "/images/proiect-cantina-terasa-exterioara/poza2.jpeg", "alt": "Pergola terasa cantina" },
+        { "src": "/images/proiect-cantina-terasa-exterioara/poza3.jpeg", "alt": "Sistem acoperire terasa" },
+        { "src": "/images/proiect-cantina-terasa-exterioara/poza4.jpeg", "alt": "Detaliu pergola exterioara" }
+      ]
+    },
+    "pergole/retractabile": {
+      "slug": "pergole/retractabile",
+      "title": "Pergole Retractabile",
+      "subtitle": "Flexibilitate totala pentru terase",
+      "heroImage": "/images/proiect-cantina-terasa-exterioara/WhatsApp%20Image%202026-05-20%20at%2013.21.25.jpeg",
+      "heroBadge": "Pergole & Terase",
+      "intro": "Pergolele retractabile ofera protectie solara cand ai nevoie si cer deschis cand vrei.",
+      "description": "Sistemele de acoperire retractabila pentru terase sunt ideale cand vrei flexibilitate maxima: protectie solara sau de ploaie la cerere, cu posibilitatea de a retrage complet structura pentru a te bucura de cerul liber. Disponibile cu panza rezistenta la UV si intemperii, cu actionare manuala sau motorizata.",
+      "features": [
+        { "title": "Acoperire completa sau partiala", "description": "Sistemele zip permit reglarea gradului de acoperire cu precizie centimetru cu centimetru." },
+        { "title": "Panza rezistenta la UV", "description": "Material tehnic cu protectie 95%+ fata de razele UV, care nu se decoloreaza in timp." },
+        { "title": "Motor Somfy sau Nice", "description": "Actionare silentioasa, cu limitatoare de cursa si optiuni de comanda radio." },
+        { "title": "Senzor de vant si ploaie", "description": "Retragere automata la detectarea vantului puternic, protejand structura si panza." },
+        { "title": "Iluminat integrat in structura", "description": "Banda LED sau spoturi integrate in caseta de rulare sau pe brate." },
+        { "title": "Culori si modele diverse", "description": "Sute de variante de panze si profile pentru a se potrivi oricarei arhitecturi." }
+      ],
+      "specs": [
+        { "label": "Material panza", "value": "Acryl / Poliester / Fibra sticla" },
+        { "label": "Protectie UV", "value": "95%+" },
+        { "label": "Actionare", "value": "Manuala / Motor" },
+        { "label": "Motor", "value": "Somfy / Nice" },
+        { "label": "Senzori", "value": "Vant / Ploaie / Lumina" },
+        { "label": "Deschidere max.", "value": "8m latime, 5m avansare" },
+        { "label": "Garantie", "value": "3 ani" },
+        { "label": "Termen montaj", "value": "30-45 zile" }
+      ],
+      "gallery": [
+        { "src": "/images/proiect-cantina-terasa-exterioara/poza5.jpeg", "alt": "Pergola retractabila terasa" },
+        { "src": "/images/proiect-cantina-terasa-exterioara/poza6.jpeg", "alt": "Acoperire retractabila" },
+        { "src": "/images/proiect-cantina-terasa-exterioara/poza7.jpeg", "alt": "Terasa deschisa pergola" },
+        { "src": "/images/proiect-cantina-terasa-exterioara/poza8.jpeg", "alt": "Detaliu mecanism retractabil" }
+      ]
+    }
+  },
+  "categories": {
+    "tamplarie-aluminiu": {
+      "slug": "tamplarie-aluminiu",
+      "title": "Tamplarie din Aluminiu",
+      "subtitle": "Precizie si eleganta la orice scara",
+      "heroImage": "/images/fatada-rezidentiala-balustrade-1.jpeg",
+      "intro": "Profile europene de top, sisteme personalizate pentru orice proiect",
+      "description": "Gama noastra de tamplarie din aluminiu foloseste profile Reynaers si Alumil, recunoscute ca referinte in industria europeana. De la ferestre minimaliste la sisteme glisante panoramice si usi de intrare impresionante, solutiile noastre din aluminiu se adapteaza oricarui stil arhitectural.",
+      "products": [
+        { "title": "Usi si Ferestre", "href": "/tamplarie-aluminiu/usi-ferestre", "image": "/images/fatada-rezidentiala-balustrade-1.jpeg", "short": "Profile Reynaers / Alumil, tripan 52mm, garantie 5 ani", "tags": ["Batant", "Oscilant", "Tripan"] },
+        { "title": "Usi Glisante", "href": "/tamplarie-aluminiu/usi-glisante", "image": "/images/balustrada-sticla-balcon-1.jpeg", "short": "Lift-slide pana la 12m, protectie solara integrata", "tags": ["Lift-Slide", "Panoramic", "Fara prag"] },
+        { "title": "Usi Armonice", "href": "/tamplarie-aluminiu/usi-armonice", "image": "/images/balustrada-sticla-scari-plutitoare-1.jpeg", "short": "Pliant-armonic, deschidere completa, interior/exterior", "tags": ["Armonic", "Comercial", "Rezidential"] },
+        { "title": "Usi de Intrare", "href": "/tamplarie-aluminiu/usi-intrare", "image": "/images/fatada-rezidentiala-balustrade-2.jpeg", "short": "Pivot, batant, control acces, securitate RC3", "tags": ["Pivot", "RC3", "Control acces"] }
+      ]
+    },
+    "fatade-ventilate": {
+      "slug": "fatade-ventilate",
+      "title": "Fatade Ventilate",
+      "subtitle": "Eficienta energetica si estetica moderna",
+      "heroImage": "/images/fatata-ventilata-placare-bond/WhatsApp%20Image%202026-05-20%20at%2020.19.46.jpeg",
+      "intro": "Sisteme de fatade ventilate certificate pentru orice cladire",
+      "description": "Oferim trei sisteme principale de fatade ventilate — Bond, Fibrociment si HPL — fiecare cu caracteristici estetice si tehnice distincte. Toate sistemele includ proiectare, avize, livrare si montaj.",
+      "products": [
+        { "title": "Bond", "href": "/fatade-ventilate/bond", "image": "/images/fatata-ventilata-placare-bond/WhatsApp%20Image%202026-05-20%20at%2020.19.46.jpeg", "short": "Compozit aluminiu, 4kg/m², forme complexe", "tags": ["Compozit", "Usor", "PVDF"] },
+        { "title": "Fibrociment", "href": "/fatade-ventilate/fibrociment", "image": "/images/balustrada-sticla-scari-interior-3.jpeg", "short": "Durabilitate 50+ ani, incombustibil, textura naturala", "tags": ["A2", "Natural", "Durabil"] },
+        { "title": "HPL", "href": "/fatade-ventilate/hpl", "image": "/images/balustrada-sticla-scari-exterioare-1.jpeg", "short": "High Pressure Laminate, 500+ finisaje, rezistent UV", "tags": ["HPL", "UV Stabil", "500+ culori"] }
+      ]
+    },
+    "tamplarie-pvc": {
+      "slug": "tamplarie-pvc",
+      "title": "Tamplarie PVC",
+      "subtitle": "Izolatie superioara, confort garantat",
+      "heroImage": "/images/balustrada-sticla-scari-interior-3.jpeg",
+      "intro": "Profile PVC de calitate germana cu performante de top",
+      "description": "Sistemele noastre PVC includ profile Salamander bluEVOLUTION 92 cu 7 camere, rulouri exterioare motorizate si plase pentru insecte — tot ce ai nevoie pentru o fereastra completa si eficienta.",
+      "products": [
+        { "title": "Tamplarie Salamander", "href": "/tamplarie-pvc/salamander", "image": "/images/balustrada-sticla-scari-interior-3.jpeg", "short": "bluEVOLUTION 92, 7 camere, Uw 0.79, Passive House", "tags": ["7 camere", "Passive House", "German"] },
+        { "title": "Rulouri Exterioare", "href": "/tamplarie-pvc/rulouri-exterioare", "image": "/images/fatada-rezidentiala-balustrade-2.jpeg", "short": "Motorizate Somfy, reducere 75% caldura solara", "tags": ["Motorizat", "Solar", "Smart"] },
+        { "title": "Plase Insecte", "href": "/tamplarie-pvc/plase-insecte", "image": "/images/balustrada-sticla-scari-exterioare-1.jpeg", "short": "Fix, rulou, plise — solutie pentru orice fereastra", "tags": ["Fix", "Rulou", "Plise"] }
+      ]
+    },
+    "sticla-securizata": {
+      "slug": "sticla-securizata",
+      "title": "Sticla Securizata",
+      "subtitle": "Siguranta si transparenta fara compromis",
+      "heroImage": "/images/balustrada-sticla-balcon-1.jpeg",
+      "intro": "Sisteme din sticla securizata pentru orice aplicatie interioara si exterioara",
+      "description": "De la balcoane si terase la compartimentari de birouri si fatade de magazine, sistemele noastre din sticla securizata sunt certificate si montate de echipe specializate cu 15 ani de experienta.",
+      "products": [
+        { "title": "Balcoane si Terase", "href": "/sticla-securizata/balcoane-terase", "image": "/images/inchideri-sticla-pliabila/WhatsApp%20Image%202026-05-20%20at%2013.19.18.jpeg", "short": "Sistem Valedo, fara profile verticale, 10mm VSG", "tags": ["Valedo", "Fara profile", "10mm"] },
+        { "title": "Usi Batante", "href": "/sticla-securizata/usi-batante", "image": "/images/paravane-sticla-baie/WhatsApp%20Image%202026-05-20%20at%2013.17.32.jpeg", "short": "Frameless, VSG 10mm, balamale ascunse", "tags": ["Frameless", "VSG", "Premium"] },
+        { "title": "Usi Glisante", "href": "/sticla-securizata/usi-glisante", "image": "/images/inchideri-sticla-pliabila/poza2.jpeg", "short": "Suspendate, soft-close, profil 18mm", "tags": ["Suspendat", "Soft-close", "Minim"] },
+        { "title": "Compartimentari Birouri", "href": "/sticla-securizata/compartimentari-birouri", "image": "/images/partitie-sticla-salon/WhatsApp%20Image%202026-05-20%20at%2013.18.08.jpeg", "short": "Frameless sau profil, 35-45dB izolare fonica", "tags": ["Frameless", "Birou", "Fono"] },
+        { "title": "Copertine Sticla", "href": "/sticla-securizata/copertine-sticla", "image": "/images/balustrada-sticla-scari-plutitoare-1.jpeg", "short": "Cabluri inox, SGP, sarcini calculate structural", "tags": ["Structural", "Cabluri", "Inox"] },
+        { "title": "Fatade Magazin", "href": "/sticla-securizata/fatade-magazin", "image": "/images/balustrada-sticla-balcon-1.jpeg", "short": "Frameless, usi automate, serigrafie brand", "tags": ["Comercial", "Automat", "Brand"] }
+      ]
+    },
+    "balustrade": {
+      "slug": "balustrade",
+      "title": "Balustrade",
+      "subtitle": "Siguranta cu caracter",
+      "heroImage": "/images/balustrada-sticla-balcon-1.jpeg",
+      "intro": "Sisteme de balustrade certificate pentru balcoane, scari si terase",
+      "description": "Gama noastra de balustrade din sticla este testata si certificata conform standardelor europene. Executam lucrari in toata Romania si in Europa, cu garantie 5 ani.",
+      "products": [
+        { "title": "Balustrade Sticla", "href": "/balustrade/balustrade-sticla", "image": "/images/balustrada-sticla-balcon-1.jpeg", "short": "6 modele S1-S6, VSG 8.8-10.10mm, inox 316L", "tags": ["S1-S6", "Certificat", "Inox"] }
+      ]
+    },
+    "pergole": {
+      "slug": "pergole",
+      "title": "Pergole & Terase",
+      "subtitle": "Extinde-ti spatiul in aer liber",
+      "heroImage": "/images/proiect-cantina-terasa-exterioara/WhatsApp%20Image%202026-05-20%20at%2013.21.25.jpeg",
+      "intro": "Pergole bioclimatice si retractabile pentru case si spatii comerciale",
+      "description": "Sistemele noastre de pergole transforma terasele si gradinile in spatii confortabile pe tot parcursul anului, cu protectie la ploaie, soare si vant.",
+      "products": [
+        { "title": "Pergole Bioclimatice", "href": "/pergole/bioclimatice", "image": "/images/proiect-cantina-terasa-exterioara/WhatsApp%20Image%202026-05-20%20at%2013.21.25.jpeg", "short": "Lamele rotative, etanse 100%, rezistente 300kg/mp zapada", "tags": ["Bioclimatic", "100% etans", "Smart"] },
+        { "title": "Pergole Retractabile", "href": "/pergole/retractabile", "image": "/images/proiect-cantina-terasa-exterioara/poza2.jpeg", "short": "Motor Somfy, panza UV 95%, senzori vant/ploaie", "tags": ["Retractabil", "Somfy", "UV 95%"] }
+      ]
+    }
+  }
+}

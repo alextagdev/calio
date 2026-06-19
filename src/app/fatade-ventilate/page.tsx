@@ -1,14 +1,17 @@
 import { Metadata } from "next";
 import CategoryPageTemplate from "@/components/templates/CategoryPageTemplate";
-import { categories } from "@/data/pages";
+import { getCategory } from "@/data/pages";
 
-export const metadata: Metadata = { title: "Fațade Ventilate" };
+export const metadata: Metadata = { title: "Fatade Ventilate" };
 
-export default function Page() {
+export default async function Page() {
+  const data = getCategory("fatade-ventilate");
+  if (!data) return <div>Page not found</div>;
+
   return (
     <CategoryPageTemplate
-      data={categories["fatade-ventilate"]}
-      breadcrumbs={[{ label: "Fațade Ventilate" }]}
+      data={data}
+      breadcrumbs={[{ label: "Fatade Ventilate" }]}
     />
   );
 }

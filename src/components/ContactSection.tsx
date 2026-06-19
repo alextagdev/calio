@@ -7,7 +7,7 @@ import { Phone, Mail, MapPin, Send, CheckCircle2 } from "lucide-react";
 const contactInfo = [
   { icon: Phone, label: "Telefon", value: "+40 721 000 000", href: "tel:+40721000000" },
   { icon: Mail, label: "Email", value: "contact@calio.ro", href: "mailto:contact@calio.ro" },
-  { icon: MapPin, label: "Adresă", value: "Șos. Fabrica de Glucoză 5, București", href: "#" },
+  { icon: MapPin, label: "Adresa", value: "Sos. Fabrica de Glucoza 5, Bucuresti", href: "#" },
 ];
 
 export default function ContactSection() {
@@ -34,12 +34,12 @@ export default function ContactSection() {
           >
             <span className="eyebrow">Contact</span>
             <h2 className="text-4xl md:text-[3.25rem] font-extralight text-[#f0f0f0] leading-[1.1] mb-5">
-              Începem{" "}
-              <span className="text-gradient">proiectul tău</span>
+              Incepem{" "}
+              <span className="text-gradient">proiectul tau</span>
             </h2>
             <p className="text-[#5a5a5a] text-sm leading-relaxed mb-12">
-              Echipa noastră de consultanți este disponibilă pentru a vă ghida în alegerea
-              soluției optime pentru proiectul dumneavoastră.
+              Echipa noastra este disponibila sa va ajute sa gasiti solutia potrivita
+              pentru proiectul dumneavoastra.
             </p>
 
             {/* Contact details */}
@@ -57,16 +57,23 @@ export default function ContactSection() {
               ))}
             </div>
 
-            {/* Map */}
-            <div className="relative h-44 border border-[#1e1e1e] overflow-hidden">
+            {/* Map / Location teaser — dark overlay matching site theme (deep charcoal + subtle gold accent).
+               The project photo is heavily desaturated via low opacity + strong dark overlay to avoid bright white/green. */}
+            <div className="relative h-44 border border-[#1e1e1e] overflow-hidden bg-[#0a0a0a]">
+              {/* Very subtle project image as texture only */}
               <div
-                className="absolute inset-0 bg-cover bg-center opacity-25"
+                className="absolute inset-0 bg-cover bg-center opacity-[0.12]"
                 style={{ backgroundImage: `url("/images/balustrada-sticla-scari-interior-2.jpeg")` }}
               />
-              <div className="absolute inset-0 bg-[#0d0d0d]/60" />
-              <div className="absolute inset-0 flex items-center justify-center">
-                <span className="text-[11px] tracking-[0.3em] uppercase text-[#555]">
-                  București, România
+              {/* Main dark overlay — closest to site background (#0a0a0a / #0d0d0d) */}
+              <div className="absolute inset-0 bg-[#0a0a0a]/90" />
+              {/* Very subtle gold wash to tie into site accent (#c8a96e) */}
+              <div className="absolute inset-0 bg-[#c8a96e]/[0.015]" />
+
+              <div className="absolute inset-0 flex flex-col items-center justify-center gap-1.5">
+                <MapPin size={15} className="text-[#c8a96e]" />
+                <span className="text-[11px] tracking-[0.3em] uppercase text-[#666]">
+                  Bucuresti, Romania
                 </span>
               </div>
             </div>
@@ -88,7 +95,7 @@ export default function ContactSection() {
                 <CheckCircle2 size={48} className="text-[#c8a96e] mb-6" strokeWidth={1} />
                 <h3 className="text-2xl font-light text-[#f0f0f0] mb-3">Mesaj trimis!</h3>
                 <p className="text-[#555] text-sm max-w-xs">
-                  Vă vom contacta în cel mai scurt timp posibil cu o ofertă personalizată.
+                  Va vom contacta in cel mai scurt timp cu o oferta personalizata.
                 </p>
               </motion.div>
             ) : (
@@ -97,7 +104,7 @@ export default function ContactSection() {
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
                   <div>
                     <label className="text-[10px] tracking-[0.28em] uppercase text-[#444] block mb-2">
-                      Nume complet <span className="text-[#c8a96e]">*</span>
+                      Nume <span className="text-[#c8a96e]">*</span>
                     </label>
                     <input
                       type="text"
@@ -138,12 +145,12 @@ export default function ContactSection() {
                     Tip produs
                   </label>
                   <select className="field pr-10 cursor-pointer" defaultValue="">
-                    <option value="" disabled>Selectează un sistem</option>
+                    <option value="" disabled>Selecteaza un sistem</option>
                     <option>Ferestre aluminiu</option>
-                    <option>Uși glisante</option>
+                    <option>Usi glisante</option>
                     <option>Sisteme PVC</option>
-                    <option>Fațadă cortină</option>
-                    <option>Balustrade sticlă</option>
+                    <option>Fatada cortina</option>
+                    <option>Balustrade sticla</option>
                     <option>Altele</option>
                   </select>
                   {/* Custom arrow */}
@@ -161,7 +168,7 @@ export default function ContactSection() {
                   </label>
                   <textarea
                     rows={5}
-                    placeholder="Descrieți pe scurt proiectul dumneavoastră (suprafață, etaj, cerințe speciale)..."
+                    placeholder="Descrieti pe scurt proiectul (suprafata, etaj, cerinte speciale)..."
                     className="field"
                   />
                 </div>
@@ -173,7 +180,7 @@ export default function ContactSection() {
                 </button>
 
                 <p className="text-[10px] text-[#3a3a3a] text-center leading-relaxed">
-                  Datele sunt protejate conform GDPR. Nu le transmitem către terți.
+                  Datele sunt protejate conform GDPR. Nu le transmitem catre terti.
                 </p>
               </form>
             )}

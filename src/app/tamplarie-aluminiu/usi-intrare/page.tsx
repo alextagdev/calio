@@ -1,16 +1,19 @@
 import { Metadata } from "next";
 import ProductPageTemplate from "@/components/templates/ProductPageTemplate";
-import { pages } from "@/data/pages";
+import { getPage } from "@/data/pages";
 
-export const metadata: Metadata = { title: "Uși de Intrare Aluminiu" };
+export const metadata: Metadata = { title: "Usi de Intrare Aluminiu" };
 
-export default function Page() {
+export default async function Page() {
+  const data = getPage("tamplarie-aluminiu/usi-intrare");
+  if (!data) return <div>Page not found</div>;
+
   return (
     <ProductPageTemplate
-      data={pages["tamplarie-aluminiu/usi-intrare"]}
+      data={data}
       breadcrumbs={[
-        { label: "Tâmplărie Aluminiu", href: "/tamplarie-aluminiu" },
-        { label: "Uși de Intrare" },
+        { label: "Tamplarie Aluminiu", href: "/tamplarie-aluminiu" },
+        { label: "Usi de Intrare" },
       ]}
     />
   );

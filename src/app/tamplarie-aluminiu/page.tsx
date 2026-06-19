@@ -1,14 +1,17 @@
 import { Metadata } from "next";
 import CategoryPageTemplate from "@/components/templates/CategoryPageTemplate";
-import { categories } from "@/data/pages";
+import { getCategory } from "@/data/pages";
 
-export const metadata: Metadata = { title: "Tâmplărie Aluminiu" };
+export const metadata: Metadata = { title: "Tamplarie Aluminiu" };
 
-export default function Page() {
+export default async function Page() {
+  const data = getCategory("tamplarie-aluminiu");
+  if (!data) return <div>Page not found</div>;
+
   return (
     <CategoryPageTemplate
-      data={categories["tamplarie-aluminiu"]}
-      breadcrumbs={[{ label: "Tâmplărie Aluminiu" }]}
+      data={data}
+      breadcrumbs={[{ label: "Tamplarie Aluminiu" }]}
     />
   );
 }

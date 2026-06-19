@@ -4,7 +4,12 @@ import { useState, useEffect, useRef } from "react";
 import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X, ChevronDown, Phone, Mail } from "lucide-react";
-import { navItems, utilityLinks } from "@/data/navigation";
+
+type NavItem = { label: string; href?: string; children?: { label: string; href: string; description?: string }[] };
+type UtilityLink = { label: string; href: string };
+
+const fallbackNav: NavItem[] = [];
+const fallbackUtil: UtilityLink[] = [];
 
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
@@ -12,6 +17,22 @@ export default function Navbar() {
   const [openDropdown, setOpenDropdown] = useState<string | null>(null);
   const [mobileExpanded, setMobileExpanded] = useState<string | null>(null);
   const timeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  const [navItems, setNavItems] = useState<NavItem[]>(fallbackNav);
+  const [utilityLinks, setUtilityLinks] = useState<UtilityLink[]>(fallbackUtil);
+
+  useEffect(() => {
+    // Load live navigation (supports admin drag-drop updates without rebuild)
+    fetch('/api/navigation')
+      .then((r) => r.json())
+      .then((d) => {
+        if (d?.navItems) setNavItems(d.navItems);
+        if (d?.utilityLinks) setUtilityLinks(d.utilityLinks);
+      })
+      .catch(() => {
+        /* keep fallbacks */
+      });
+  }, []);
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 80);
@@ -40,11 +61,11 @@ export default function Navbar() {
           {/* Left — contact info */}
           <div className="hidden md:flex items-center gap-5">
             <a
-              href="tel:+40721000000"
+              href="tel:+40753406419"
               className="flex items-center gap-1.5 text-[10px] tracking-[0.15em] text-[#4a4a4a] hover:text-[#c8a96e] transition-colors"
             >
               <Phone size={10} />
-              +40 721 000 000
+              +40 753 406 419
             </a>
             <span className="w-px h-3 bg-[#222]" />
             <a
@@ -74,7 +95,7 @@ export default function Navbar() {
               href="/contact"
               className="text-[10px] tracking-[0.2em] uppercase text-[#c8a96e] hover:text-[#e8d5a3] transition-colors duration-200 py-1"
             >
-              Solicită Ofertă →
+              Solicita Oferta →
             </Link>
           </div>
         </div>
@@ -179,7 +200,7 @@ export default function Navbar() {
               scrolled ? "opacity-100 translate-x-0" : "opacity-0 pointer-events-none translate-x-2"
             }`}
           >
-            Solicită Ofertă
+            Solicita Oferta
           </Link>
 
           {/* Mobile hamburger */}
@@ -283,8 +304,8 @@ export default function Navbar() {
 
               {/* Contact info */}
               <div className="py-4 flex flex-col gap-3 border-b border-[#141414]">
-                <a href="tel:+40721000000" className="flex items-center gap-2 text-[12px] text-[#444] hover:text-[#c8a96e] transition-colors">
-                  <Phone size={12} /> +40 721 000 000
+                <a href="tel:+40753406419" className="flex items-center gap-2 text-[12px] text-[#444] hover:text-[#c8a96e] transition-colors">
+                  <Phone size={12} /> +40 753 406 419
                 </a>
                 <a href="mailto:contact@calio.ro" className="flex items-center gap-2 text-[12px] text-[#444] hover:text-[#c8a96e] transition-colors">
                   <Mail size={12} /> contact@calio.ro
@@ -297,7 +318,7 @@ export default function Navbar() {
                   className="btn btn-gold-outline w-full justify-center"
                   onClick={() => setMenuOpen(false)}
                 >
-                  Solicită Ofertă
+                  Solicita Oferta
                 </Link>
               </div>
             </div>
