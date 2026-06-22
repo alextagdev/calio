@@ -197,9 +197,106 @@ const projects = [
     tags: ["Perete cortina", "Sticla", "Terasa"],
     description: "Sistem perete cortina cu sticla pentru terasa comerciala, prindere punctuala si structura metalica vizibila.",
   },
+  {
+    id: 13,
+    title: "Usi glisante aluminiu",
+    category: "Tamplarie aluminiu",
+    location: "Bucuresti",
+    year: "2026",
+    images: [
+      "/images/tamplarie-aluminiu-usi-glisante.jpeg",
+      "/images/usi-glisant22.jpeg",
+    ],
+    tags: ["Usi glisante", "Aluminiu", "Floor-to-ceiling"],
+    description: "Sistem de usi glisante din aluminiu cu ridicare, vitrare panoramica floor-to-ceiling, profil slim negru mat.",
+  },
+  {
+    id: 14,
+    title: "Usi armonice aluminiu",
+    category: "Tamplarie aluminiu",
+    location: "Ilfov",
+    year: "2026",
+    images: [
+      "/images/geamuri-armonice.jpeg",
+    ],
+    tags: ["Usi armonice", "Aluminiu", "Pliabil"],
+    description: "Sistem pliant-armonic din aluminiu pentru deschidere totala intre spatiul interior si terasa.",
+  },
+  {
+    id: 15,
+    title: "Fatada magazin sticla securizata",
+    category: "Sticla securizata",
+    location: "Bucuresti",
+    year: "2026",
+    images: [
+      "/images/fatada-magazin.jpeg",
+    ],
+    tags: ["Fatada magazin", "Sticla securizata", "Comercial"],
+    description: "Vitrina comerciala din sticla securizata cu profil negru mat, vizibilitate maxima si impact vizual puternic.",
+  },
+  {
+    id: 16,
+    title: "Usi glisante sticla securizata",
+    category: "Sticla securizata",
+    location: "Bucuresti",
+    year: "2026",
+    images: [
+      "/images/usi-glisante33.jpeg",
+    ],
+    tags: ["Usi glisante", "Sticla", "Fara profil vizibil"],
+    description: "Sistem de usi glisante din sticla securizata fara profil vertical vizibil, pentru spatii moderne si luminoase.",
+  },
+  {
+    id: 17,
+    title: "Fatada ventilata placare composit",
+    category: "Fatade ventilate",
+    location: "Bucuresti",
+    year: "2026",
+    images: [
+      "/images/fatada-ventilata.jpeg",
+    ],
+    tags: ["Fatada ventilata", "Placare exterioara", "Termoizolatie"],
+    description: "Sistem de fatada ventilata cu placare composit, structura de sustinere din aluminiu si finisaj premium.",
+  },
+  {
+    id: 18,
+    title: "Perete cortina rezidential",
+    category: "Pereti cortina",
+    location: "Ilfov",
+    year: "2026",
+    images: [
+      "/images/prete-cortina.jpeg",
+    ],
+    tags: ["Perete cortina", "Rezidential", "Sticla"],
+    description: "Perete cortina din aluminiu si sticla pentru fatada unui imobil rezidential, vitrare completa pe mai multe niveluri.",
+  },
+  {
+    id: 19,
+    title: "Pergola cu terasa amenajata",
+    category: "Pergole & Terase",
+    location: "Ilfov",
+    year: "2026",
+    images: [
+      "/images/pergole-si-terase.jpeg",
+    ],
+    tags: ["Pergola", "Terasa", "Exterior"],
+    description: "Pergola bioclimatica cu lamele reglabile pentru terasa exterioara, protectie solara si integrare estetica cu fatada.",
+  },
+  {
+    id: 20,
+    title: "Balustrada sticla cu prindere punctuala",
+    category: "Balustrade",
+    location: "Bucuresti",
+    year: "2026",
+    images: [
+      "/images/balustrada.jpeg",
+    ],
+    tags: ["Balustrade sticla", "Prindere punctuala", "Inox"],
+    description: "Balustrada din sticla laminata securizata cu sistem de prindere punctuala din inox, aspect transparent si elegant.",
+  },
 ];
 
-const categories = ["Toate", "Balustrade", "Fatade ventilate", "Sticla securizata", "Pereti cortina", "Pergole & Terase"];
+const categories = ["Toate", "Balustrade", "Tamplarie aluminiu", "Fatade ventilate", "Sticla securizata", "Pereti cortina", "Pergole & Terase"];
 
 function ProjectCard({
   project,
