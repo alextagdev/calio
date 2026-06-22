@@ -16,7 +16,7 @@ const systems = [
       { label: "Permeabilitate aer", value: "Clasa 4" },
       { label: "Etanseitate apa", value: "Clasa 9A" },
     ],
-    image: "/images/fatada-rezidentiala-balustrade-1.jpeg",
+    image: "/images/tamplarie-aluminiu-usi-glisante.jpeg",
     color: "#c8a96e",
   },
   {
@@ -31,7 +31,7 @@ const systems = [
       { label: "Factor solar", value: "g = 0.26" },
       { label: "Transmisie lum.", value: "TL = 72%" },
     ],
-    image: "/images/balustrada-sticla-balcon-1.jpeg",
+    image: "/images/sticla-securizata.jpeg",
     color: "#8fb8d4",
   },
   {
@@ -46,7 +46,7 @@ const systems = [
       { label: "Izolare fonica", value: "45 dB" },
       { label: "Certificare", value: "Passive House" },
     ],
-    image: "/images/balustrada-sticla-scari-interior-3.jpeg",
+    image: "/images/tamplarie-pcv.jpeg",
     color: "#7ab87a",
   },
 ];

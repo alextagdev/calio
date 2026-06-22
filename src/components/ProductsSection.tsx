@@ -11,7 +11,7 @@ const products = [
     name: "Ferestre minimale",
     description:
       "Profile ultra-subtiri din aluminiu cu izolare termica superioara. Rama de maximum 18mm pentru un aspect pur si luminos.",
-    image: "/images/fatada-rezidentiala-balustrade-1.jpeg",
+    image: "/images/tamplarie-aluminiu-usi-glisante.jpeg",
     features: ["Profil 18mm", "Tripan Low-E", "Uf = 0.8 W/m²K"],
     accent: "#c8a96e",
   },
@@ -21,7 +21,7 @@ const products = [
     name: "Usi glisante floor-to-ceiling",
     description:
       "Sisteme glisante panoramice fara prag. Imbinare perfecta intre spatiile interioare si exterioare.",
-    image: "/images/balustrada-sticla-balcon-1.jpeg",
+    image: "/images/usi-glisante33.jpeg",
     features: ["Fara prag", "Deschidere 6m+", "Sticla securizata"],
     accent: "#8fb8d4",
   },
@@ -31,7 +31,7 @@ const products = [
     name: "Ferestre PVC premium",
     description:
       "Sisteme PVC cu 7 camere pentru izolatie termica si fonica maxima. Ideal pentru cladiri rezidentiale.",
-    image: "/images/balustrada-sticla-scari-interior-3.jpeg",
+    image: "/images/tamplarie-pcv.jpeg",
     features: ["7 camere", "Uw = 0.7 W/m²K", "Fonie 45dB"],
     accent: "#7ab87a",
   },
@@ -41,7 +41,7 @@ const products = [
     name: "Fatada cortina",
     description:
       "Sisteme de fatada unitizata pentru cladiri comerciale si rezidentiale de inalta clasa.",
-    image: "/images/balustrada-sticla-scari-plutitoare-1.jpeg",
+    image: "/images/prete-cortina.jpeg",
     features: ["Unitizata", "Structural glazing", "Certificare CE"],
     accent: "#c8a96e",
   },
@@ -51,18 +51,18 @@ const products = [
     name: "Balustrade din sticla",
     description:
       "Balustrade din sticla laminata securizata pentru balcoane, scari interioare si terase.",
-    image: "/images/balustrada-sticla-scari-exterioare-1.jpeg",
+    image: "/images/balustrada.jpeg",
     features: ["VSG 8.8", "Fara montant", "Interior/Exterior"],
     accent: "#8fb8d4",
   },
   {
     id: 6,
     category: "Aluminiu",
-    name: "Usi pivotante",
+    name: "Usi armonice",
     description:
-      "Usi de intrare cu sistem pivot pentru o intrare spectaculoasa. Dimensiuni pana la 1.2m x 3m.",
-    image: "/images/fatada-rezidentiala-balustrade-2.jpeg",
-    features: ["Pivot central", "pana la 3m inaltime", "Control acces"],
+      "Sisteme pliant-armonice din aluminiu pentru deschideri largi. Conexiune perfecta intre interior si exterior.",
+    image: "/images/geamuri-armonice.jpeg",
+    features: ["Pliant-armonic", "Deschidere totala", "Profil slim"],
     accent: "#7ab87a",
   },
 ];

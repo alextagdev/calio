@@ -14,7 +14,7 @@ export default function Home() {
       <HeroSlider />
       <ProductsSection />
       <ParallaxBanner
-        image="/images/balustrada-sticla-scari-interior-3.jpeg"
+        image="/images/fatada-ventilata.jpeg"
         subtitle="Performanta certificata"
         title="Tehnologie europeana,\nconstruita in Romania"
         ctaText="Sisteme disponibile"
@@ -23,7 +23,7 @@ export default function Home() {
       <SystemsSection />
       <StatsSection />
       <ParallaxBanner
-        image="/images/balustrada-sticla-scari-plutitoare-1.jpeg"
+        image="/images/prete-cortina.jpeg"
         subtitle="Portofoliu"
         title="Proiecte care definesc\narhitectura moderna"
         ctaText="Exploreaza proiectele"
