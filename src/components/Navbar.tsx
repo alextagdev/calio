@@ -61,11 +61,11 @@ export default function Navbar() {
           {/* Left — contact info */}
           <div className="hidden md:flex items-center gap-5">
             <a
-              href="tel:+40753406419"
+              href="tel:+40736697341"
               className="flex items-center gap-1.5 text-[10px] tracking-[0.15em] text-[#4a4a4a] hover:text-[#c8a96e] transition-colors"
             >
               <Phone size={10} />
-              +40 753 406 419
+              +40 736 697 341
             </a>
             <span className="w-px h-3 bg-[#222]" />
             <a
@@ -304,8 +304,8 @@ export default function Navbar() {
 
               {/* Contact info */}
               <div className="py-4 flex flex-col gap-3 border-b border-[#141414]">
-                <a href="tel:+40753406419" className="flex items-center gap-2 text-[12px] text-[#444] hover:text-[#c8a96e] transition-colors">
-                  <Phone size={12} /> +40 753 406 419
+                <a href="tel:+40736697341" className="flex items-center gap-2 text-[12px] text-[#444] hover:text-[#c8a96e] transition-colors">
+                  <Phone size={12} /> +40 736 697 341
                 </a>
                 <a href="mailto:contact@calio.ro" className="flex items-center gap-2 text-[12px] text-[#444] hover:text-[#c8a96e] transition-colors">
                   <Mail size={12} /> contact@calio.ro

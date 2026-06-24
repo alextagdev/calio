@@ -5,7 +5,7 @@ import { motion, useInView } from "framer-motion";
 import { Phone, Mail, MapPin, Send, CheckCircle2 } from "lucide-react";
 
 const contactInfo = [
-  { icon: Phone, label: "Telefon", value: "+40 721 000 000", href: "tel:+40721000000" },
+  { icon: Phone, label: "Telefon", value: "+40 736 697 341", href: "tel:+40736697341" },
   { icon: Mail, label: "Email", value: "contact@calio.ro", href: "mailto:contact@calio.ro" },
   { icon: MapPin, label: "Adresa", value: "Sos. Fabrica de Glucoza 5, Bucuresti", href: "#" },
 ];
