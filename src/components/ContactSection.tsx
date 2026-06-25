@@ -7,7 +7,7 @@ import { Phone, Mail, MapPin, Send, CheckCircle2 } from "lucide-react";
 const contactInfo = [
   { icon: Phone, label: "Telefon", value: "+40 736 697 341", href: "tel:+40736697341" },
   { icon: Mail, label: "Email", value: "contact@calio.ro", href: "mailto:contact@calio.ro" },
-  { icon: MapPin, label: "Adresa", value: "Sos. Fabrica de Glucoza 5, Bucuresti", href: "#" },
+  { icon: MapPin, label: "Adresa", value: "Bulevardul Nicolae Romanescu 86, 200738 Craiova, Romania", href: "https://maps.google.com/?q=Bulevardul+Nicolae+Romanescu+86,+200738+Craiova,+Romania" },
 ];
 
 export default function ContactSection() {
