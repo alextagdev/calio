@@ -16,7 +16,7 @@ export default function Home() {
       <ParallaxBanner
         image="/images/fatada-ventilata.jpeg"
         subtitle="Performanta certificata"
-        title="Tehnologie europeana,\nconstruita in Romania"
+        title="Tehnologie europeana, construita in Romania"
         ctaText="Sisteme disponibile"
         ctaHref="/tamplarie-aluminiu"
       />
@@ -25,7 +25,7 @@ export default function Home() {
       <ParallaxBanner
         image="/images/prete-cortina.jpeg"
         subtitle="Portofoliu"
-        title="Proiecte care definesc\narhitectura moderna"
+        title="Proiecte care definesc arhitectura moderna"
         ctaText="Exploreaza proiectele"
         ctaHref="/proiecte"
       />
